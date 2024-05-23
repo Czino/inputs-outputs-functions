@@ -1,0 +1,3 @@
+---
+aliases: Fire wood
+---
