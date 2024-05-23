@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "e5dc1b88aefd4e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3c599419122505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460fb4c3e41ed874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "3ed713f2d2208598"
+          }
+        ]
+      },
+      {
+        "id": "e8c4b19c285e73f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0eb8224699a4fd7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0627073611568028,
+                  "close": false
+                }
+              }
+            },
+            "group": "3ed713f2d2208598"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbfdd289141e73e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70f84f0de21520f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76014818a8abacd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "915a7e182a4a28fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "thermal mass",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "837a26bb7b9ece60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1694eea4a70ae89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "683ed84bbe9a0782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4809b5dad8bace4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12d93c774e53834e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1fb99f559f12f03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3791c9dc267df08c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "2a0f5291832406bc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "460fb4c3e41ed874",
+  "lastOpenFiles": [
+    "Local Graph View Example.png",
+    "README.md",
+    "Graph View Example.png",
+    "Sun.md",
+    "Human.md",
+    "LICENSE",
+    "inputs-outputs-functions/LICENSE",
+    "inputs-outputs-functions",
+    "Gleditsia triacanthos - Honey Locust.md",
+    "Tipuana Tipu.md",
+    "Medicago sativa.md",
+    "Attracting bees.md",
+    "Bees.md",
+    "Green manure.md",
+    "Honey.md",
+    "Swale.md",
+    "Rock.md",
+    "Mulch.md",
+    "Leaves.md",
+    "Robinia pseudoacacia.md",
+    "Wood stove.md",
+    "Wood.md",
+    "Cloud.md",
+    "Choose her everyday.md",
+    "Key metrics for edible plants to plant.md",
+    "Begin developing your design from the doorstep and extend outwards.md",
+    "Do not leave fallen fruit rotting on the ground.md",
+    "3. Planning - 5 steps of creating an ecological garden.md",
+    "Average annual rainfall on our land.md",
+    "How many square meters of rain run-off are needed to fill a pond.md",
+    "assets/Pasted image 20240516164217.png",
+    "assets/Pasted image 20240516163945.png",
+    "assets/Pasted image 20240516163852.png",
+    "assets/Pasted image 20240516163749.png",
+    "assets/Pasted image 20240516163556.png",
+    "assets/Pasted image 20240516163128.png",
+    "export/Web Accessibility/assets/Pasted image 20240516083752.png",
+    "export/Web Accessibility/assets/Pasted image 20240501095535.png",
+    "export/Web Accessibility/assets",
+    "export/Web Accessibility/plugin/chalkboard/_style.css",
+    "export/Web Accessibility/plugin/chalkboard/style.css",
+    "export/Web Accessibility/plugin/chalkboard/plugin.js",
+    "export/Web Accessibility/plugin/chalkboard/plugin (copy).js",
+    "export/Web Accessibility/plugin/chalkboard/img",
+    "export/Web Accessibility/plugin/chalkboard",
+    "Untitled.canvas"
+  ]
+}
