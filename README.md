@@ -10,8 +10,8 @@ The recommended way to use this repository is to open the folder with [Obsidian]
 
 This way you can open the Graph View. Which allows you to see all connections and also filter down to relevant sections.
 
-![[Graph View Example.png]]
+![Graph View Example](https://github.com/Czino/inputs-outputs-functions/blob/main/Graph%20View%20Example.png?raw=true)
 
 To see relevant connections of a specific element open the file and press `CMD+G`(Mac) or `CTRL+G` (Windows, Linux). This will open the Local Graph View.
 You can further explore connections by increasing the Depth level.
-![[Local Graph View Example.png]]
+![Local Graph View Example.png](https://github.com/Czino/inputs-outputs-functions/blob/main/Local%20Graph%20View%20Example.png?raw=true)
