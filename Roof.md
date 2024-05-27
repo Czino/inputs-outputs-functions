@@ -1,0 +1,2 @@
+## Outputs
+- [[Rain collection]]

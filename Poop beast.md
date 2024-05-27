@@ -1,0 +1,5 @@
+## Inputs
+- [[Poop]]
+
+## Output
+- [[Biomass]]

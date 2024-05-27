@@ -1,0 +1,4 @@
+## Outputs
+- [[Fertilizer]]
+- [[Water]]
+- [[Nitrogen]]

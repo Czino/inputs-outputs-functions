@@ -4,64 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3c599419122505",
+        "id": "7d9e7f543e3226f8",
         "type": "tabs",
         "children": [
           {
-            "id": "460fb4c3e41ed874",
+            "id": "adb7a8a620d02de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Roof.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "3ed713f2d2208598"
-          }
-        ]
-      },
-      {
-        "id": "e8c4b19c285e73f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0eb8224699a4fd7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0627073611568028,
-                  "close": false
-                }
-              }
-            },
-            "group": "3ed713f2d2208598"
+            }
           }
         ]
       }
@@ -92,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thermal mass",
+                "query": "func",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Roof.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Roof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Roof.md"
               }
             }
           },
@@ -201,38 +158,39 @@
       "random-note:Open random note": false
     }
   },
-  "active": "460fb4c3e41ed874",
+  "active": "adb7a8a620d02de2",
   "lastOpenFiles": [
-    "Local Graph View Example.png",
-    "README.md",
-    "Graph View Example.png",
-    "Sun.md",
+    "Roof.md",
+    "House.md",
+    "Urine.md",
     "Human.md",
+    "Lye.md",
+    "Poop beast.md",
+    "Plant.md",
+    "Hugelkultur.md",
+    "Honey.md",
+    "Pear.md",
+    "Leaves.md",
+    "Tree.md",
+    "Celtis conferta subsp. amblyphylla - Cottonwood.md",
+    "Robinia pseudoacacia - Black Locust.md",
+    "Pyrus communis - Pear tree.md",
+    "Medicago sativa - Alfalfa.md",
+    "Gleditsia triacanthos - Honey Locust.md",
+    "Tipuana Tipu - Tipa.md",
+    "Carbon dioxide.md",
+    "Candle.md",
+    "Bamboo.md",
+    "Poplar.md",
+    "Willow.md",
+    "Fire.md",
+    "Bees.md",
+    "Visible light.md",
+    "Local Graph View Example.png",
+    "Graph View Example.png",
     "LICENSE",
     "inputs-outputs-functions/LICENSE",
     "inputs-outputs-functions",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Tipuana Tipu.md",
-    "Medicago sativa.md",
-    "Attracting bees.md",
-    "Bees.md",
-    "Green manure.md",
-    "Honey.md",
-    "Swale.md",
-    "Rock.md",
-    "Mulch.md",
-    "Leaves.md",
-    "Robinia pseudoacacia.md",
-    "Wood stove.md",
-    "Wood.md",
-    "Cloud.md",
-    "Choose her everyday.md",
-    "Key metrics for edible plants to plant.md",
-    "Begin developing your design from the doorstep and extend outwards.md",
-    "Do not leave fallen fruit rotting on the ground.md",
-    "3. Planning - 5 steps of creating an ecological garden.md",
-    "Average annual rainfall on our land.md",
-    "How many square meters of rain run-off are needed to fill a pond.md",
     "assets/Pasted image 20240516164217.png",
     "assets/Pasted image 20240516163945.png",
     "assets/Pasted image 20240516163852.png",

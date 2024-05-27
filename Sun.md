@@ -6,3 +6,4 @@ none
 - [[Infrared light]]
 - [[UV-light]]
 - [[Heat]]
+- [[Clock]]

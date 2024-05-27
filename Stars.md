@@ -1,0 +1,5 @@
+## Inputs
+none
+
+## Outputs
+- [[Clock]]

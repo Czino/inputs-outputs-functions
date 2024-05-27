@@ -28,5 +28,6 @@ aliases:
 - [[VitaminK]]
 
 ## Functions
+- [[Plant]]
 - [[Attracting bees]]
 - [[Attracting insects]]
