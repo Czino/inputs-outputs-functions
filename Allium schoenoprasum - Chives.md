@@ -1,17 +1,14 @@
 ---
-aliases: Black locust
+aliases: Chives
 ---
 
 ## Inputs
-- [[Nitrogen]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Outputs
-- [[Nitrogen]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Functions
 - [[Nutrient accumulator]]
-- [[Tree]]

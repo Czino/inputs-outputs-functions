@@ -1,17 +1,16 @@
 ---
-aliases: Black locust
+aliases: German Chamomile
 ---
 
 ## Inputs
-- [[Nitrogen]]
+- [[Phosphorus]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Outputs
-- [[Nitrogen]]
+- [[Phosphorus]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Functions
 - [[Nutrient accumulator]]
-- [[Tree]]

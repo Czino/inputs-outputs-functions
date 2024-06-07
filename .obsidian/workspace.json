@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9e7f543e3226f8",
+        "id": "59403467d23277c3",
         "type": "tabs",
         "children": [
           {
-            "id": "adb7a8a620d02de2",
+            "id": "91d80f03b1728954",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roof.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "func",
+                "query": "\"[[\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roof.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roof.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,34 +149,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "adb7a8a620d02de2",
+  "active": "91d80f03b1728954",
   "lastOpenFiles": [
-    "Roof.md",
-    "House.md",
-    "Urine.md",
-    "Human.md",
-    "Lye.md",
-    "Poop beast.md",
-    "Plant.md",
-    "Hugelkultur.md",
-    "Honey.md",
-    "Pear.md",
-    "Leaves.md",
-    "Tree.md",
-    "Celtis conferta subsp. amblyphylla - Cottonwood.md",
-    "Robinia pseudoacacia - Black Locust.md",
-    "Pyrus communis - Pear tree.md",
-    "Medicago sativa - Alfalfa.md",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Tipuana Tipu - Tipa.md",
-    "Carbon dioxide.md",
-    "Candle.md",
-    "Bamboo.md",
-    "Poplar.md",
-    "Willow.md",
-    "Fire.md",
-    "Bees.md",
-    "Visible light.md",
+    "Achillea millefolium - Yarrow.md",
+    "Salix spp. - Willow.md",
+    "Nasturtium officinale - Watercress.md",
+    "Juglans spp. - Walnut.md",
+    "Vicia spp. - Vetch.md",
+    "Valeriana officinalis - Valerian.md",
+    "Nicotiana spp. - Tobacco.md",
+    "Linaria vulgaris - Toadflax.md",
+    "Salsola pestifer - Russian thistle.md",
+    "Carduus nutans - Nodding thistle.md",
+    "Sonchus arvensis - Creeping thistle.md",
+    "Cirsium arvense - Canada thistle.md",
+    "Tanacetum vulgare - Tansy.md",
+    "Fragaria spp. - Strawberry.md",
+    "Helianthus annuus - Sunflower.md",
+    "Sonchus arvensis - Sow thistle.md",
+    "Rumex acetosella - Sheep sorrel.md",
+    "Navarretia squanosa - Skunk cabbage.md",
+    "Potentilla anserina - Silverweed.md",
+    "Capsella bursa-pastoris - Shepherd's purse.md",
+    "Anagallis arvensis - Scarlet Pimpernel.md",
+    "Satureja spp. - Savory.md",
+    "Poterium sanguisorba - Salad burnet.md",
+    "Brassica napus - Rapeseed.md",
+    "Portulaca oleracea - Purslane.md",
+    "Oenothera biennis - Primrose.md",
     "Local Graph View Example.png",
     "Graph View Example.png",
     "LICENSE",

@@ -1,17 +1,18 @@
 ---
-aliases: Black locust
+aliases: Yarrow
 ---
 
 ## Inputs
 - [[Nitrogen]]
+- [[Phosphorus]]
 - [[Potassium]] 
-- [[Calcium]]
+- [[Copper]]
 
 ## Outputs
 - [[Nitrogen]]
+- [[Phosphorus]]
 - [[Potassium]] 
-- [[Calcium]]
+- [[Copper]]
 
 ## Functions
 - [[Nutrient accumulator]]
-- [[Tree]]
