@@ -1,8 +1,8 @@
 ---
-aliases: Elaeagnus
+aliases: Black raspberry
 ---
 ## Outputs
 - [[Poultry forage]]
+
 ## Functions
-- [[Tree]]
-- [[Nitrogen fixer]]
+- [[Shrub]]

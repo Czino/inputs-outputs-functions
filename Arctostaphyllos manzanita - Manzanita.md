@@ -1,8 +1,8 @@
 ---
-aliases: Elaeagnus
+aliases: Manzanita
 ---
 ## Outputs
 - [[Poultry forage]]
+
 ## Functions
-- [[Tree]]
-- [[Nitrogen fixer]]
+- [[Shrub]]

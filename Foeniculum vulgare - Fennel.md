@@ -9,6 +9,7 @@ aliases: Fennel
 ## Outputs
 - [[Nitrogen]] 
 - [[Phosphorus]]
+- [[Poultry forage]]
 
 ## Functions
 - [[Nutrient accumulator]]

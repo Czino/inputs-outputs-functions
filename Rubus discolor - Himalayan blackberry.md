@@ -1,8 +1,8 @@
 ---
-aliases: Elaeagnus
+aliases: Himalayan blackberry
 ---
 ## Outputs
 - [[Poultry forage]]
+
 ## Functions
-- [[Tree]]
-- [[Nitrogen fixer]]
+- [[Plant]]

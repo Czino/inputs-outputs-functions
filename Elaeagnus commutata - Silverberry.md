@@ -1,7 +1,8 @@
 ---
 aliases: Silverberry
 ---
-
+## Outputs
+- [[Poultry forage]]
 ## Functions
-- [[Plant]]
+- [[Shrub]]
 - [[Nitrogen fixer]]

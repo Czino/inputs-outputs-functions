@@ -18,6 +18,7 @@ aliases: Comfrey
 - [[Iron]] 
 - [[Silicon]]
 - [[Allantoin]]
+- [[Poultry forage]]
 
 ## Functions
 - [[Nutrient accumulator]]

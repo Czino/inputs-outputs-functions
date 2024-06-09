@@ -1,8 +1,8 @@
 ---
-aliases: Elaeagnus
+aliases: Red currant
 ---
 ## Outputs
 - [[Poultry forage]]
+
 ## Functions
-- [[Tree]]
-- [[Nitrogen fixer]]
+- [[Shrub]]

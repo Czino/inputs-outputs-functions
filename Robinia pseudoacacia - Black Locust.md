@@ -9,6 +9,7 @@ aliases: Black locust
 ## Outputs
 - [[Potassium]] 
 - [[Calcium]]
+- [[Poultry forage]]
 
 ## Functions
 - [[Nutrient accumulator]]

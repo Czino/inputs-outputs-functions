@@ -1,7 +1,8 @@
 ---
 aliases: Siberian pea shrub
 ---
-
+## Outputs
+- [[Poultry forage]]
 ## Functions
-- [[Plant]]
+- [[Shrub]]
 - [[Nitrogen fixer]]

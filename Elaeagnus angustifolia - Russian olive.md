@@ -1,7 +1,8 @@
 ---
 aliases: Russian olive
 ---
-
+## Outputs
+- [[Poultry forage]]
 ## Functions
-- [[Plant]]
+- [[Shrub]]
 - [[Nitrogen fixer]]

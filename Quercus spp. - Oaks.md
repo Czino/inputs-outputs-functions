@@ -7,6 +7,7 @@ aliases: Oaks
 
 ## Outputs
 - [[Potassium]]
+- [[Poultry forage]]
 
 ## Functions
 - [[Nutrient accumulator]]

@@ -11,6 +11,8 @@ aliases: Shagbark hickory
 - [[Phosphorus]]
 - [[Potassium]] 
 - [[Calcium]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Tree]]
 - [[Nutrient accumulator]]

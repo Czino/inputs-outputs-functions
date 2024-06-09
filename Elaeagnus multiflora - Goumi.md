@@ -1,7 +1,8 @@
 ---
 aliases: Goumi
 ---
-
+## Outputs
+- [[Poultry forage]]
 ## Functions
-- [[Plant]]
+- [[Tree]]
 - [[Nitrogen fixer]]

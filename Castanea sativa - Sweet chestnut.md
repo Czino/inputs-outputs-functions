@@ -1,8 +1,8 @@
 ---
-aliases: Elaeagnus
+aliases: Sweet chestnut
 ---
 ## Outputs
 - [[Poultry forage]]
+
 ## Functions
 - [[Tree]]
-- [[Nitrogen fixer]]
