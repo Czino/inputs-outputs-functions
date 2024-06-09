@@ -3,14 +3,12 @@ aliases: Vetch
 ---
 
 ## Inputs
-- [[Nitrogen]]
 - [[Phosphorus]]
 - [[Potassium]]
 - [[Copper]] 
 - [[Cobalt]]
 
 ## Outputs
-- [[Nitrogen]]
 - [[Phosphorus]]
 - [[Potassium]]
 - [[Copper]] 
@@ -18,3 +16,4 @@ aliases: Vetch
 
 ## Functions
 - [[Nutrient accumulator]]
+- [[Nitrogen fixer]]

@@ -31,3 +31,4 @@ aliases:
 - [[Plant]]
 - [[Attracting bees]]
 - [[Attracting insects]]
+- [[Nitrogen fixer]]

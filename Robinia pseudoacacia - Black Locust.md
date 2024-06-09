@@ -3,15 +3,14 @@ aliases: Black locust
 ---
 
 ## Inputs
-- [[Nitrogen]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Outputs
-- [[Nitrogen]]
 - [[Potassium]] 
 - [[Calcium]]
 
 ## Functions
 - [[Nutrient accumulator]]
+- [[Nitrogen fixer]]
 - [[Tree]]

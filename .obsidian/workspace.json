@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59403467d23277c3",
+        "id": "21f6f86a7ce448ac",
         "type": "tabs",
         "children": [
           {
-            "id": "91d80f03b1728954",
+            "id": "fcdb58d0c66b849d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"[[\"",
+                "query": "fix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1694eea4a70ae89f",
@@ -149,34 +148,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "91d80f03b1728954",
+  "active": "fcdb58d0c66b849d",
   "lastOpenFiles": [
-    "Achillea millefolium - Yarrow.md",
-    "Salix spp. - Willow.md",
-    "Nasturtium officinale - Watercress.md",
-    "Juglans spp. - Walnut.md",
+    "Wisteria spp. - Wisteria.md",
+    "Caenothus spp. - Wild lilac.md",
+    "Strophistyles umbellata - Wild Bean.md",
+    "Myrica cerifrea - Wax Myrtle.md",
     "Vicia spp. - Vetch.md",
-    "Valeriana officinalis - Valerian.md",
-    "Nicotiana spp. - Tobacco.md",
-    "Linaria vulgaris - Toadflax.md",
-    "Salsola pestifer - Russian thistle.md",
-    "Carduus nutans - Nodding thistle.md",
-    "Sonchus arvensis - Creeping thistle.md",
-    "Cirsium arvense - Canada thistle.md",
-    "Tanacetum vulgare - Tansy.md",
-    "Fragaria spp. - Strawberry.md",
-    "Helianthus annuus - Sunflower.md",
-    "Sonchus arvensis - Sow thistle.md",
-    "Rumex acetosella - Sheep sorrel.md",
-    "Navarretia squanosa - Skunk cabbage.md",
-    "Potentilla anserina - Silverweed.md",
-    "Capsella bursa-pastoris - Shepherd's purse.md",
-    "Anagallis arvensis - Scarlet Pimpernel.md",
-    "Satureja spp. - Savory.md",
-    "Poterium sanguisorba - Salad burnet.md",
-    "Brassica napus - Rapeseed.md",
-    "Portulaca oleracea - Purslane.md",
-    "Oenothera biennis - Primrose.md",
+    "Trifolium spp. - Clover.md",
+    "Potassium.md",
+    "Desmodium spp. - Trefoil.md",
+    "Comptonia peregrina - Sweetfern.md",
+    "Hedysarum boreale - Sweet vetch.md",
+    "Lathyrus spp. - Sweet pea.md",
+    "Myrica gale - Sweet gale.md",
+    "Crotolaria juncea - Sunn hemp.md",
+    "Spartium junceum - Spanish broom.md",
+    "Elaeagnus commutata - Silverberry.md",
+    "Albizzia julibrisin - Mimosa.md",
+    "Caragana arborescens - Siberian pea shrub.md",
+    "Sesbania exaltata - Sesbania.md",
+    "Hippophae rhamnoides - Sea buckthorn.md",
+    "Elaeagnus angustifolia - Russian olive.md",
+    "Psoralea esculenta - Prairie turnip.md",
+    "Stylosanthes biflora - Pencil flower.md",
+    "Cercocarpus montanus - Mountain mahogany.md",
+    "Astragalus spp. - Milkvetch.md",
+    "Tree.md",
+    "Prosopis glandulosa - Mesquite.md",
     "Local Graph View Example.png",
     "Graph View Example.png",
     "LICENSE",
