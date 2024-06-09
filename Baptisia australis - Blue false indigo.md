@@ -2,6 +2,6 @@
 aliases: Blue false indigo
 ---
 
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]

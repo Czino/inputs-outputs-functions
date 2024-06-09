@@ -2,6 +2,6 @@
 aliases: Bean
 ---
 
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]

@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fagopyrum dibotrys - Perennial buckwheat.md",
+                "file": "Myrica pensylvanica - Bayberry.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"## ##\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fagopyrum dibotrys - Perennial buckwheat.md",
+                "file": "Myrica pensylvanica - Bayberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fagopyrum dibotrys - Perennial buckwheat.md",
+                "file": "Myrica pensylvanica - Bayberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fagopyrum dibotrys - Perennial buckwheat.md"
+                "file": "Myrica pensylvanica - Bayberry.md"
               }
             }
           },
@@ -172,8 +173,14 @@
   },
   "active": "c6e83a3d9386886e",
   "lastOpenFiles": [
-    "Shepherdia argentea - Buffaloberry.md",
+    "Phaseolus spp. - Bean.md",
+    "Maackia amurensis - Amur Maackia.md",
+    "Medicago truncatula - Barrel medic.md",
+    "Elaeagnus umbellata - Autumn olive.md",
+    "Baptisia australis - Blue false indigo.md",
+    "Lotus corniculatus - Bird's foot trefoil.md",
     "Fagopyrum dibotrys - Perennial buckwheat.md",
+    "Shepherdia argentea - Buffaloberry.md",
     "Nitrogen fixer.md",
     "Sambucus nigra - Black elderberry.md",
     "Sambucus caerculea - Blue elderberry.md",
@@ -192,12 +199,6 @@
     "Ficus carica - Fig.md",
     "Feijoa sellowiana - Pineapple guava.md",
     "Crataegus douglasii - Black hawthorn.md",
-    "Crataegus azarolus - Azarole.md",
-    "Celtis spp. - Hackberry.md",
-    "Asimina trilobata - Pawpaw.md",
-    "Arctostaphyllos manzanita - Manzanita.md",
-    "Aronia melanocarpa - Chokeberry.md",
-    "Amalanchier spp. - Juneberry.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

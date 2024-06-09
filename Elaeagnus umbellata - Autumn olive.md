@@ -3,6 +3,6 @@ aliases: Autumn olive
 ---
 ## Outputs
 - [[Poultry forage]]
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]

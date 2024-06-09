@@ -2,6 +2,6 @@
 aliases: Amur Maackia
 ---
 
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]

@@ -2,6 +2,6 @@
 aliases: Barrel medic
 ---
 
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]

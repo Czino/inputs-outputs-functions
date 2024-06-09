@@ -2,6 +2,6 @@
 aliases: Bird's foot trefoil
 ---
 
-## ## Functions
+## Functions
 - [[Plant]]
 - [[Nitrogen fixer]]
