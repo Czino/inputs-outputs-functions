@@ -5,5 +5,5 @@ aliases: Olive
 - [[Human food]]
 - [[Vegetable oil]]
 ## Functions
-- [[Treew]]
+- [[Tree]]
 - [[Soil stabilization]]

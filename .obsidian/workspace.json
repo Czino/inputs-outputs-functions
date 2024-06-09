@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrub.md",
+                "file": "Olea europaea - Olive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"## ##\"",
+                "query": "Treew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrub.md",
+                "file": "Olea europaea - Olive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrub.md",
+                "file": "Olea europaea - Olive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrub.md"
+                "file": "Olea europaea - Olive.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "c6e83a3d9386886e",
   "lastOpenFiles": [
+    "Shrub.md",
     "Soil stabilization.md",
     "Typha angustifolia - Cattail.md",
     "Rhus typhina - Staghorn sumac.md",
@@ -198,7 +199,6 @@
     "Elaeagnus umbellata - Autumn olive.md",
     "Elaeagnus multiflora - Goumi.md",
     "Elaeagnus commutata - Silverberry.md",
-    "Potentilla anserina - Silverweed.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
