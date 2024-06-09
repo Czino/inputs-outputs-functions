@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "21f6f86a7ce448ac",
+        "id": "9bc1089e27a3ea2d",
         "type": "tabs",
         "children": [
           {
-            "id": "fcdb58d0c66b849d",
+            "id": "07420468ba0e466a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -148,34 +156,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fcdb58d0c66b849d",
+  "active": "07420468ba0e466a",
   "lastOpenFiles": [
-    "Wisteria spp. - Wisteria.md",
-    "Caenothus spp. - Wild lilac.md",
-    "Strophistyles umbellata - Wild Bean.md",
-    "Myrica cerifrea - Wax Myrtle.md",
-    "Vicia spp. - Vetch.md",
-    "Trifolium spp. - Clover.md",
-    "Potassium.md",
-    "Desmodium spp. - Trefoil.md",
-    "Comptonia peregrina - Sweetfern.md",
-    "Hedysarum boreale - Sweet vetch.md",
-    "Lathyrus spp. - Sweet pea.md",
-    "Myrica gale - Sweet gale.md",
-    "Crotolaria juncea - Sunn hemp.md",
-    "Spartium junceum - Spanish broom.md",
-    "Elaeagnus commutata - Silverberry.md",
-    "Albizzia julibrisin - Mimosa.md",
-    "Caragana arborescens - Siberian pea shrub.md",
-    "Sesbania exaltata - Sesbania.md",
-    "Hippophae rhamnoides - Sea buckthorn.md",
-    "Elaeagnus angustifolia - Russian olive.md",
-    "Psoralea esculenta - Prairie turnip.md",
-    "Stylosanthes biflora - Pencil flower.md",
-    "Cercocarpus montanus - Mountain mahogany.md",
-    "Astragalus spp. - Milkvetch.md",
-    "Tree.md",
-    "Prosopis glandulosa - Mesquite.md",
+    "content",
+    "Cola.md",
+    "Allantoin.md",
+    "Calcium.md",
+    "Storage.md",
+    "Wind break.md",
+    "Condensation.md",
+    "Rain collection.md",
+    "Thermal mass.md",
+    "Minerals.md",
+    "Biomass.md",
+    "Pollination.md",
+    "Human food.md",
+    "Fruit.md",
+    "Soil building.md",
+    "Insect shelter.md",
+    "Shelter.md",
+    "Humanure.md",
+    "Tides.md",
+    "Light at night.md",
+    "Infrared light.md",
+    "UV-light.md",
+    "Clock.md",
+    "Ash.md",
+    "Water vapor.md",
+    "Snow.md",
     "Local Graph View Example.png",
     "Graph View Example.png",
     "LICENSE",
