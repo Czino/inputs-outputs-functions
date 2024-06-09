@@ -6,3 +6,4 @@ aliases: Honey Locust
 
 ## Functions
 - [[Tree]]
+- [[Soil stabilization]]

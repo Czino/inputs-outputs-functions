@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myrica pensylvanica - Bayberry.md",
+                "file": "Shrub.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myrica pensylvanica - Bayberry.md",
+                "file": "Shrub.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myrica pensylvanica - Bayberry.md",
+                "file": "Shrub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myrica pensylvanica - Bayberry.md"
+                "file": "Shrub.md"
               }
             }
           },
@@ -173,32 +173,32 @@
   },
   "active": "c6e83a3d9386886e",
   "lastOpenFiles": [
-    "Phaseolus spp. - Bean.md",
-    "Maackia amurensis - Amur Maackia.md",
-    "Medicago truncatula - Barrel medic.md",
+    "Soil stabilization.md",
+    "Typha angustifolia - Cattail.md",
+    "Rhus typhina - Staghorn sumac.md",
+    "Potentilla fruticosa - Cinquefoil.md",
+    "Olea europaea - Olive.md",
+    "Baccharis pilularis - Coyote brush.md",
+    "Ailanthus altissima - Tree of heaven.md",
+    "Typha latifolia - Cattail.md",
+    "Psoralea esculenta - Breadroot.md",
+    "Caragana arborescens - Siberian pea shrub.md",
+    "Carya ovata - Shagbark hickory.md",
+    "Gleditsia triacanthos - Honey Locust.md",
+    "Castanea mollissima - Chinese chestnut.md",
+    "Tree.md",
+    "Hedysarum boreale - Sweet vetch.md",
+    "Astragalus spp. - Milkvetch.md",
+    "Glycyrrhiza spp. - Licorice.md",
+    "Spartium junceum - Spanish broom.md",
+    "Lespedeza thunbergii - Bush clover.md",
+    "Hippophae rhamnoides - Sea buckthorn.md",
+    "Gymnocladus dioica - Kentucky coffee tree.md",
+    "Elaeagnus x ebbingei - Elaeagnus.md",
     "Elaeagnus umbellata - Autumn olive.md",
-    "Baptisia australis - Blue false indigo.md",
-    "Lotus corniculatus - Bird's foot trefoil.md",
-    "Fagopyrum dibotrys - Perennial buckwheat.md",
-    "Shepherdia argentea - Buffaloberry.md",
-    "Nitrogen fixer.md",
-    "Sambucus nigra - Black elderberry.md",
-    "Sambucus caerculea - Blue elderberry.md",
-    "Rubus occidentalis - Black raspberry.md",
-    "Rubus idaeus - Red raspberry.md",
-    "Rubus discolor - Himalayan blackberry.md",
-    "Ribes uva-crispa - Gooseberry.md",
-    "Ribes rubrum - Red currant.md",
-    "Ribes nigrum - Black currant.md",
-    "Ribes cereum - Wax currant.md",
-    "Rhamnus caroliniana - Indian Cherry.md",
-    "Rhamnus californica - California coffeeberry.md",
-    "Morus nigra - Black mulberry.md",
-    "Morus alba - White mulberry.md",
-    "Lonicera caerula var. edulis - Honeysuckle.md",
-    "Ficus carica - Fig.md",
-    "Feijoa sellowiana - Pineapple guava.md",
-    "Crataegus douglasii - Black hawthorn.md",
+    "Elaeagnus multiflora - Goumi.md",
+    "Elaeagnus commutata - Silverberry.md",
+    "Potentilla anserina - Silverweed.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

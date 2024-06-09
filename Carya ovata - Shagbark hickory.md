@@ -16,3 +16,4 @@ aliases: Shagbark hickory
 ## Functions
 - [[Tree]]
 - [[Nutrient accumulator]]
+- [[Soil stabilization]]

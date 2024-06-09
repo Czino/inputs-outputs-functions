@@ -6,3 +6,4 @@ aliases: Chinese chestnut
 
 ## Functions
 - [[Tree]]
+- [[Soil stabilization]]

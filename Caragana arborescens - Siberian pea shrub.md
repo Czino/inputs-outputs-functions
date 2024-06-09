@@ -6,3 +6,4 @@ aliases: Siberian pea shrub
 ## Functions
 - [[Shrub]]
 - [[Nitrogen fixer]]
+- [[Soil stabilization]]
