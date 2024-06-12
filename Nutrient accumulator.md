@@ -1,0 +1,1 @@
+Nutrient accumulators are plants that draw up minerals from deep within the soil and store them in their leaves.

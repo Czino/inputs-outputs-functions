@@ -1,0 +1,1 @@
+Iron is essential for chlorophyll synthesis and energy transfer in plants. Ecologically, it affects soil and plant health. In animals and humans, iron is critical for hemoglobin formation, oxygen transport, and enzyme function.

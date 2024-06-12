@@ -1,0 +1,1 @@
+Zinc is important for enzyme function and protein synthesis in plants. Ecologically, it contributes to soil fertility and plant health. In animals and humans, zinc is crucial for immune function, DNA synthesis, and cell division.

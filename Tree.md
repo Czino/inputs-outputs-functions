@@ -1,3 +1,5 @@
+Trees are the largest plants in an ecological system and offer numerous benefits.
+
 ## Outputs
 - [[Wood]]
 - [[Shade]]

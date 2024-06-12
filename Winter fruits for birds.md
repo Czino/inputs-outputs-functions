@@ -1,0 +1,1 @@
+Plants that produce winter fruits are critical for supporting bird populations during colder months.

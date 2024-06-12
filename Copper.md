@@ -1,0 +1,1 @@
+Copper is involved in photosynthesis and enzyme activities in plants. Ecologically, it supports soil and plant health. For animals and humans, copper is necessary for iron metabolism, nerve function, and connective tissue formation.

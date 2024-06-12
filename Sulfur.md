@@ -1,0 +1,1 @@
+Sulfur is a component of certain amino acids and vitamins in plants, aiding in protein synthesis and enzyme function. In ecological systems, it contributes to soil fertility. For animals and humans, sulfur is vital for protein synthesis, enzyme function, and detoxification processes.

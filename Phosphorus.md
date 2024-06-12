@@ -1,0 +1,1 @@
+Phosphorus plays a key role in energy transfer through ATP and is vital for genetic material in all living organisms. In plants, phosphorus supports energy transfer, root development, and flowering. For animals and humans, it is critical for the formation of DNA, RNA, ATP, bones, and teeth.

@@ -1,2 +1,4 @@
+Green manure refers to specific plants grown to be incorporated into the soil to improve its fertility and structure. These plants are typically grown for a certain period and then plowed under while still green. In an ecological system, green manure enhances soil health by adding organic matter, increasing microbial activity, and improving soil structure. These plants often have deep root systems that help break up compacted soil and draw up nutrients from deeper layers. Additionally, green manure plants can fix atmospheric nitrogen (in the case of legumes), reducing the need for synthetic fertilizers and promoting sustainable agriculture practices.
+
 ## Outputs
 - [[Mulch]]

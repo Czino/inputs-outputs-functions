@@ -1,0 +1,1 @@
+Magnesium is central to chlorophyll molecules in plants, crucial for photosynthesis. Ecologically, it enhances soil structure and plant health. In animals and humans, magnesium is involved in over 300 biochemical reactions, including energy production, muscle function, and nerve transmission.

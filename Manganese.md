@@ -1,0 +1,1 @@
+Manganese acts as a cofactor in many plant enzymes and is vital for photosynthesis. Ecologically, it influences soil health and plant growth. In animals and humans, manganese supports bone formation, blood clotting, and antioxidant functions.
