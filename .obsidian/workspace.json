@@ -52,20 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arctostaphyllos manzanita - Manzanita.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf4fb536a82c8a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ribes rubrum - Red currant.md",
+                "file": "Plant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribes rubrum - Red currant.md",
+                "file": "Plant.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribes rubrum - Red currant.md",
+                "file": "Plant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribes rubrum - Red currant.md"
+                "file": "Plant.md"
               }
             }
           },
@@ -209,15 +196,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cf4fb536a82c8a2e",
+  "active": "f2234c6d21b1e7ad",
   "lastOpenFiles": [
+    "Carbon storage.md",
+    "Carbon.md",
+    "Arctostaphyllos manzanita - Manzanita.md",
+    "Photosynthesis.md",
+    "Heat insulation.md",
+    "Weed suppression.md",
+    "pH regulation.md",
+    "Bee food.md",
+    "Ribes rubrum - Red currant.md",
     "Ribes cereum - Wax currant.md",
     "Ribes nigrum - Black currant.md",
     "Ribes uva-crispa - Gooseberry.md",
     "Sambucus caerculea - Blue elderberry.md",
     "Sambucus spp. - Elderberry.md",
     "Crataegus spp. - Hawthorn.md",
-    "Arctostaphyllos manzanita - Manzanita.md",
     "Arctostaphyllos spp. - Manzanita.md",
     "Passiflora spp. - Passionfruit.md",
     "Foriestiera spp. - Privet.md",
@@ -229,14 +224,6 @@
     "Stellaria media - Chickweed.md",
     "Cichorium intybus - Chicory.md",
     "Gallium aparine - Cleavers.md",
-    "Cucumis sativus - Cucumber.md",
-    "Taraxacum officinale - Dandelion.md",
-    "Rumex spp. - Dock.md",
-    "Chenopodium album - Lamb's quarters.md",
-    "Brassica spp. - Mustard.md",
-    "Urtica urens - Stinging nettle.md",
-    "Amaranthus retroflexus - Red root Pigweed.md",
-    "Platago spp. - Plantain.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
