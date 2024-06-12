@@ -1,5 +1,5 @@
 ---
-aliases: Sunflower
+aliases: Sunflower, Helianthus annuum
 ---
 
 ## Inputs
@@ -13,6 +13,8 @@ aliases: Sunflower
 - [[Manganese]]
 - [[Copper]] 
 - [[Zinc]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

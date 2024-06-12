@@ -26,6 +26,7 @@ aliases:
 - [[VitaminD]]
 - [[VitaminE]]
 - [[VitaminK]]
+- [[Poultry forage]]
 
 ## Functions
 - [[Plant]]

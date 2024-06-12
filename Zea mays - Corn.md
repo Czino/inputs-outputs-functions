@@ -1,9 +1,9 @@
 ---
-aliases: Serviceberry
+aliases: Corn
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
+- [[Human food]]
 
 ## Function
 - [[Plant]]

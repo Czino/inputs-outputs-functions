@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Passionfruit
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]

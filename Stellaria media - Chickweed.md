@@ -9,6 +9,8 @@ aliases: Chickweed
 ## Outputs
 - [[Phosphorus]] 
 - [[Potassium]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Cucumber
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]

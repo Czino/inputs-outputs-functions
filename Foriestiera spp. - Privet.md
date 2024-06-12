@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Privet
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]

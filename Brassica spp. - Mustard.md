@@ -15,6 +15,8 @@ aliases: Mustard
 - [[Sulfur]]
 - [[Manganese]] 
 - [[Copper]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

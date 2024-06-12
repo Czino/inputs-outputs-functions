@@ -17,6 +17,8 @@ aliases: Stinging nettle
 - [[Sulfur]]
 - [[Iron]] 
 - [[Copper]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

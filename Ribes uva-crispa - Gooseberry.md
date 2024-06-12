@@ -1,8 +1,6 @@
 ---
 aliases: Gooseberry
 ---
-## Outputs
-- [[Poultry forage]]
-
 ## Functions
 - [[Shrub]]
+- [[Ribes spp. - Currant]]

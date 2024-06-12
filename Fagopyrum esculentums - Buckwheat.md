@@ -1,7 +1,6 @@
 ---
 aliases: Buckwheat
 ---
-
 ## Inputs
 - [[Phosphorus]] 
 - [[Potassium]]
@@ -9,6 +8,8 @@ aliases: Buckwheat
 ## Outputs
 - [[Phosphorus]] 
 - [[Potassium]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

@@ -1,7 +1,6 @@
 ---
 aliases: Lamb's quarters
 ---
-
 ## Inputs
 - [[Nitrogen]]
 - [[Phosphorus]]
@@ -15,6 +14,8 @@ aliases: Lamb's quarters
 - [[Potassium]]
 - [[Calcium]] 
 - [[Manganese]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Manzanita
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]

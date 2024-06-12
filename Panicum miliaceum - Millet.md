@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Millet
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]

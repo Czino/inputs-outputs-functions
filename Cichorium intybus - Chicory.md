@@ -1,7 +1,6 @@
 ---
 aliases: Chicory
 ---
-
 ## Inputs
 - [[Potassium]] 
 - [[Calcium]]
@@ -9,6 +8,8 @@ aliases: Chicory
 ## Outputs
 - [[Potassium]] 
 - [[Calcium]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

@@ -1,8 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Dock
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
 
 ## Function

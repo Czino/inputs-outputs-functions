@@ -17,6 +17,8 @@ aliases: Plantain
 - [[Manganese]]
 - [[Iron]] 
 - [[Silicon]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

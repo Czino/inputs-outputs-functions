@@ -1,9 +1,9 @@
 ---
-aliases: Serviceberry
+aliases: Quinoa
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
+- [[Human food]]
 
 ## Function
 - [[Plant]]

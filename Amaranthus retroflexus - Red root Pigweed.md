@@ -13,6 +13,8 @@ aliases: Red root Pigweed
 - [[Potassium]]
 - [[Calcium]]
 - [[Iron]]
+- [[Poultry forage]]
 
 ## Functions
+- [[Plant]]
 - [[Nutrient accumulator]]

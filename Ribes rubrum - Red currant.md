@@ -1,8 +1,6 @@
 ---
 aliases: Red currant
 ---
-## Outputs
-- [[Poultry forage]]
-
 ## Functions
 - [[Shrub]]
+- [[Ribes spp. - Currant]]

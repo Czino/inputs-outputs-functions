@@ -1,9 +1,7 @@
 ---
-aliases: Serviceberry
+aliases: Swiss chard
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Poultry forage]]
-
 ## Function
 - [[Plant]]
