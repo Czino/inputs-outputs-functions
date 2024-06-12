@@ -37,13 +37,8 @@
             "id": "230cb8746a3dd87c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liriodendron tulipfera - Tulip tree.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liriodendron tulipfera - Tulip tree.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liriodendron tulipfera - Tulip tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Liriodendron tulipfera - Tulip tree.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +177,10 @@
   },
   "active": "230cb8746a3dd87c",
   "lastOpenFiles": [
-    "Rhus glabra - Smooth sumac.md",
+    "Perching space.md",
+    "Vegetable oil.md",
     "Liriodendron tulipfera - Tulip tree.md",
+    "Rhus glabra - Smooth sumac.md",
     "Sorbus spp. - Mountain ash.md",
     "Viburnum opulus - European cranberry.md",
     "Juniperus virginiana - Eastern red cedar.md",
@@ -210,8 +203,6 @@
     "Elaeagnus umbellata - Autumn olive.md",
     "Malus spp. - Apple.md",
     "Rhamnus californica - California coffeeberry.md",
-    "Lycium spp. - Wolfberry.md",
-    "Picea spp. - Spruce.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
