@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: American cranberry
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

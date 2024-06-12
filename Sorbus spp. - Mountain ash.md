@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Mountain ash
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

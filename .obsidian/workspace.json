@@ -39,23 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhamnus californica - California coffeeberry.md",
+                "file": "Liriodendron tulipfera - Tulip tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "fabe37e7ce7c1dbc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Liriodendron tulipfera - Tulip tree.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Liriodendron tulipfera - Tulip tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Liriodendron tulipfera - Tulip tree.md"
+              }
             }
           },
           {
@@ -188,34 +184,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fabe37e7ce7c1dbc",
+  "active": "230cb8746a3dd87c",
   "lastOpenFiles": [
-    "Lycium spp. - Wolfberry.md",
-    "Picea spp. - Spruce.md",
-    "Amelanchier spp. - Serviceberry.md",
-    "Gaultheria shallon - Salal.md",
+    "Rhus glabra - Smooth sumac.md",
+    "Liriodendron tulipfera - Tulip tree.md",
+    "Sorbus spp. - Mountain ash.md",
+    "Viburnum opulus - European cranberry.md",
+    "Juniperus virginiana - Eastern red cedar.md",
+    "Myrica pensylvanica - Bayberry.md",
+    "Myrica cerifrea - Wax Myrtle.md",
+    "Myrica gale - Sweet gale.md",
+    "Myrica spp. - Bayberry.md",
+    "Lonicera maackii - Amur honeysuckle.md",
+    "Phellodendron amurense - Amur cork tree.md",
+    "Viburnum trilobum - American cranberry.md",
+    "Winter fruits for birds.md",
+    "Rhus typhina - Staghorn sumac.md",
     "Elaeagnus angustifolia - Russian olive.md",
     "Rosa spp. - Rose.md",
-    "Pinus spp. - Pine.md",
-    "Lupinus spp. - Lupine.md",
     "Diospyrus spp. - Persimmon.md",
-    "Morus nigra - Black mulberry.md",
-    "Morus alba - White mulberry.md",
-    "Morus spp. - Mulberry.md",
-    "Acer spp. - Maple.md",
     "Ilex spp. - Holly.md",
-    "Crataegus douglasii - Black hawthorn.md",
-    "Crataegus azarolus - Azarole.md",
+    "Bird nesting space.md",
     "Crataegus spp. - Hawthorn.md",
-    "Ulmus spp. - Elm.md",
-    "Sambucus caerculea - Blue elderberry.md",
-    "Sambucus nigra - Black elderberry.md",
-    "Sambucus spp. - Elderberry.md",
-    "Pseudotsuga menziesii - Douglas fir.md",
-    "Cornus florida - Flowering Dogwood.md",
-    "Cornus spp. - Dogwood.md",
+    "Celtis spp. - Hackberry.md",
+    "Elaeagnus umbellata - Autumn olive.md",
+    "Malus spp. - Apple.md",
     "Rhamnus californica - California coffeeberry.md",
-    "Rhamnus caroliniana - Indian Cherry.md",
+    "Lycium spp. - Wolfberry.md",
+    "Picea spp. - Spruce.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

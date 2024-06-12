@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Smooth sumac
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

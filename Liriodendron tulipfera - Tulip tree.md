@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Tulip tree
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

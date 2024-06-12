@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Amur cork tree
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

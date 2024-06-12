@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Eastern red cedar
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]

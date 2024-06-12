@@ -1,6 +1,5 @@
 ---
-aliases: Hawthorn
+aliases: Bayberry
 ---
 ## Outputs
-- [[Bird nesting space]]
 - [[Winter fruits for birds]]
