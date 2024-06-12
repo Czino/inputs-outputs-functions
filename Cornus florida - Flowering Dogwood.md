@@ -1,7 +1,6 @@
 ---
 aliases: Flowering Dogwood
 ---
-
 ## Inputs
 - [[Phosphorus]]
 - [[Potassium]] 
@@ -14,3 +13,4 @@ aliases: Flowering Dogwood
 
 ## Functions
 - [[Nutrient accumulator]]
+- [[Cornus spp. - Dogwood]]

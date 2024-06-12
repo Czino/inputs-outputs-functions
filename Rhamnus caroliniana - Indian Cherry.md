@@ -6,3 +6,4 @@ aliases: Indian Cherry
 
 ## Functions
 - [[Tree]]
+- [[Rhamnus spp. - Buckthorn]]

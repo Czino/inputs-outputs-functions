@@ -1,7 +1,6 @@
 ---
 aliases: Lupine
 ---
-
 ## Inputs
 - [[Phosphorus]]
 

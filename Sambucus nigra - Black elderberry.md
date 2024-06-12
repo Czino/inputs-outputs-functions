@@ -6,3 +6,4 @@ aliases: Black elderberry
 
 ## Functions
 - [[Shrub]]
+- [[Sambucus spp. - Elderberry]]

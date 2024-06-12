@@ -26,15 +26,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olea europaea - Olive.md",
+                "file": "Rhamnus caroliniana - Indian Cherry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "230cb8746a3dd87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhamnus californica - California coffeeberry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fabe37e7ce7c1dbc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Olea europaea - Olive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Olea europaea - Olive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Olea europaea - Olive.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,34 +188,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c6e83a3d9386886e",
+  "active": "fabe37e7ce7c1dbc",
   "lastOpenFiles": [
-    "Shrub.md",
-    "Soil stabilization.md",
-    "Typha angustifolia - Cattail.md",
-    "Rhus typhina - Staghorn sumac.md",
-    "Potentilla fruticosa - Cinquefoil.md",
-    "Olea europaea - Olive.md",
-    "Baccharis pilularis - Coyote brush.md",
-    "Ailanthus altissima - Tree of heaven.md",
-    "Typha latifolia - Cattail.md",
-    "Psoralea esculenta - Breadroot.md",
-    "Caragana arborescens - Siberian pea shrub.md",
-    "Carya ovata - Shagbark hickory.md",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Castanea mollissima - Chinese chestnut.md",
-    "Tree.md",
-    "Hedysarum boreale - Sweet vetch.md",
-    "Astragalus spp. - Milkvetch.md",
-    "Glycyrrhiza spp. - Licorice.md",
-    "Spartium junceum - Spanish broom.md",
-    "Lespedeza thunbergii - Bush clover.md",
-    "Hippophae rhamnoides - Sea buckthorn.md",
-    "Gymnocladus dioica - Kentucky coffee tree.md",
-    "Elaeagnus x ebbingei - Elaeagnus.md",
-    "Elaeagnus umbellata - Autumn olive.md",
-    "Elaeagnus multiflora - Goumi.md",
-    "Elaeagnus commutata - Silverberry.md",
+    "Lycium spp. - Wolfberry.md",
+    "Picea spp. - Spruce.md",
+    "Amelanchier spp. - Serviceberry.md",
+    "Gaultheria shallon - Salal.md",
+    "Elaeagnus angustifolia - Russian olive.md",
+    "Rosa spp. - Rose.md",
+    "Pinus spp. - Pine.md",
+    "Lupinus spp. - Lupine.md",
+    "Diospyrus spp. - Persimmon.md",
+    "Morus nigra - Black mulberry.md",
+    "Morus alba - White mulberry.md",
+    "Morus spp. - Mulberry.md",
+    "Acer spp. - Maple.md",
+    "Ilex spp. - Holly.md",
+    "Crataegus douglasii - Black hawthorn.md",
+    "Crataegus azarolus - Azarole.md",
+    "Crataegus spp. - Hawthorn.md",
+    "Ulmus spp. - Elm.md",
+    "Sambucus caerculea - Blue elderberry.md",
+    "Sambucus nigra - Black elderberry.md",
+    "Sambucus spp. - Elderberry.md",
+    "Pseudotsuga menziesii - Douglas fir.md",
+    "Cornus florida - Flowering Dogwood.md",
+    "Cornus spp. - Dogwood.md",
+    "Rhamnus californica - California coffeeberry.md",
+    "Rhamnus caroliniana - Indian Cherry.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

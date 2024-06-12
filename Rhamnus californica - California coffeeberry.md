@@ -6,3 +6,4 @@ aliases: California coffeeberry
 
 ## Functions
 - [[Tree]]
+- [[Rhamnus spp. - Buckthorn]]

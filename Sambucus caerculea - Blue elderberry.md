@@ -6,3 +6,4 @@ aliases: Blue elderberry
 
 ## Functions
 - [[Shrub]]
+- [[Sambucus spp. - Elderberry]]

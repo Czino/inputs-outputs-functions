@@ -7,3 +7,4 @@ aliases: Black mulberry
 
 ## Functions
 - [[Tree]]
+- [[Morus spp. - Mulberry]]
