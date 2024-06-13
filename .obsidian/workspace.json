@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calcium carbonate.md",
+                "file": "Stacking functions in a permaculture system.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calcium carbonate.md",
+                "file": "Stacking functions in a permaculture system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calcium carbonate.md",
+                "file": "Stacking functions in a permaculture system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calcium carbonate.md"
+                "file": "Stacking functions in a permaculture system.md"
               }
             }
           },
@@ -172,8 +172,10 @@
   },
   "active": "037757a1acb3a197",
   "lastOpenFiles": [
-    "Eggshell.md",
+    "Understanding of inputs and outputs within ecological design elements.md",
+    "index.md",
     "Calcium carbonate.md",
+    "Eggshell.md",
     "Fish habitat.md",
     "Soil aeration.md",
     "Waterproofing.md",
@@ -196,8 +198,6 @@
     "Carbon.md",
     "Carbon storage.md",
     "Photosynthesis.md",
-    "Heat insulation.md",
-    "Weed suppression.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

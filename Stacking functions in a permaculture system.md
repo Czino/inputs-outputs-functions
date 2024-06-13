@@ -11,6 +11,5 @@ Stacking functions involves designing elements to perform multiple roles within 
 5. **Holistic Integration**: Stacking functions encourages a holistic approach to design, considering how elements interact and support each other. This integrated perspective leads to more cohesive and functional systems.
     
 6. **Cost-Effectiveness**: Multi-functional elements reduce the need for separate investments for each function, making the system more cost-effective. For example, a solar greenhouse can extend the growing season, produce food, and heat adjacent buildings.
-    
 
-In summary, [[understanding of inputs and outputs within ecological design elements]] ensures efficient resource use, waste reduction, and system interconnection. Stacking functions enhances productivity, resilience, and overall system efficiency, creating a sustainable and self-supporting permaculture design.
+In summary, [[Understanding of inputs and outputs within ecological design elements|understanding of inputs and outputs within ecological design elements]] ensures efficient resource use, waste reduction, and system interconnection. Stacking functions enhances productivity, resilience, and overall system efficiency, creating a sustainable and self-supporting permaculture design.
