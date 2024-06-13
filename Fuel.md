@@ -1,0 +1,1 @@
+Any substance burned to produce heat or power, such as wood, coal, gasoline, or natural gas.

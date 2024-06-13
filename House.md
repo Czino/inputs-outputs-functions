@@ -1,6 +1,6 @@
 ## Outputs
 - [[Shelter]]
-- [[Wind break]]
+- [[Windbreak]]
 - [[Roof]]
 - [[Shade]]
 - [[Storage]]

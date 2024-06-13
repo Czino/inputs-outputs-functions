@@ -5,4 +5,4 @@ Shrubs are woody plants that are smaller than trees, typically with multiple ste
 ## Functions
 - [[Plant]]
 - [[Soil stabilization]]
-- [[Wind break]]
+- [[Windbreak]]

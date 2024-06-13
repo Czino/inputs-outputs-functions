@@ -1,0 +1,1 @@
+A simple sugar and the primary source of energy for living organisms. It is produced during photosynthesis in plants and is used in cellular respiration to generate ATP (adenosine triphosphate).

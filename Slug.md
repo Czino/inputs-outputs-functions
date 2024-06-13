@@ -1,0 +1,1 @@
+A type of mollusk without a shell, often considered a garden pest due to its herbivorous feeding habits. Slugs can damage plants by eating leaves and stems.

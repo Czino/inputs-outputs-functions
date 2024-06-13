@@ -1,0 +1,1 @@
+A pigment found in plants and fruits (e.g., carrots, sweet potatoes) that provides yellow, orange, or red coloration and is a precursor to vitamin A.

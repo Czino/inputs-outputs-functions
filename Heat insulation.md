@@ -1,0 +1,1 @@
+Materials or techniques used to reduce heat transfer between different environments, such as buildings, to maintain a comfortable temperature. Examples include insulation materials like fiberglass, foam, or natural materials like straw bales.

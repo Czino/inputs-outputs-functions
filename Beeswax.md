@@ -1,0 +1,1 @@
+A natural wax produced by honeybees, used in candle-making, cosmetics, and as a food additive.

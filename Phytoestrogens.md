@@ -1,0 +1,1 @@
+Plant compounds with estrogen-like properties, found in soybeans and other plants, believed to have health benefits.

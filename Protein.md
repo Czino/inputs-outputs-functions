@@ -1,0 +1,1 @@
+A macronutrient essential for the growth, repair, and maintenance of tissues in the body. Proteins are composed of amino acids and are found in foods such as meat, eggs, beans, and nuts.

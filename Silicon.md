@@ -1,0 +1,1 @@
+A chemical element abundant in the Earth's crust, used in electronics, solar panels, and various industrial applications.

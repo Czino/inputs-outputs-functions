@@ -1,3 +1,4 @@
+Homo sapiens, the species to which modern humans belong, characterized by high intelligence, tool use, language, and social organization.
 ## Inputs
 - [[Human food]]
 - [[Oxygen]]

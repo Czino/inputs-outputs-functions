@@ -1,0 +1,1 @@
+Nutritious food formulated specifically for dogs, providing essential nutrients like proteins, fats, vitamins, and minerals necessary for their health and well-being. It can be in dry kibble, wet canned form, or homemade.

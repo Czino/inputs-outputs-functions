@@ -1,0 +1,1 @@
+The ability of organisms and systems to maintain their temperature within a narrow range, regardless of external environmental conditions.

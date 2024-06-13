@@ -12,6 +12,6 @@ Rocks are solid mineral material found in various sizes and compositions within 
 - [[Condensation]]
 - [[Rain collection]]
 - [[Soil stabilization]]
-- [[Wind break]]
+- [[Windbreak]]
 - [[Thermal mass]]
 - [[pH regulation]]

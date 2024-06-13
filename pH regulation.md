@@ -1,0 +1,1 @@
+The process of adjusting and maintaining the acidity or alkalinity of soil, water, or other environments within a suitable range for optimal biological function. It ensures nutrients are available to plants and organisms.

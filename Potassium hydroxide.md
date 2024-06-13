@@ -1,0 +1,1 @@
+Another strong alkaline compound, similar to sodium hydroxide, used in soap-making, cleaning products, and industrial processes.

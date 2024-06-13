@@ -1,0 +1,1 @@
+Mechanical manipulation of soil using tools like plows or cultivators to break up compacted soil, incorporate organic matter, and prepare seedbeds for planting. Tilling improves soil structure, aeration, and nutrient availability.

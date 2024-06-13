@@ -1,0 +1,1 @@
+An amino acid analog found in some legumes, potentially toxic to humans and animals.

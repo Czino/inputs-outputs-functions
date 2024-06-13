@@ -1,0 +1,1 @@
+A strong alkaline compound, also known as lye, used in manufacturing soap, cleaning agents, and in chemical processes such as biodiesel production.

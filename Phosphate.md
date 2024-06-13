@@ -1,0 +1,1 @@
+A salt or ester of phosphoric acid, essential for plant and animal nutrition, used in fertilizers and detergents.

@@ -1,0 +1,1 @@
+The process of making an object or surface resistant to water penetration or damage. Waterproofing materials such as coatings, sealants, or membranes prevent moisture intrusion and protect structures from water-related deterioration.

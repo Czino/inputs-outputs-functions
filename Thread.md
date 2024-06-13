@@ -1,0 +1,1 @@
+A thin strand of material (e.g., cotton, polyester) used in sewing or weaving to join fabrics together.

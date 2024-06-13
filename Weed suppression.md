@@ -1,0 +1,1 @@
+Techniques or methods used to control or reduce the growth and spread of unwanted plants (weeds) in agricultural and garden settings. This can be achieved through mulching, cover cropping, or using natural herbicides.

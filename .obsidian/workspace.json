@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc1089e27a3ea2d",
+        "id": "a057a2079652d7cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a7623454e85064",
+            "id": "e4b6bcfa7604d92e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phosphorus.md",
+                "file": "Eggshell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "f8ffe1623228cdd4",
+            "id": "037757a1acb3a197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnesium.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f94feb6a9c4e925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iron.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2234c6d21b1e7ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plant.md",
+                "file": "Calcium carbonate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant.md",
+                "file": "Calcium carbonate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant.md",
+                "file": "Calcium carbonate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plant.md"
+                "file": "Calcium carbonate.md"
               }
             }
           },
@@ -196,34 +170,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f2234c6d21b1e7ad",
+  "active": "037757a1acb3a197",
   "lastOpenFiles": [
-    "Carbon storage.md",
+    "Eggshell.md",
+    "Calcium carbonate.md",
+    "Fish habitat.md",
+    "Soil aeration.md",
+    "Waterproofing.md",
+    "Soil tilling.md",
+    "Meat.md",
+    "Cat food.md",
+    "Dog food.md",
+    "Ocean.md",
+    "River.md",
+    "Wax.md",
+    "Potassium hydroxide.md",
+    "Soil scratching.md",
+    "Sodium hydroxide.md",
+    "Glucose.md",
+    "Protein.md",
+    "Heat regulation.md",
+    "Slug.md",
+    "Feather.md",
+    "Stacking functions in a permaculture system.md",
     "Carbon.md",
-    "Arctostaphyllos manzanita - Manzanita.md",
+    "Carbon storage.md",
     "Photosynthesis.md",
     "Heat insulation.md",
     "Weed suppression.md",
-    "pH regulation.md",
-    "Bee food.md",
-    "Ribes rubrum - Red currant.md",
-    "Ribes cereum - Wax currant.md",
-    "Ribes nigrum - Black currant.md",
-    "Ribes uva-crispa - Gooseberry.md",
-    "Sambucus caerculea - Blue elderberry.md",
-    "Sambucus spp. - Elderberry.md",
-    "Crataegus spp. - Hawthorn.md",
-    "Arctostaphyllos spp. - Manzanita.md",
-    "Passiflora spp. - Passionfruit.md",
-    "Foriestiera spp. - Privet.md",
-    "Medicago sativa - Alfalfa.md",
-    "Amelanchier spp. - Serviceberry.md",
-    "Fagopyrum esculentums - Buckwheat.md",
-    "Vicia faba - Fava bean.md",
-    "Beta vulgaris - Swiss chard.md",
-    "Stellaria media - Chickweed.md",
-    "Cichorium intybus - Chicory.md",
-    "Gallium aparine - Cleavers.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

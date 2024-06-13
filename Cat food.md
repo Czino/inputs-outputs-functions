@@ -1,0 +1,1 @@
+Nutritious food designed specifically for cats, tailored to their dietary needs as obligate carnivores. Cat food includes proteins, fats, vitamins, and minerals essential for their growth, energy, and overall health.

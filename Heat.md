@@ -1,0 +1,1 @@
+Energy transferred from one body or system to another due to temperature difference, essential for cooking, heating, and industrial processes.

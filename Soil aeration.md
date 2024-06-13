@@ -1,0 +1,1 @@
+The process of improving soil structure by increasing air spaces between soil particles. It enhances oxygen exchange, promotes root growth, and improves water infiltration and drainage, vital for healthy plant growth.

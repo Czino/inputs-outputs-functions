@@ -1,0 +1,1 @@
+Calcium carbonate is a chemical compound with the formula CaCO3. It occurs naturally in various forms, including limestone, chalk, and marble.

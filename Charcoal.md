@@ -1,0 +1,1 @@
+A lightweight black carbon residue produced by heating wood or other organic materials in the absence of air, used as a fuel and in filtration.

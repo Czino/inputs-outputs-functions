@@ -1,0 +1,1 @@
+A windbreak is a row of trees, shrubs, or other vegetation designed to reduce wind speed and provide shelter from wind. Windbreaks are commonly used in agricultural and permaculture systems to protect crops, soil, livestock, and buildings from the damaging effects of strong winds.

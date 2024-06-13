@@ -1,0 +1,1 @@
+A chemical element used in alloys, magnets, batteries, and as a catalyst in industrial processes.

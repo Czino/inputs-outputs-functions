@@ -1,0 +1,1 @@
+Kitchen scraps refer to the organic waste generated from food preparation and consumption in households. These scraps include fruit and vegetable peelings, coffee grounds, eggshells, tea bags, leftover food, and other biodegradable materials.

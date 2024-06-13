@@ -1,0 +1,1 @@
+Floral nectar and pollen collected by bees as their primary sources of nutrition. Nectar provides energy, while pollen supplies proteins, fats, vitamins, and minerals essential for bee health and hive development.

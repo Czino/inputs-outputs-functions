@@ -1,2 +1,6 @@
-## Inputs
-- [[Poultry forage]]
+## Outputs
+- [[Chicken manure]]
+- [[Egg]]
+- [[Soil scratching]]
+## Functions
+- [[Poultry]]

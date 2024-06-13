@@ -1,0 +1,1 @@
+A chemical element found in all living organisms and many minerals. It is fundamental to life on Earth, serving as the building block for organic molecules and playing a critical role in the carbon cycle and climate regulation.
