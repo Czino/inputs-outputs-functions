@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stacking functions in a permaculture system.md",
+                "file": "Understanding of inputs and outputs within ecological design elements.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stacking functions in a permaculture system.md",
+                "file": "Understanding of inputs and outputs within ecological design elements.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stacking functions in a permaculture system.md",
+                "file": "Understanding of inputs and outputs within ecological design elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stacking functions in a permaculture system.md"
+                "file": "Understanding of inputs and outputs within ecological design elements.md"
               }
             }
           },
@@ -172,7 +172,9 @@
   },
   "active": "037757a1acb3a197",
   "lastOpenFiles": [
+    "Kitchen scraps.md",
     "Understanding of inputs and outputs within ecological design elements.md",
+    "Stacking functions in a permaculture system.md",
     "index.md",
     "Calcium carbonate.md",
     "Eggshell.md",
@@ -194,10 +196,8 @@
     "Heat regulation.md",
     "Slug.md",
     "Feather.md",
-    "Stacking functions in a permaculture system.md",
     "Carbon.md",
     "Carbon storage.md",
-    "Photosynthesis.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
