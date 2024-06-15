@@ -1,0 +1,1 @@
+Carbon dioxide is a vital component of the carbon cycle, utilized by plants during photosynthesis to produce oxygen and glucose, essential for most life forms. Elevated CO₂ levels from human activities contribute to global warming and climate change, affecting ecosystems worldwide. Forests, oceans, and soil act as major carbon sinks, absorbing CO₂ to mitigate climate change.

@@ -1,2 +1,0 @@
-## Functions
-- [[Poop beast]]

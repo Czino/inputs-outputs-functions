@@ -1,3 +1,0 @@
-## Functions
-- [[Tree]]
-- [[Poop beast]]

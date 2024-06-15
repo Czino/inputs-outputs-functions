@@ -1,0 +1,1 @@
+Water purification refers to the process of removing contaminants from water to make it safe for drinking, agricultural use, and supporting aquatic life. This process can occur naturally in ecosystems or be facilitated by human-made systems.

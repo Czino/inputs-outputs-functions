@@ -2,8 +2,8 @@ Plants include various types of flora, including annuals, perennials, herbs, gra
 ## Inputs
 - [[Water]]
 - [[Soil]]
+- [[Fertilizer]]
 ## Outputs
 - [[Biomass]]
-
 ## Functions
 - [[Photosynthesis]]

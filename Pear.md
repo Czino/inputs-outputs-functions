@@ -1,2 +1,3 @@
+The pear fruit, produced by the pear tree, is native to temperate regions of Europe, North Africa, and Asia and is widely cultivated globally. The fruit itself serves as a food source for various animals, including birds, insects, and mammals. In agricultural landscapes, pear trees enhance biodiversity and soil health, often forming part of agroforestry systems that integrate trees and crops for mutual benefits.
 ## Outputs
 - [[Human food]]

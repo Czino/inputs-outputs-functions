@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding of inputs and outputs within ecological design elements.md",
+                "file": "Juglans spp. - Walnut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a12a88ff323138f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typha latifolia - Cattail.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fbc278ec39b2a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Water purification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding of inputs and outputs within ecological design elements.md",
+                "file": "Water purification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding of inputs and outputs within ecological design elements.md",
+                "file": "Water purification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding of inputs and outputs within ecological design elements.md"
+                "file": "Water purification.md"
               }
             }
           },
@@ -170,34 +196,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "037757a1acb3a197",
+  "active": "5fbc278ec39b2a7a",
   "lastOpenFiles": [
-    "Kitchen scraps.md",
+    "Typha latifolia - Cattail.md",
+    "Water purification.md",
+    "Carum carvi - Caraway.md",
+    "Betula spp. - Birch.md",
+    "Tree.md",
+    "Phyllostachys spp. - Bamboo.md",
+    "Bamboo.md",
+    "Pear.md",
+    "Pyrus communis - Pear tree.md",
+    "Carbon dioxide.md",
+    "Populus spp. - Poplar.md",
+    "Salix spp. - Willow.md",
+    "Celtis conferta subsp. amblyphylla - Cottonwood.md",
+    "Willow.md",
+    "Juglans spp. - Walnut.md",
+    "Juglone.md",
+    "Allelopathy.md",
+    "Plant.md",
+    "Ecosystems are fundamentally cooperative.md",
     "Understanding of inputs and outputs within ecological design elements.md",
+    "Kitchen scraps.md",
     "Stacking functions in a permaculture system.md",
     "index.md",
     "Calcium carbonate.md",
     "Eggshell.md",
     "Fish habitat.md",
-    "Soil aeration.md",
-    "Waterproofing.md",
-    "Soil tilling.md",
-    "Meat.md",
-    "Cat food.md",
-    "Dog food.md",
-    "Ocean.md",
-    "River.md",
-    "Wax.md",
-    "Potassium hydroxide.md",
-    "Soil scratching.md",
-    "Sodium hydroxide.md",
-    "Glucose.md",
-    "Protein.md",
-    "Heat regulation.md",
-    "Slug.md",
-    "Feather.md",
-    "Carbon.md",
-    "Carbon storage.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

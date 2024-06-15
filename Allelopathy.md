@@ -1,0 +1,1 @@
+Allelopathy inhibits the growth of certain other plants nearby. This helps the secreting plant reduce competition for resources like light, water, and nutrients.
