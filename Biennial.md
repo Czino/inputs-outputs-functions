@@ -1,0 +1,1 @@
+A biennial plant is a type of flowering plant that completes its life cycle over two growing seasons. During the first year, biennials typically grow vegetatively, forming a rosette of leaves close to the ground. In the second year, they produce flowers, set seeds, and then die.

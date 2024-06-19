@@ -1,0 +1,1 @@
+Nicotine is a natural alkaloid compound found in the leaves of [[Nicotiana spp. - Tobacco]] and other members of the nightshade family ([[Solanaceae spp. - Nightshade]]).

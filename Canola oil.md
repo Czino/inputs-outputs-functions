@@ -1,0 +1,1 @@
+Canola oil is a type of vegetable oil derived from the seeds of canola plants, specifically from varieties of [[Brassica napus - Rapeseed]] and Brassica rapa that have been bred to have low levels of erucic acid and glucosinolates.
