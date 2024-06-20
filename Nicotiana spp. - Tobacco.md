@@ -1,7 +1,7 @@
 ---
 aliases: Tobacco
 ---
-Nicotiana spp., commonly known as Tobacco, are annual or perennial plants cultivated for their leaves, which contain nicotine.
+Tobacco plants are annual or perennial plants cultivated for their leaves, which contain nicotine.
 ## Inputs
 - [[Nitrogen]]
 

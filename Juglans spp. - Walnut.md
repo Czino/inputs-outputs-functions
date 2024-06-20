@@ -15,3 +15,4 @@ Walnut trees are large deciduous trees belonging to the genus _Juglans_. They ar
 
 ## Functions
 - [[Nutrient accumulator]]
+- [[Deciduous]]
