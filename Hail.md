@@ -1,0 +1,1 @@
+Hail is a form of precipitation consisting of solid ice balls or lumps, known as hailstones, that fall from thunderstorms. Hail can cause significant damage to crops, buildings, and vehicles. Plants, particularly trees with dense canopies, can provide some protection by intercepting hailstones and reducing their impact on the ground.

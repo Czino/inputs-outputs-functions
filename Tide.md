@@ -1,0 +1,1 @@
+Tides are the regular rise and fall of sea levels caused by the gravitational pull of the moon and the sun on the Earth's oceans. Tides create dynamic coastal environments that support diverse marine life and influence coastal ecosystems. They are also important for navigation, fishing, and the functioning of tidal power plants that generate renewable energy.

@@ -1,0 +1,1 @@
+Fodder refers to food provided to livestock, which can include hay, silage, grains, and other crops. It is used to ensure that animals receive adequate nutrition for growth, reproduction, and milk production. Fodder crops are specifically grown to feed domesticated animals and play a significant role in the agriculture industry.

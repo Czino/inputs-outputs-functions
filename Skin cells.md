@@ -1,0 +1,1 @@
+Skin cells are the cells that make up the outer layer of the skin, known as the epidermis. They form a protective barrier that shields the body from environmental damage, pathogens, and dehydration. Skin cells constantly renew themselves, with old cells shedding off and new ones forming.

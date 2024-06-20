@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deciduous.md",
+                "file": "Bees.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e93efe4c1df1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plant.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7f09a3d13219c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Light at night.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deciduous.md",
+                "file": "Light at night.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deciduous.md",
+                "file": "Light at night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deciduous.md"
+                "file": "Light at night.md"
               }
             }
           },
@@ -171,34 +196,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d0e5f393c896e600",
+  "active": "7e7f09a3d13219c5",
   "lastOpenFiles": [
-    "Laburnum anagyroides - Golden-chain tree.md",
-    "Juglans spp. - Walnut.md",
-    "Hippophae rhamnoides - Sea buckthorn.md",
-    "Deciduous.md",
-    "Colutea arborescens - Bladder senna.md",
-    "Amorpha fruticosa - False indigo.md",
-    "Drought-tolerance.md",
-    "Vine.md",
-    "Petroselinum crispum - Parsley.md",
-    "Nicotiana spp. - Tobacco.md",
-    "Nicotine.md",
-    "Glycyrrhiza spp. - Licorice.md",
-    "Wisteria spp. - Wisteria.md",
-    "Prosopis glandulosa - Mesquite.md",
-    "Astragalus spp. - Milkvetch.md",
-    "Cercocarpus montanus - Mountain mahogany.md",
-    "Stylosanthes biflora - Pencil flower.md",
-    "Psoralea esculenta - Prairie turnip.md",
-    "Sesbania exaltata - Sesbania.md",
-    "Albizzia julibrisin - Mimosa.md",
-    "Spartium junceum - Spanish broom.md",
-    "Crotolaria juncea - Sunn hemp.md",
-    "Ground cover.md",
-    "Lathyrus spp. - Sweet pea.md",
-    "Hedysarum boreale - Sweet vetch.md",
-    "Comptonia peregrina - Sweetfern.md",
+    "Air purification.md",
+    "Insect shelter.md",
+    "Biodiversity.md",
+    "Tide.md",
+    "Light at night.md",
+    "Infrared light.md",
+    "UV-light.md",
+    "Clock.md",
+    "Ash.md",
+    "Fraxinus spp. - Ash.md",
+    "Water vapor.md",
+    "Plant.md",
+    "Snow.md",
+    "Hail.md",
+    "Water retention.md",
+    "Nutrient transport.md",
+    "Dust collection.md",
+    "Wildlife habitat.md",
+    "Cooling.md",
+    "Willow feeder.md",
+    "Poop beast.md",
+    "Wind reduction.md",
+    "Soil.md",
+    "Leaves.md",
+    "Bark.md",
+    "Shade.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

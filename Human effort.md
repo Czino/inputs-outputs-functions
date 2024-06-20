@@ -1,0 +1,1 @@
+Human effort refers to the physical and mental work exerted by people to achieve a task or goal. In gardening and agriculture, human effort includes planting, weeding, watering, harvesting, and maintaining plants. Effective use of human effort is essential for successful cultivation, landscaping, and overall garden management.

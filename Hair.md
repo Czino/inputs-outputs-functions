@@ -1,0 +1,1 @@
+Hair is a filamentous biomaterial that grows from follicles found in the dermis. Hair is primarily composed of keratin, a protein that provides strength and flexibility. It plays various roles, including protection, regulation of body temperature, and sensory functions. In animals, hair (or fur) can provide insulation and camouflage.

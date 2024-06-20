@@ -1,0 +1,1 @@
+Snow is frozen precipitation in the form of ice crystals that fall in soft, white flakes. Accumulated snow provides insulation for plants and soil, protecting them from extreme cold. Melting snow also replenishes water supplies and contributes to groundwater recharge. However, heavy snow can cause damage to trees and shrubs by breaking branches and stems.

@@ -4,5 +4,5 @@ none
 
 ## Outputs
 - [[Light at night]]
-- [[Tides]]
+- [[Tide]]
 - [[Clock]]

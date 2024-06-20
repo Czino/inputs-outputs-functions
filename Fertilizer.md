@@ -1,0 +1,1 @@
+Fertilizer is any material added to soil or plants to supply essential nutrients that promote plant growth. Fertilizers can be organic (such as compost and manure) or inorganic (such as chemical fertilizers). They are used to improve soil fertility, enhance crop yields, and ensure that plants receive necessary nutrients like nitrogen, phosphorus, and potassium.

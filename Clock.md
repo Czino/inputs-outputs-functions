@@ -1,0 +1,1 @@
+A clock is a device used to measure and indicate time. Clocks are essential tools in daily life, helping people schedule activities and manage time effectively. They come in various forms, including analog, digital, and atomic clocks, each serving to provide accurate timekeeping.

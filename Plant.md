@@ -5,5 +5,6 @@ Plants include various types of flora, including annuals, perennials, herbs, gra
 - [[Fertilizer]]
 ## Outputs
 - [[Biomass]]
+- [[Water vapor]]
 ## Functions
 - [[Photosynthesis]]

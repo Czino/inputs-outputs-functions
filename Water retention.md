@@ -1,0 +1,1 @@
+Water retention refers to the ability of soil and plants to hold water and make it available for plant use. Good water retention is crucial for plant health, reducing the need for frequent watering and helping plants survive during dry periods. Organic matter, mulch, and soil structure play key roles in enhancing water retention in gardens and landscapes.

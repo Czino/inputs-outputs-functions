@@ -2,6 +2,7 @@ Leaves are the primary sites of photosynthesis in plants, where they convert sun
 
 ## Outputs
 - [[Mulch]]
+- [[Deep mulch]]
 
 ## Functions
 - [[Photosynthesis]] (alive)

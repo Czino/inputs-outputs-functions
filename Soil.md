@@ -1,0 +1,1 @@
+Soil is the upper layer of the earth in which plants grow, composed of minerals, organic matter, water, and air. It provides essential nutrients and a medium for plant roots to anchor and absorb water and nutrients. Healthy soil is vital for plant growth, ecosystem balance, and agricultural productivity.
