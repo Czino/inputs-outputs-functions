@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zea mays - Corn.md",
+                "file": "Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zea mays - Corn.md",
+                "file": "Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zea mays - Corn.md",
+                "file": "Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zea mays - Corn.md"
+                "file": "Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "da705a1b9abe10bb",
   "lastOpenFiles": [
+    "Zea mays - Corn.md",
     "Vicia villosa - Hairy vetch.md",
     "Vicia faba - Fava bean.md",
     "Urtica urens - Stinging nettle.md",
@@ -211,7 +212,6 @@
     "Hordeum vulgare - Barley.md",
     "Helianthus annuus - Sunflower.md",
     "Gallium aparine - Cleavers.md",
-    "Foriestiera spp. - Privet.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
