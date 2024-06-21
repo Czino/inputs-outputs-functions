@@ -2,14 +2,15 @@
 aliases: Mustard
 ---
 ## Outputs
-- [[Poultry forage]][^2]
+- [[Poultry forage]][^1]
 
 ## Functions
 - [[Plant]]
-- [[Phosphorus accumulator]][^1]
-- [[Calcium accumulator]][^1]
-- [[Sulfur accumulator]][^1]
-- [[Manganese accumulator]][^1]
-- [[Copper accumulator]][^1]
+- [[Phosphorus accumulator]][^2]
+- [[Calcium accumulator]][^2]
+- [[Sulfur accumulator]][^2]
+- [[Manganese accumulator]][^2]
+- [[Copper accumulator]][^2]
 
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

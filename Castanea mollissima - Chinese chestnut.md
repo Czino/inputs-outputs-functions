@@ -2,7 +2,7 @@
 aliases: Chinese chestnut
 ---
 ## Outputs
-- [[Poultry forage]]
+- [[Poultry forage]][^1]
 
 ## Functions
 - [[Tree]]

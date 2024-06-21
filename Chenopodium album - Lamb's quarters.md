@@ -5,14 +5,15 @@ aliases: Lamb's quarters
 - [[Manganese]]
 
 ## Outputs
-- [[Poultry forage]]
+- [[Poultry forage]][^1]
 
 ## Functions
 - [[Plant]]
-- [[Nitrogen accumulator]][^1]
-- [[Phosphorus accumulator]][^1]
-- [[Potassium accumulator]][^1]
-- [[Calcium accumulator]][^1]
-- [[Manganese accumulator]][^1]
+- [[Nitrogen accumulator]][^2]
+- [[Phosphorus accumulator]][^2]
+- [[Potassium accumulator]][^2]
+- [[Calcium accumulator]][^2]
+- [[Manganese accumulator]][^2]
 
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

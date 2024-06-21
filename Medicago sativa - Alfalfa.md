@@ -26,12 +26,13 @@ aliases:
 - [[VitaminD]]
 - [[VitaminE]]
 - [[VitaminK]]
-- [[Poultry forage]]
+- [[Poultry forage]][^1]
 
 ## Functions
 - [[Plant]]
 - [[Attracting bees]]
 - [[Attracting insects]]
-- [[Nitrogen fixer]][^1]
+- [[Nitrogen fixer]][^2]
 
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3

@@ -2,11 +2,12 @@
 aliases: Chicory
 ---
 ## Outputs
-- [[Poultry forage]]
+- [[Poultry forage]][^1]
 
 ## Functions
 - [[Plant]]
-- [[Potassium accumulator]][^1]
-- [[Calcium accumulator]][^1]
+- [[Potassium accumulator]][^2]
+- [[Calcium accumulator]][^2]
 
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
