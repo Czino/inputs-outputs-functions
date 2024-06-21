@@ -1,0 +1,1 @@
+Allantoin is a natural compound found in various plants and animals, known for its healing and soothing properties. It is commonly used in skin care products to promote cell regeneration, soothe irritation, and improve skin texture. Allantoin is also present in certain medicinal plants, such as comfrey, where it contributes to the plant's therapeutic effects.

@@ -3,7 +3,7 @@ aliases: Fennel
 ---
 ## Outputs
 - [[Poultry forage]][^1]
-- [[Fennel seeds]]
+- [[Fennel seed]]
 
 ## Functions
 - [[Phosphorus accumulator]][^2]

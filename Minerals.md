@@ -1,0 +1,1 @@
+A mineral is a naturally occurring inorganic substance with a defined chemical composition and crystal structure. Minerals are essential nutrients for plants and animals, contributing to various physiological functions. In soil, minerals provide essential elements like nitrogen, phosphorus, potassium, calcium, and magnesium.

@@ -3,7 +3,7 @@ aliases: Sunflower, Helianthus annuum
 ---
 ## Outputs
 - [[Poultry forage]][^1]
-- [[Sunflower seeds]]
+- [[Sunflower seed]]
 
 ## Functions
 - [[Plant]]

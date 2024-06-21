@@ -1,0 +1,1 @@
+Shelter is a structure or natural feature that provides protection from environmental elements such as wind, rain, sun, and predators. In gardening and agriculture, plants and trees can serve as natural shelters, offering habitats for wildlife and creating microclimates that support diverse ecosystems.

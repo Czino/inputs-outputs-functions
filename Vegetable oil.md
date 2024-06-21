@@ -1,0 +1,1 @@
+Vegetable oil is an oil extracted from seeds, nuts, fruits, or other plant parts. It is widely used in cooking, food production, and as a base for various products, including cosmetics and biofuels. Vegetable oils are rich in essential fatty acids and vitamins, making them a valuable source of nutrition and energy.

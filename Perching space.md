@@ -1,0 +1,1 @@
+Perching space refers to areas where birds and other wildlife can rest, survey their surroundings, and seek refuge. Trees, shrubs, and artificial structures like birdhouses and feeders provide essential perching spaces. These spaces are crucial for supporting bird populations, aiding in their foraging, nesting, and overall survival.

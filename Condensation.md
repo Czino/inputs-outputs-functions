@@ -1,0 +1,1 @@
+Condensation is the process by which water vapor in the air transforms into liquid water when it cools. This natural phenomenon is essential for the water cycle, contributing to the formation of dew, clouds, and precipitation. In agriculture and gardening, condensation can help provide moisture to plants, particularly in arid environments.

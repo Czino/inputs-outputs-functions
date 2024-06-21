@@ -1,0 +1,1 @@
+Pollination is the process by which pollen is transferred from the male part of a flower (anther) to the female part (stigma), leading to fertilization and seed production. Pollination is essential for the reproduction of many plants and the production of fruits and seeds. It can be facilitated by wind, water, and animals, particularly insects like bees.

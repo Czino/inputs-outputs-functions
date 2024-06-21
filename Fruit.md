@@ -1,0 +1,1 @@
+A fruit is the mature ovary of a flowering plant, typically containing seeds. Fruits are a vital source of nutrients for humans and wildlife. They provide essential vitamins, minerals, and fiber, and are a key component of a healthy diet. Fruits also play a role in seed dispersal, aiding in plant reproduction.

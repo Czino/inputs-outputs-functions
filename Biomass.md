@@ -1,0 +1,1 @@
+Biomass refers to the total mass of living organisms in a given area or volume, including plants, animals, and microorganisms. In the context of energy, biomass refers to organic material derived from plants and animals that can be used as a renewable energy source, such as wood, crop residues, and manure.
