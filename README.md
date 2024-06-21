@@ -2,7 +2,7 @@ When designing a system through the permaculture lens the focus shifts from the 
 
 Here we are building an intricate web of connections between elements in an ecological design connected by their inputs, outputs and functions.
 
-Inspired by **Gaia's Garden - A Guide to Home-Scale Permaculture** by Toby Hemenway.
+Inspired by [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] by Toby Hemenway.
 
 ## How to view
 
