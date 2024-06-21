@@ -1,16 +1,10 @@
 ---
 aliases: Flowering Dogwood
 ---
-## Inputs
-- [[Phosphorus]]
-- [[Potassium]] 
-- [[Calcium]]
-
-## Outputs
-- [[Phosphorus]]
-- [[Potassium]] 
-- [[Calcium]]
-
 ## Functions
-- [[Nutrient accumulator]]
+- [[Phosphorus accumulator]][^1]
+- [[Potassium accumulator]][^1]
+- [[Calcium accumulator]][^1]
 - [[Cornus spp. - Dogwood]]
+
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

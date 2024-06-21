@@ -1,20 +1,15 @@
 ---
 aliases: Red root Pigweed
 ---
-
-## Inputs
-- [[Phosphorus]]
-- [[Potassium]]
-- [[Calcium]] 
-- [[Iron]]
-
 ## Outputs
-- [[Phosphorus]]
-- [[Potassium]]
-- [[Calcium]]
-- [[Iron]]
-- [[Poultry forage]]
+- [[Poultry forage]][^2]
 
 ## Functions
 - [[Plant]]
-- [[Nutrient accumulator]]
+- [[Phosphorus accumulator]][^1]
+- [[Potassium accumulator]][^1]
+- [[Calcium accumulator]][^1]
+- [[Iron accumulator]][^1]
+
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]]

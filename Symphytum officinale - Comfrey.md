@@ -1,24 +1,19 @@
 ---
 aliases: Comfrey
 ---
-
-## Inputs
-- [[Nitrogen]]
-- [[Potassium]]
-- [[Calcium]]
-- [[Magnesium]]
-- [[Iron]] 
-- [[Silicon]]
-
 ## Outputs
-- [[Nitrogen]]
-- [[Potassium]]
-- [[Calcium]]
-- [[Magnesium]]
-- [[Iron]] 
-- [[Silicon]]
 - [[Allantoin]]
-- [[Poultry forage]]
+- [[Poultry forage]][^2]
 
 ## Functions
-- [[Nutrient accumulator]]
+- [[Nitrogen accumulator]][^1]
+- [[Potassium accumulator]][^1]
+- [[Calcium accumulator]][^1]
+- [[Magnesium accumulator]][^1]
+- [[Iron accumulator]][^1]
+- [[Silicon accumulator]][^1]
+- [[Perennial]]
+- [[Plant]]
+
+
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

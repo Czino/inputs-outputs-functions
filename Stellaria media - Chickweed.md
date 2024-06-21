@@ -1,16 +1,12 @@
 ---
 aliases: Chickweed
 ---
-
-## Inputs
-- [[Phosphorus]] 
-- [[Potassium]]
-
 ## Outputs
-- [[Phosphorus]] 
-- [[Potassium]]
-- [[Poultry forage]]
+- [[Poultry forage]][^2]
 
 ## Functions
 - [[Plant]]
-- [[Nutrient accumulator]]
+- [[Phosphorus accumulator]][^1]
+- [[Potassium accumulator]][^1]
+
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
