@@ -3,7 +3,7 @@ aliases: Hackberry
 ---
 ## Outputs
 - [[Poultry forage]][^1]
-- [[Winter fruits for birds]]
+- [[Winter fruits for birds]][^1]
 ## Functions
 - [[Tree]]
 

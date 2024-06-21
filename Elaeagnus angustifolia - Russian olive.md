@@ -4,7 +4,7 @@ aliases: Russian olive
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Bird nesting space]][^2]
-- [[Winter fruits for birds]]
+- [[Winter fruits for birds]][^2]
 ## Functions
 - [[Shrub]]
 - [[Nitrogen fixer]][^3]

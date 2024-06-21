@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ulmus spp. - Elm.md",
+                "file": "Viburnum trilobum - American cranberry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Bird nesting space\"",
+                "query": "\"Winter fruits for birds\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ulmus spp. - Elm.md",
+                "file": "Viburnum trilobum - American cranberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ulmus spp. - Elm.md",
+                "file": "Viburnum trilobum - American cranberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ulmus spp. - Elm.md"
+                "file": "Viburnum trilobum - American cranberry.md"
               }
             }
           },
@@ -159,32 +159,32 @@
   },
   "active": "d5526e4a24a8ffec",
   "lastOpenFiles": [
-    "Sambucus spp. - Elderberry.md",
+    "Viburnum opulus - European cranberry.md",
+    "Sorbus spp. - Mountain ash.md",
     "Rosa spp. - Rose.md",
+    "Rhus typhina - Staghorn sumac.md",
+    "Rhus glabra - Smooth sumac.md",
+    "Phellodendron amurense - Amur cork tree.md",
+    "Myrica spp. - Bayberry.md",
+    "Malus spp. - Apple.md",
+    "Lonicera maackii - Amur honeysuckle.md",
+    "Liriodendron tulipfera - Tulip tree.md",
+    "Juniperus virginiana - Eastern red cedar.md",
+    "Ilex spp. - Holly.md",
+    "Elaeagnus umbellata - Autumn olive.md",
+    "Elaeagnus angustifolia - Russian olive.md",
+    "Diospyrus spp. - Persimmon.md",
+    "Crataegus spp. - Hawthorn.md",
+    "Celtis spp. - Hackberry.md",
+    "Ulmus spp. - Elm.md",
+    "Sambucus spp. - Elderberry.md",
     "Pseudotsuga menziesii - Douglas fir.md",
     "Rhamnus spp. - Buckthorn.md",
     "Pinus spp. - Pine.md",
     "Picea spp. - Spruce.md",
     "Phyllostachys spp. - Bamboo.md",
     "Morus spp. - Mulberry.md",
-    "Malus spp. - Apple.md",
     "Lycium spp. - Wolfberry.md",
-    "Ilex spp. - Holly.md",
-    "Gaultheria shallon - Salal.md",
-    "Fraxinus spp. - Ash.md",
-    "Elaeagnus angustifolia - Russian olive.md",
-    "Diospyrus spp. - Persimmon.md",
-    "Crataegus spp. - Hawthorn.md",
-    "Crataegus azarolus - Azarole.md",
-    "Cornus florida - Flowering Dogwood.md",
-    "Cornus spp. - Dogwood.md",
-    "Bird house.md",
-    "Berberis spp. - Barberry.md",
-    "Amelanchier spp. - Serviceberry.md",
-    "Alnus spp. - Alder.md",
-    "Acer spp. - Maple.md",
-    "Tipuana Tipu - Tipa.md",
-    "Ribes cereum - Wax currant.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

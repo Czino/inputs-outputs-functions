@@ -3,7 +3,7 @@ aliases: Hawthorn
 ---
 ## Outputs
 - [[Bird nesting space]][^1]
-- [[Winter fruits for birds]]
+- [[Winter fruits for birds]][^1]
 - [[Poultry forage]][^2]
 ## Function
 - [[Plant]]
