@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vicia spp. - Vetch.md",
+                "file": "Wisteria spp. - Wisteria.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -297,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Nutrient accumulator\"",
+                "query": "\"[[Nitrogen fixer]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vicia spp. - Vetch.md",
+                "file": "Wisteria spp. - Wisteria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vicia spp. - Vetch.md",
+                "file": "Wisteria spp. - Wisteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vicia spp. - Vetch.md"
+                "file": "Wisteria spp. - Wisteria.md"
               }
             }
           },
@@ -405,34 +405,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c20732f7aca1cfc2",
+  "active": "915a7e182a4a28fb",
   "lastOpenFiles": [
-    "Verbascum spp. - Common Mullein.md",
-    "Valeriana officinalis - Valerian.md",
-    "Urtica urens - Stinging nettle.md",
-    "Typha latifolia - Cattail.md",
-    "Tussilago farfara - Coltsfoot.md",
+    "Vigna unguiculata - Cowpea.md",
+    "Vicia spp. - Vetch.md",
+    "Vicia faba - Fava bean.md",
     "Trifolium spp. - Clover.md",
-    "Thlaspi caerulescens - Alpine Pennycress.md",
-    "Taraxacum vulgara - Dandelion.md",
-    "Tanacetum vulgare - Tansy.md",
-    "Tagetes spp. - Marigold.md",
-    "Tagetes minuta - Mexican marigold.md",
-    "Symphytum officinale - Comfrey.md",
-    "Stellaria media - Chickweed.md",
-    "Sonchus arvensis - Sow thistle.md",
-    "Sonchus arvensis - Creeping thistle.md",
-    "Seneciu vulgaris - Groundsel.md",
-    "Satureja spp. - Savory.md",
-    "Salsola pestifer - Russian thistle.md",
-    "Salix spp. - Willow.md",
-    "Rumex obtusifolia - Broad leaved Dock.md",
-    "Rumex acetosella - Sheep sorrel.md",
+    "Tipuana Tipu - Tipa.md",
+    "Thermopsis villosa - Carolina bush pea.md",
+    "Stylosanthes biflora - Pencil flower.md",
+    "Strophistyles umbellata - Wild Bean.md",
+    "Spartium junceum - Spanish broom.md",
+    "Shepherdia argentea - Buffaloberry.md",
+    "Sesbania exaltata - Sesbania.md",
     "Robinia pseudoacacia - Black Locust.md",
-    "Quercus spp. - Oaks.md",
-    "Poterium sanguisorba - Salad burnet.md",
-    "Pteridium aquifolium - Eastern Bracken.md",
-    "Potentilla anserina - Silverweed.md",
+    "Psoralea esculenta - Prairie turnip.md",
+    "Psoralea esculenta - Breadroot.md",
+    "Prosopis glandulosa - Mesquite.md",
+    "Phaseolus spp. - Bean.md",
+    "Myrica pensylvanica - Bayberry.md",
+    "Myrica gale - Sweet gale.md",
+    "Myrica cerifrea - Wax Myrtle.md",
+    "Medicago truncatula - Barrel medic.md",
+    "Maackia amurensis - Amur Maackia.md",
+    "Medicago sativa - Alfalfa.md",
+    "Lupinus spp. - Lupine.md",
+    "Lotus corniculatus - Bird's foot trefoil.md",
+    "Lespedeza thunbergii - Bush clover.md",
+    "Lathyrus spp. - Sweet pea.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
