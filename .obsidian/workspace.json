@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wisteria spp. - Wisteria.md",
+                "file": "Typha angustifolia - Cattail.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -297,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"[[Nitrogen fixer]]\"",
+                "query": "\"[Soil stabilization]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wisteria spp. - Wisteria.md",
+                "file": "Typha angustifolia - Cattail.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wisteria spp. - Wisteria.md",
+                "file": "Typha angustifolia - Cattail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wisteria spp. - Wisteria.md"
+                "file": "Typha angustifolia - Cattail.md"
               }
             }
           },
@@ -405,8 +405,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "915a7e182a4a28fb",
+  "active": "c20732f7aca1cfc2",
   "lastOpenFiles": [
+    "Rhus typhina - Staghorn sumac.md",
+    "Psoralea esculenta - Breadroot.md",
+    "Potentilla fruticosa - Cinquefoil.md",
+    "Phyllostachys spp. - Bamboo.md",
+    "Olea europaea - Olive.md",
+    "Ground cover.md",
+    "Gleditsia triacanthos - Honey Locust.md",
+    "Castanea mollissima - Chinese chestnut.md",
+    "Carya ovata - Shagbark hickory.md",
+    "Caragana arborescens - Siberian pea shrub.md",
+    "Baccharis pilularis - Coyote brush.md",
+    "Ailanthus altissima - Tree of heaven.md",
+    "Tree.md",
+    "Swale.md",
+    "Typha angustifolia - Cattail.md",
+    "Wisteria spp. - Wisteria.md",
     "Vigna unguiculata - Cowpea.md",
     "Vicia spp. - Vetch.md",
     "Vicia faba - Fava bean.md",
@@ -417,22 +433,6 @@
     "Strophistyles umbellata - Wild Bean.md",
     "Spartium junceum - Spanish broom.md",
     "Shepherdia argentea - Buffaloberry.md",
-    "Sesbania exaltata - Sesbania.md",
-    "Robinia pseudoacacia - Black Locust.md",
-    "Psoralea esculenta - Prairie turnip.md",
-    "Psoralea esculenta - Breadroot.md",
-    "Prosopis glandulosa - Mesquite.md",
-    "Phaseolus spp. - Bean.md",
-    "Myrica pensylvanica - Bayberry.md",
-    "Myrica gale - Sweet gale.md",
-    "Myrica cerifrea - Wax Myrtle.md",
-    "Medicago truncatula - Barrel medic.md",
-    "Maackia amurensis - Amur Maackia.md",
-    "Medicago sativa - Alfalfa.md",
-    "Lupinus spp. - Lupine.md",
-    "Lotus corniculatus - Bird's foot trefoil.md",
-    "Lespedeza thunbergii - Bush clover.md",
-    "Lathyrus spp. - Sweet pea.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

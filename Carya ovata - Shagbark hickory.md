@@ -9,6 +9,7 @@ aliases: Shagbark hickory
 - [[Phosphorus accumulator]][^1]
 - [[Potassium accumulator]][^1]
 - [[Calcium accumulator]][^1]
-- [[Soil stabilization]]
+- [[Soil stabilization]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
