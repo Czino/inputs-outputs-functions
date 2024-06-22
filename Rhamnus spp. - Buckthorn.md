@@ -1,6 +1,7 @@
 ---
 aliases: Buckthorn
 ---
+Buckthorn includes both deciduous and evergreen shrubs and small trees. Some species produce small, black berries that are mildly toxic to humans but consumed by birds. Buckthorn is often considered invasive due to its aggressive growth and ability to outcompete native plants.
 ## Outputs
 - [[Bird nesting space]][^1]
 - [[Poultry forage]][^2]

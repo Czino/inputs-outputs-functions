@@ -1,6 +1,7 @@
 ---
 aliases: Sunflower, Helianthus annuum
 ---
+Sunflower (Helianthus annuus) is an annual plant known for its large, bright yellow flowers and edible seeds. The seeds are consumed as snacks, used to produce sunflower oil, and serve as bird feed. Sunflowers are also appreciated for their ornamental beauty and ability to improve soil health through phytoremediation.
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Sunflower seed]]

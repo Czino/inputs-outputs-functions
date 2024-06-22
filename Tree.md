@@ -9,6 +9,7 @@ Trees are the largest plants in an ecological system and offer numerous benefits
 
 ## Functions
 - [[Plant]]
+- [[Perennial]]
 - [[Soil stabilization]]
 - [[Dust collection]]
 - [[Nutrient transport]]

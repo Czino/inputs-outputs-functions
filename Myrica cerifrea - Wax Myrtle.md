@@ -2,7 +2,6 @@
 aliases: Wax Myrtle
 ---
 ## Functions
-- [[Plant]]
 - [[Nitrogen fixer]][^1]
 - [[Myrica spp. - Bayberry]]
 

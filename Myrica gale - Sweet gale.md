@@ -2,7 +2,6 @@
 aliases: Sweet gale
 ---
 ## Functions
-- [[Plant]]
 - [[Nitrogen fixer]][^1]
 - [[Myrica spp. - Bayberry]]
 

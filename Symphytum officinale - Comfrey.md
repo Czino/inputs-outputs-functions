@@ -1,6 +1,7 @@
 ---
 aliases: Comfrey
 ---
+Comfrey (Symphytum officinale) is a perennial herb known for its large, hairy leaves and bell-shaped flowers. It is used in traditional medicine for its wound-healing and anti-inflammatory properties. Comfrey leaves are also used as a nutrient-rich mulch and compost activator in organic gardening.
 ## Outputs
 - [[Allantoin]]
 - [[Poultry forage]][^2]
@@ -13,7 +14,7 @@ aliases: Comfrey
 - [[Iron accumulator]][^2]
 - [[Silicon accumulator]][^2]
 - [[Perennial]]
-- [[Plant]]
+- [[Herb]]
 
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

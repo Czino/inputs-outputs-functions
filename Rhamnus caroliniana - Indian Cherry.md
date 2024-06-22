@@ -1,8 +1,7 @@
 ---
 aliases: Indian Cherry
 ---
-## Outputs
-- [[Poultry forage]][^1]
+Indian Cherry (Rhamnus caroliniana) is a deciduous shrub or small tree producing small berries. The berries are food for birds and wildlife. The plant is also valued for its ornamental qualities, including its shiny leaves and attractive bark.
 
 ## Functions
 - [[Tree]]

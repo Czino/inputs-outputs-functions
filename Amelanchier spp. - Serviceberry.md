@@ -1,5 +1,5 @@
 ---
-aliases: Serviceberry
+aliases: Serviceberry, Juneberry
 ---
 ## Outputs
 - [[Bird nesting space]][^1]

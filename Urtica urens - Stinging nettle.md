@@ -1,6 +1,7 @@
 ---
 aliases: Stinging nettle
 ---
+Stinging nettle (Urtica urens) is a herbaceous plant known for its stinging hairs that cause skin irritation. Despite this, nettles are highly nutritious, used in teas, soups, and traditional medicine for their anti-inflammatory and diuretic properties. They also support biodiversity by providing habitat for various insects.
 ## Outputs
 - [[Poultry forage]][^1]
 

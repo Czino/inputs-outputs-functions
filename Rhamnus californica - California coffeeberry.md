@@ -1,11 +1,9 @@
 ---
 aliases: California coffeeberry
 ---
-## Outputs
-- [[Poultry forage]][^1]
+California Coffeeberry (Rhamnus californica) is a versatile shrub known for its red to black berries and evergreen foliage. The berries are used in traditional medicine, and the plant is commonly used in landscaping for its drought tolerance and ability to attract birds and beneficial insects.
 
 ## Functions
 - [[Tree]]
+- [[Drought-tolerance]]
 - [[Rhamnus spp. - Buckthorn]]
-
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

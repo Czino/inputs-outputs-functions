@@ -1,6 +1,7 @@
 ---
 aliases: Fennel
 ---
+Fennel (Foeniculum vulgare) is a perennial herb in the carrot family, known for its feathery leaves and aromatic seeds. Both the bulb and seeds are used in cooking for their sweet, anise-like flavor. Fennel is also valued for its medicinal properties, aiding digestion and reducing inflammation.
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Fennel seed]]

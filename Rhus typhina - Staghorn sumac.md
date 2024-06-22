@@ -1,6 +1,7 @@
 ---
 aliases: Staghorn sumac
 ---
+Staghorn sumac (Rhus typhina) is a deciduous shrub or small tree known for its distinctive, fuzzy branches and bright red fruit clusters. The tart, lemony berries are used to make a flavorful spice and beverages. Staghorn sumac is also valued for its striking autumn foliage and erosion control properties.
 ## Outputs
 - [[Winter fruits for birds]][^1]
 ## Functions

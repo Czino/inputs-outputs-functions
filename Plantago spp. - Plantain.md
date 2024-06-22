@@ -1,7 +1,7 @@
 ---
 aliases: Plantain
 ---
-
+Plantain is a genus of herbaceous plants known for their medicinal properties. The leaves are used to treat wounds, insect bites, and inflammation due to their soothing and antibacterial qualities. Plantains also improve soil health by accumulating minerals and providing ground cover.
 ## Outputs
 - [[Poultry forage]][^1]
 

@@ -2,7 +2,6 @@
 aliases: Bayberry
 ---
 ## Functions
-- [[Plant]]
 - [[Nitrogen fixer]][^1]
 - [[Myrica spp. - Bayberry]]
 

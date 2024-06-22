@@ -9,6 +9,7 @@ Vetch includes herbaceous plants with tendrils and small purple or white flowers
 - [[Copper accumulator]][^1]
 - [[Cobalt accumulator]][^1]
 - [[Nitrogen fixer]][^2]
+- [[Plant]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
