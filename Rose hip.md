@@ -1,0 +1,1 @@
+Rose hips are the fruit of rose plants (Rosa spp.), typically red or orange. They are rich in vitamin C and antioxidants, commonly used in teas, jams, jellies, and herbal remedies.

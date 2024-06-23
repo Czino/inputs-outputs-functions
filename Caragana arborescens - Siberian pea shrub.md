@@ -1,6 +1,7 @@
 ---
 aliases: Siberian pea shrub
 ---
+Siberian Pea Shrub (Caragana arborescens) is a hardy deciduous shrub producing small yellow flowers and edible seeds. The seeds are high in protein and used as animal feed. The plant is also valued for its nitrogen-fixing ability, improving soil fertility and being used in windbreaks and hedges.
 ## Outputs
 - [[Poultry forage]][^1]
 ## Functions

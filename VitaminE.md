@@ -1,0 +1,1 @@
+Vitamin E is a fat-soluble antioxidant that helps protect cells from damage caused by free radicals. It supports immune function, skin health, and acts as an anti-inflammatory agent. Vitamin E is found in nuts, seeds, spinach, and vegetable oils.

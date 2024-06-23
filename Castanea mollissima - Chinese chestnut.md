@@ -1,8 +1,17 @@
 ---
 aliases: Chinese chestnut
 ---
+Chinese Chestnut (Castanea mollissima) is a deciduous tree producing sweet, edible chestnuts. The nuts are used in various culinary dishes, including roasting and baking. The tree is also valued for its resistance to chestnut blight and its durable wood.
+## Inputs
+ - [[Copper]]
+- [[Iron]]
+- [[Magnesium]]
+- [[Manganese]]
+- [[Potassium]]
+- [[Zinc]]
 ## Outputs
 - [[Poultry forage]][^1]
+- [[Edible chestnut]]
 
 ## Functions
 - [[Tree]]

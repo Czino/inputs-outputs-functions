@@ -2,6 +2,8 @@
 aliases: Bean
 ---
 
+## Outputs
+- [[Bean]]
 ## Functions
 - [[Plant]]
 - [[Nitrogen fixer]][^1]

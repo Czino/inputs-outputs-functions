@@ -1,0 +1,1 @@
+Vitamin K is essential for blood clotting and bone health. It helps in the formation of clotting factors that prevent excessive bleeding and also supports bone metabolism. Vitamin K is found in leafy green vegetables, such as kale, spinach, and broccoli, as well as in fermented foods and dairy products.

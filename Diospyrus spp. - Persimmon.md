@@ -2,6 +2,10 @@
 aliases: Persimmon
 ---
 Persimmon includes both deciduous and evergreen trees known for their edible fruits, which range from astringent to sweet. The fruits are high in vitamins and antioxidants and can be eaten fresh, dried, or cooked. Persimmon wood is also prized for its hardness and is used in furniture and sports equipment.
+
+## Inputs
+- [[Manganese]]
+- [[Potassium]]
 ## Outputs
 - [[Bird nesting space]][^1]
 - [[Winter fruits for birds]][^1]

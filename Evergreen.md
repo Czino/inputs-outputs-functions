@@ -1,0 +1,1 @@
+Evergreen plants retain their leaves throughout the year, providing year-round foliage. They include species like pines, firs, and hollies. Evergreens are used in landscaping for continuous greenery and windbreaks.

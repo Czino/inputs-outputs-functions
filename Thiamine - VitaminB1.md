@@ -1,0 +1,1 @@
+Thiamine, or Vitamin B1, is essential for energy metabolism and nerve function. It is found in foods like whole grains, pork, fish, and legumes, helping the body convert nutrients into energy and supporting overall cellular function.

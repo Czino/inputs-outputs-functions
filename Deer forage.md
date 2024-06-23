@@ -1,0 +1,1 @@
+Deer forage refers to plants and vegetation that are consumed by deer as a primary food source. This includes a variety of grasses, shrubs, and trees that provide necessary nutrients for deer. Providing deer forage can help support local wildlife populations and maintain balanced ecosystems.

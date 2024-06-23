@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elaeagnus × submacrophylla - Elaeagnus.md",
+                "file": "Diospyrus spp. - Persimmon.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44af001eb5b216a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berberis spp. - Barberry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "369cdf6857e2b61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edible chestnut.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c90de2292effedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VitaminE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30279a372ff63d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VitaminB6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " x ",
+                "query": "\"[[Beans]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elaeagnus × submacrophylla - Elaeagnus.md",
+                "file": "VitaminE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elaeagnus × submacrophylla - Elaeagnus.md",
+                "file": "VitaminE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elaeagnus × submacrophylla - Elaeagnus.md"
+                "file": "VitaminE.md"
               }
             }
           },
@@ -157,34 +210,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8ad101d311d78f33",
+  "active": "1c90de2292effedf",
   "lastOpenFiles": [
-    "Fagopyrum dibotrys - Perennial buckwheat.md",
-    "Feijoa sellowiana - Pineapple guava.md",
-    "Ficus carica - Fig.md",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Lonicera caerula var. edulis - Honeysuckle.md",
+    "VitaminK.md",
+    "VitaminA.md",
+    "Folate - VitaminB9.md",
+    "Pantothenic acid - VitaminB5.md",
+    "Niacin - Vitamin B3.md",
+    "Riboflavin - VitaminB2.md",
+    "Thiamine - VitaminB1.md",
+    "VitaminB6.md",
+    "Olive oil.md",
+    "Asimina trilobata - Pawpaw.md",
+    "Pawpaw fruit.md",
+    "Nut.md",
+    "Castanea sativa - Sweet chestnut.md",
+    "Edible chestnut.md",
+    "Castanea mollissima - Chinese chestnut.md",
+    "Feijoa fruit.md",
+    "Berry.md",
     "Quercus spp. - Oaks.md",
-    "Rhamnus californica - California coffeeberry.md",
-    "Rhamnus caroliniana - Indian Cherry.md",
-    "Robinia pseudoacacia - Black Locust.md",
-    "Rubus discolor - Himalayan blackberry.md",
-    "Rubus idaeus - Red raspberry.md",
-    "Rubus occidentalis - Black raspberry.md",
-    "Sambucus caerculea - Blue elderberry.md",
-    "Sambucus nigra - Black elderberry.md",
-    "Symphytum officinale - Comfrey.md",
-    "Amaranthus retroflexus - Red root Pigweed.md",
-    "Arctostaphyllos spp. - Manzanita.md",
-    "Avena sativa - Oat.md",
-    "Beta vulgaris - Swiss chard.md",
-    "Brassica spp. - Mustard.md",
-    "Chenopodim quinoa - Quinoa.md",
-    "Chenopodium album - Lamb's quarters.md",
-    "Cichorium intybus - Chicory.md",
-    "Sunflower seed.md",
-    "Cucumis sativus - Cucumber.md",
+    "Acorn.md",
+    "Evergreen.md",
+    "Cucumber.md",
+    "Pistachio.md",
+    "Pistacia spp. - Pistachio.md",
+    "Phaseolus spp. - Bean.md",
     "Vicia faba - Fava bean.md",
+    "Bean.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

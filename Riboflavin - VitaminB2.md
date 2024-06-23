@@ -1,0 +1,1 @@
+Riboflavin, or Vitamin B2, is crucial for energy production and cellular function. It is present in dairy products, eggs, green leafy vegetables, and meats. Riboflavin helps in the metabolism of fats, drugs, and steroids.

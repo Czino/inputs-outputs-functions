@@ -1,0 +1,1 @@
+Vitamin A is essential for vision, immune function, and skin health. It is found in foods like carrots, sweet potatoes, spinach, and liver. Vitamin A helps maintain healthy vision, skin, and other tissues in the body, as well as supporting immune function.
