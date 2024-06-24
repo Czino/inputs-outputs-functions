@@ -6,6 +6,7 @@ Siberian Pea Shrub (Caragana arborescens) is a hardy deciduous shrub producing s
 - [[Poultry forage]][^1]
 ## Functions
 - [[Shrub]]
+- [[Deciduous]]
 - [[Nitrogen fixer]][^2]
 - [[Soil stabilization]][^1]
 

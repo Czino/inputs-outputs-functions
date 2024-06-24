@@ -5,5 +5,6 @@ Azarole (Crataegus azarolus) is a deciduous tree or shrub known for its edible, 
 
 ## Functions
 - [[Tree]]
+- [[Deciduous]]
 - [[Crataegus spp. - Hawthorn]]
 

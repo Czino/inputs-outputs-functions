@@ -9,5 +9,6 @@ Apple encompasses a variety of deciduous trees known for their sweet, edible fru
 
 ## Functions
 - [[Tree]]
+- [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

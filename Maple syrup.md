@@ -2,3 +2,7 @@ Maple syrup is a sweet syrup made from the sap of sugar maple trees (Acer spp.).
 
 ## Outputs
 - [[Human food]]
+- [[Calcium]]
+- [[Manganese]]
+- [[Potassium]]
+- [[Zinc]]

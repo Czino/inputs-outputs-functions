@@ -5,4 +5,4 @@ A sea is a smaller body of saltwater, often partially enclosed by land, and typi
 
 ## Functions
 - [[Water retention]]
-- [[Heat regulation]]
+- [[Thermal mass]]

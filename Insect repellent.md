@@ -1,0 +1,1 @@
+Insect repellents include plants that naturally deter insects due to their scent or chemical properties, as well as chemical or synthetic substances. These repellents help prevent insect bites and reduce the risk of insect-borne diseases.

@@ -5,5 +5,5 @@ A lake is a substantial body of standing water, larger and deeper than a [[pond]
 
 ## Functions
 - [[Water retention]]
-- [[Heat regulation]]
+- [[Thermal mass]]
 - [[Firebreak]]

@@ -8,6 +8,7 @@ Shagbark Hickory (Carya ovata) is a deciduous tree known for its sweet, edible n
 
 ## Functions
 - [[Tree]]
+- [[Deciduous]]
 - [[Phosphorus accumulator]][^2]
 - [[Potassium accumulator]][^2]
 - [[Calcium accumulator]][^2]

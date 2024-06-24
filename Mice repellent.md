@@ -1,0 +1,1 @@
+Mice repellents can be natural, such as plants with strong scents that deter mice, or synthetic chemicals. These repellents are used to keep mice away from homes, gardens, and stored food by creating an environment that is unpleasant for them.

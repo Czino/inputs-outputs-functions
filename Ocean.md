@@ -5,4 +5,4 @@ An ocean is a vast and continuous body of saltwater that covers more than 70% of
 
 ## Functions
 - [[Water retention]]
-- [[Heat regulation]]
+- [[Thermal mass]]

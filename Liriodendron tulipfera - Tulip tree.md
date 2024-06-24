@@ -5,4 +5,8 @@ Tulip tree (Liriodendron tulipifera), also known as yellow poplar, is a large de
 ## Outputs
 - [[Winter fruits for birds]][^1]
 
+## Functions
+- [[Tree]]
+- [[Deciduous]]
+
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

@@ -1,0 +1,1 @@
+Rabbit repellents include certain plants that rabbits find unappealing, as well as chemical solutions. These repellents are used to protect gardens and crops from rabbit feeding by making the plants taste or smell unattractive to them.

@@ -8,5 +8,6 @@ Shellbark Hickory (Carya laciniosa) is a large deciduous tree producing edible n
 
 ## Functions
 - [[Tree]]
+- [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

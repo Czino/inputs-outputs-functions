@@ -8,5 +8,6 @@ Chokeberry (Aronia melanocarpa) is a deciduous shrub known for its astringent, d
 
 ## Functions
 - [[Shrub]]
+- [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

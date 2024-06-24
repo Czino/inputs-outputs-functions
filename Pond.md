@@ -4,5 +4,5 @@ A pond is a body of still water, smaller than a [[Lake|lake]], typically found i
 - [[Fish habitat]]
 ## Functions
 - [[Water retention]]
-- [[Heat regulation]]
+- [[Thermal mass]]
 - [[Firebreak]]

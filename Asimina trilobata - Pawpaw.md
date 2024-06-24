@@ -16,5 +16,6 @@ Pawpaw (Asimina triloba) is a deciduous tree producing large, sweet, and custard
 
 ## Functions
 - [[Tree]]
+- [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

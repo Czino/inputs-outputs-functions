@@ -13,3 +13,4 @@ Trees are the largest plants in an ecological system and offer numerous benefits
 - [[Soil stabilization]]
 - [[Dust collection]]
 - [[Nutrient transport]]
+- [[Thermal mass]] (tree trunk)

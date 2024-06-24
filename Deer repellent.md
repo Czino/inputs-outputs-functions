@@ -1,0 +1,1 @@
+Deer repellents are substances or plants used to deter deer from browsing on vegetation. These can include chemical sprays, natural substances like garlic and hot pepper, or certain plants that deer find unappealing due to their taste or scent. These repellents are used to protect gardens, crops, and ornamental plants from deer damage.
