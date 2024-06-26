@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86db632f9e4efaee",
+        "id": "07c580572decb246",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb01c0ee8eafecd",
+            "id": "0d75567730916d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagetes minuta - Mexican marigold.md",
+                "file": "Lomatium spp. - Biscuit root.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a61209fb1da6f2ad",
+            "id": "8fd353f714baf4ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mentha spp. - Mint.md",
+                "file": "Acacia spp. - Acacia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "6bc6569b5760f6e1",
+            "id": "77abde3fa2992a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhamnus spp. - Buckthorn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af70e831f4fb49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rabbit repellent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "270cdefc5c824ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insect repellent.md",
+                "file": "Garlic cloves.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhamnus spp. - Buckthorn.md",
+                "file": "Garlic cloves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhamnus spp. - Buckthorn.md",
+                "file": "Garlic cloves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhamnus spp. - Buckthorn.md"
+                "file": "Garlic cloves.md"
               }
             }
           },
@@ -210,34 +184,34 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "6bc6569b5760f6e1",
+  "active": "77abde3fa2992a33",
   "lastOpenFiles": [
-    "Rhamnus californica - California coffeeberry.md",
-    "Quercus spp. - Oaks.md",
-    "Pseudotsuga menziesii - Douglas fir.md",
-    "Pinus spp. - Pine.md",
-    "Picea spp. - Spruce.md",
-    "Olea europaea - Olive.md",
-    "Juniperus virginiana - Eastern red cedar.md",
-    "Ilex spp. - Holly.md",
-    "Gaultheria shallon - Salal.md",
-    "Foriestiera spp. - Privet.md",
-    "Feijoa sellowiana - Pineapple guava.md",
-    "Evergreen.md",
-    "Elaeagnus × submacrophylla - Elaeagnus.md",
-    "Berberis spp. - Barberry.md",
-    "Mentha piperita - Peppermint.md",
-    "Diospyrus spp. - Persimmon.md",
-    "Cornus spp. - Dogwood.md",
-    "Baccharis pilularis - Coyote brush.md",
-    "Arctostaphyllos spp. - Manzanita.md",
-    "Arctostaphyllos manzanita - Manzanita.md",
-    "Pistacia lentiscus - Lentisk.md",
-    "Rhamnus lycioides - Black hawthorn.md",
-    "Bird nesting space.md",
-    "Acer spp. - Maple.md",
-    "Crataegus douglasii - Black hawthorn.md",
-    "Ground cover.md",
+    "Tropaeolum majus - Nasturtium.md",
+    "Passiflora spp. - Passionfruit.md",
+    "Lonicera spp. - Honeysuckle.md",
+    "Humulus lupulus - Hops.md",
+    "Clematis spp. - Clematis.md",
+    "Prosopis spp. - Mesquite.md",
+    "Gleditsia triacanthos - Honey Locust.md",
+    "Prunus cerasus - Cherry.md",
+    "Robinia pseudoacacia - Black Locust.md",
+    "Fagus sylvatica - Beech.md",
+    "Acacia spp. - Acacia.md",
+    "Nitrogen fixer.md",
+    "Prunus tomentosa - Nanking cherry.md",
+    "Prunus besseyi - Hansen's bush cherry.md",
+    "Amalanchier alnifolia - Serviceberry.md",
+    "Tropaeolum tuberosum - Mashua.md",
+    "Amphicarpeae bracteata - Hog peanut.md",
+    "Helianthus tuberosus - Jerusalem artichoke.md",
+    "Lomatium spp. - Biscuit root.md",
+    "Amphicarpa bracteata - Hog peanut.md",
+    "Camassia quamash - Camas.md",
+    "Prunus persica - Peach.md",
+    "Malus spp. - Apple.md",
+    "Fargesia spp. - Bamboo.md",
+    "Fragaria spp. - Strawberry.md",
+    "Phyllostachys spp. - Bamboo.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

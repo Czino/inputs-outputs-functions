@@ -10,8 +10,9 @@ Black Locust (Robinia pseudoacacia) is a fast-growing deciduous tree known for i
 - [[Calcium accumulator]][^2]
 - [[Nitrogen fixer]][^3]
 - [[Tree]]
+- [[Attracting beneficial insects]][^4]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
 [^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
-
+[^4]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

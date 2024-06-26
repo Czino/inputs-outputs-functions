@@ -33,7 +33,7 @@ Alfalfa (Medicago sativa) is a perennial legume known for its high nutritional v
 - [[Plant]]
 - [[Perennial]]
 - [[Attracting bees]]
-- [[Attracting insects]]
+- [[Attracting beneficial insects]]
 - [[Nitrogen fixer]][^2]
 - [[Ground cover|Cover crop]]
 

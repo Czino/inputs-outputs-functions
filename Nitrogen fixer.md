@@ -4,3 +4,5 @@ Nitrogen-fixing plants convert atmospheric nitrogen into a form that plants can 
 - [[Nitrogen]]
 ## Outputs
 - [[Nitrogen]]
+## Functions
+- [[Soil building]]

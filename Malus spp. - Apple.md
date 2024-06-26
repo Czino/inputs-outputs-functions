@@ -10,5 +10,7 @@ Apple encompasses a variety of deciduous trees known for their sweet, edible fru
 ## Functions
 - [[Tree]]
 - [[Deciduous]]
+- [[Attracting beneficial insects]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

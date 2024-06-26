@@ -6,5 +6,7 @@ Acacias are trees and shrubs found in warm climates. They are valued for their o
 ## Functions
 - [[Nitrogen fixer]][^1]
 - [[Tree]]
+- [[Attracting beneficial insects]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

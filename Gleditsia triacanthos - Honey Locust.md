@@ -10,5 +10,7 @@ Honey Locust (Gleditsia triacanthos) is a deciduous tree known for its feathery 
 - [[Tree]]
 - [[Deciduous]]
 - [[Soil stabilization]][^1]
+- [[Attracting beneficial insects]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
