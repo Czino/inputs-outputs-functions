@@ -2,6 +2,8 @@
 aliases: Honeysuckle
 ---
 Honeysuckle (Lonicera spp.) is a group of shrubs and vines known for their sweetly scented flowers. They are used ornamentally for their fragrant blooms and ability to attract pollinators. Honeysuckle can also be used for erosion control and as a hedge plant.
+## Outputs
+- [[Wildlife habitat]][^1]
 ## Function
 - [[Plant]]
 - [[Attracting beneficial insects]][^1]

@@ -6,7 +6,7 @@ Apple encompasses a variety of deciduous trees known for their sweet, edible fru
 - [[Bird nesting space]][^1]
 - [[Winter fruits for birds]][^1]
 - [[Apple]]
-
+- [[Wildlife habitat]][^2]
 ## Functions
 - [[Tree]]
 - [[Deciduous]]

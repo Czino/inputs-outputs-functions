@@ -5,6 +5,7 @@ Goumi is a deciduous small tree known for its small, tart, and sweet red berries
 
 ## Outputs
 - [[Poultry forage]][^1]
+- [[Wildlife habitat]][^3]
 ## Functions
 - [[Tree]]
 - [[Deciduous]]
@@ -12,3 +13,4 @@ Goumi is a deciduous small tree known for its small, tart, and sweet red berries
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
+[^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

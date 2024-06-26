@@ -4,6 +4,7 @@ aliases: Nanking cherry
 Nanking cherry (Prunus tomentosa) is a deciduous shrub producing small, sweet-tart cherries. The fruit is eaten fresh or used in preserves. The shrub is also used ornamentally for its profuse spring blossoms and as a hedge or windbreak.
 ## Outputs
 - [[Human food]]
+- [[Wildlife habitat]][^1]
 ## Function
 - [[Shrub]]
 - [[Deciduous]]

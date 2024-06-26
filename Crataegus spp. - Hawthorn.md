@@ -6,8 +6,10 @@ Hawthorn is a genus of small trees and shrubs known for their thorny branches, w
 - [[Bird nesting space]][^1]
 - [[Winter fruits for birds]][^1]
 - [[Poultry forage]][^2]
+- [[Wildlife habitat]][^3]
 ## Function
 - [[Plant]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

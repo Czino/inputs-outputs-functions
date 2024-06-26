@@ -5,9 +5,10 @@ Chokeberry (Aronia melanocarpa) is a deciduous shrub known for its astringent, d
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Berry]]
-
+- [[Wildlife habitat]][^2]
 ## Functions
 - [[Shrub]]
 - [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
+[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

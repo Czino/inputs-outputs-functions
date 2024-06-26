@@ -39,7 +39,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garlic cloves.md",
+                "file": "Malus pumila - Apple.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "805a9c39496bebc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rubus idaeus - Red raspberry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dad6482338bf736f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rubus occidentalis - Black raspberry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49a595e03910e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaccinium macrocarpon - Cranberry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8884cfcd00de34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crataegus spp. - Hawthorn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -76,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evergreen",
+                "query": "pfaf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garlic cloves.md",
+                "file": "Vaccinium macrocarpon - Cranberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garlic cloves.md",
+                "file": "Vaccinium macrocarpon - Cranberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garlic cloves.md"
+                "file": "Vaccinium macrocarpon - Cranberry.md"
               }
             }
           },
@@ -184,34 +236,34 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "77abde3fa2992a33",
+  "active": "b49a595e03910e03",
   "lastOpenFiles": [
-    "Tropaeolum majus - Nasturtium.md",
-    "Passiflora spp. - Passionfruit.md",
+    "Ribes x Rubus - Jostaberry.md",
+    "Rubus discolor - Himalayan blackberry.md",
+    "Rubus occidentalis - Black raspberry.md",
+    "Rubus idaeus - Red raspberry.md",
+    "Rubus spp. - Blackberry.md",
+    "Corylus spp. - Hazel.md",
+    "Schisandra chinensis - Magnolia vine.md",
     "Lonicera spp. - Honeysuckle.md",
+    "Jasminum spp. - Jasmine.md",
     "Humulus lupulus - Hops.md",
-    "Clematis spp. - Clematis.md",
-    "Prosopis spp. - Mesquite.md",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Prunus cerasus - Cherry.md",
-    "Robinia pseudoacacia - Black Locust.md",
-    "Fagus sylvatica - Beech.md",
-    "Acacia spp. - Acacia.md",
-    "Nitrogen fixer.md",
+    "Quercus garryana - White oak.md",
+    "Castanea mollissima - Chinese chestnut.md",
+    "Quercus macrocarpa - Bur oak.md",
+    "Viburnum trilobum - American cranberry.md",
+    "Vaccinium spp. - Blueberry.md",
+    "Vaccinium macrocarpon - Cranberry.md",
+    "Shepherdia argentea - Buffaloberry.md",
+    "Sambucus spp. - Elderberry.md",
+    "Rosa rugosa - Rugose rose.md",
+    "Ribes spp. - Currant.md",
+    "Ribes hirtellum - Gooseberry.md",
+    "Amphicarpeae bracteata - Hog peanut.md",
+    "Cornus mas - Cornelian cherry dogwood.md",
     "Prunus tomentosa - Nanking cherry.md",
     "Prunus besseyi - Hansen's bush cherry.md",
-    "Amalanchier alnifolia - Serviceberry.md",
-    "Tropaeolum tuberosum - Mashua.md",
-    "Amphicarpeae bracteata - Hog peanut.md",
-    "Helianthus tuberosus - Jerusalem artichoke.md",
-    "Lomatium spp. - Biscuit root.md",
-    "Amphicarpa bracteata - Hog peanut.md",
-    "Camassia quamash - Camas.md",
-    "Prunus persica - Peach.md",
-    "Malus spp. - Apple.md",
-    "Fargesia spp. - Bamboo.md",
-    "Fragaria spp. - Strawberry.md",
-    "Phyllostachys spp. - Bamboo.md",
+    "Hamamelis virginiana - Witch hazel.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

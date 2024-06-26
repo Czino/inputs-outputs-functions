@@ -5,7 +5,7 @@ Honey Locust (Gleditsia triacanthos) is a deciduous tree known for its feathery 
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Fodder]]
-
+- [[Wildlife habitat]][^2]
 ## Functions
 - [[Tree]]
 - [[Deciduous]]
