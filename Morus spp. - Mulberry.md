@@ -5,6 +5,7 @@ Mulberry is a genus of deciduous trees known for their sweet, edible berries tha
 ## Outputs
 - [[Bird nesting space]][^1]
 - [[Poultry forage]][^2]
+- [[Human food]][^2]
 ## Functions
 - [[Tree]]
 - [[Deciduous]]

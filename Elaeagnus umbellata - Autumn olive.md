@@ -6,6 +6,7 @@ Autumn olive (Elaeagnus umbellata) is a deciduous shrub known for its silver-gre
 - [[Poultry forage]][^1]
 - [[Winter fruits for birds]][^2]
 - [[Wildlife habitat]][^4]
+- [[Human food]][^4]
 ## Functions
 - [[Shrub]]
 - [[Deciduous]]

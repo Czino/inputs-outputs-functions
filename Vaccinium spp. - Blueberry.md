@@ -4,6 +4,7 @@ aliases: Blueberry
 Blueberry shrubs produce sweet, blue berries used fresh, in baking, and in preserves. They are also grown for their ornamental flowers and foliage.
 ## Outputs
 - [[Wildlife habitat]][^1]
+- [[Human food]][^1]
 ## Functions
 - [[Plant]]
 

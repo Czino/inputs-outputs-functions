@@ -5,7 +5,7 @@ Fig (Ficus carica) is a deciduous shrub or small tree known for its sweet, edibl
 
 ## Outputs
 - [[Poultry forage]][^1]
-- [[Human food]]
+- [[Fig]]
 
 ## Functions
 - [[Tree]]

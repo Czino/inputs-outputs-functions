@@ -4,7 +4,7 @@ aliases: Cornelian cherry dogwood
 Cornelian cherry dogwood is a small tree or shrub with bright yellow flowers and edible red fruits. It is used ornamentally and for its fruits, which can be eaten fresh or made into preserves.
 ## Outputs
 - [[Wildlife habitat]][^1]
-- [[Human food]][^2]
+- [[Human food]][^1][^2]
 ## Functions
 - [[Plant]]
 

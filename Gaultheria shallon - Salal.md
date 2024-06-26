@@ -7,6 +7,7 @@ Salal (Gaultheria shallon) is an evergreen shrub native to the Pacific Northwest
 - [[Deer forage]]
 - [[Berry]]
 - [[Wildlife habitat]][^2]
+- [[Human food]][^2]
 ## Functions
 - [[Shrub]]
 - [[Evergreen]]

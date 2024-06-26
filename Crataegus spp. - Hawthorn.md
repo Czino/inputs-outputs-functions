@@ -7,6 +7,7 @@ Hawthorn is a genus of small trees and shrubs known for their thorny branches, w
 - [[Winter fruits for birds]][^1]
 - [[Poultry forage]][^2]
 - [[Wildlife habitat]][^3]
+- [[Human food]][^3]
 ## Function
 - [[Plant]]
 

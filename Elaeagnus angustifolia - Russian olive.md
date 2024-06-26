@@ -7,6 +7,7 @@ Russian olive (Elaeagnus angustifolia) is a deciduous shrub or small tree with s
 - [[Bird nesting space]][^2]
 - [[Winter fruits for birds]][^2]
 - [[Wildlife habitat]][^4]
+- [[Human food]][^4]
 ## Functions
 - [[Shrub]]
 - [[Deciduous]]

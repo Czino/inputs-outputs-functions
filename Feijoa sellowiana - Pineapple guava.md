@@ -9,9 +9,11 @@ Pineapple Guava (Feijoa sellowiana) is an evergreen shrub or small tree producin
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Feijoa fruit]]
+- [[Human food]][^2]
 
 ## Functions
 - [[Tree]]
 - [[Evergreen]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
+[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

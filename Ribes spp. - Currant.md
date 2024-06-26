@@ -5,6 +5,7 @@ Currants are deciduous shrubs producing small, edible berries, including red, bl
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Wildlife habitat]][^2]
+- [[Human food]][^2]
 ## Functions
 - [[Shrub]]
 

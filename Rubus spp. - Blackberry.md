@@ -4,7 +4,7 @@ aliases: Blackberry
 Blackberry shrubs produce sweet, black berries used fresh or in cooking. They are valued for their fruit and as habitat for wildlife.
 ## Outputs
 - [[Wildlife habitat]][^1]
-- [[Human food]]
+- [[Human food]][^1]
 ## Functions
 - [[Shrub]]
 

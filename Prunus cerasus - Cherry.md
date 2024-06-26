@@ -3,7 +3,7 @@ aliases: Cherry
 ---
 Cherry (Prunus cerasus) refers to trees producing sour cherries, used in baking, preserves, and beverages. The trees are also appreciated for their spring blossoms and are grown both for fruit production and ornamental purposes.
 ## Outputs
-- [[Human food]]
+- [[Human food]][^1]
 ## Function
 - [[Attracting beneficial insects]][^1]
 

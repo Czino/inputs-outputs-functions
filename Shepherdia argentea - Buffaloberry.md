@@ -4,6 +4,7 @@ aliases: Buffaloberry
 Buffaloberry is a shrub producing small, tart berries used in preserves. It is also valued for its nitrogen-fixing ability and ornamental flowers.
 ## Outputs
 - [[Wildlife habitat]][^2]
+- [[Human food]][^2]
 ## Functions
 - [[Plant]]
 - [[Nitrogen fixer]][^1]

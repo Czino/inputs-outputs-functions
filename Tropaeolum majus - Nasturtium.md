@@ -2,7 +2,9 @@
 aliases: Nasturtium
 ---
 Nasturtium (Tropaeolum majus) is an annual plant known for its vibrant flowers and edible leaves. It is used ornamentally in gardens and as a companion plant for pest control. Nasturtium leaves and flowers are also used in salads for their peppery flavor.
-## Function
+## Outputs
+- [[Human food]][^1]
+## Functions
 - [[Plant]]
 - [[Annual]]
 - [[Attracting beneficial insects]][^1]

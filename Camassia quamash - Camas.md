@@ -2,6 +2,8 @@
 aliases: Camas
 ---
 Camas (Camassia quamash) is a perennial plant with striking blue flowers. It grows in moist meadows and is known for its edible bulbs, which were historically a staple food for Native American tribes. Camas is also grown ornamentally for its showy blooms.
+## Outputs
+- [[Human food]][^1]
 ## Function
 - [[Plant]]
 - [[Perennial]]

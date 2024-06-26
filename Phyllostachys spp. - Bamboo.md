@@ -6,6 +6,7 @@ Bamboo species, predominantly found in tropical and subtropical regions, are cru
 - [[Bird nesting space]][^1]
 - [[Soil stabilization]]
 - [[Wildlife habitat]][^2]
+- [[Human food]][^2]
 ## Functions
 - [[Poop beast]]
 - - [[Attracting beneficial insects]][^2]

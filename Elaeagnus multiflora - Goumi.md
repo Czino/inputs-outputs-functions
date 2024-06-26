@@ -6,6 +6,7 @@ Goumi is a deciduous small tree known for its small, tart, and sweet red berries
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Wildlife habitat]][^3]
+- [[Human food]][^3]
 ## Functions
 - [[Tree]]
 - [[Deciduous]]

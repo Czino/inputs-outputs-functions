@@ -4,7 +4,7 @@ aliases: Gooseberry
 Gooseberry is a shrub producing tart berries used in cooking and preserves. It is also valued for its ornamental flowers.
 ## Outputs
 - [[Wildlife habitat]][^1]
-- [[Human food]][^2]
+- [[Human food]][^1][^2]
 ## Functions
 - [[Shrub]]
 
