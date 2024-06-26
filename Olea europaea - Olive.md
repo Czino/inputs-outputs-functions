@@ -7,6 +7,7 @@ Olive (Olea europaea) is an evergreen tree known for its edible fruits and oil. 
 - [[Olive oil]]
 ## Functions
 - [[Tree]]
+- [[Evergreen]]
 - [[Soil stabilization]][^1]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

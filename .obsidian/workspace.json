@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mentha piperita - Peppermint.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f78f75b3c2256157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deer repellent.md",
+                "file": "Rhamnus spp. - Buckthorn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Rabbit repellent\"",
+                "query": "evergreen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deer repellent.md",
+                "file": "Rhamnus spp. - Buckthorn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deer repellent.md",
+                "file": "Rhamnus spp. - Buckthorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deer repellent.md"
+                "file": "Rhamnus spp. - Buckthorn.md"
               }
             }
           },
@@ -223,34 +210,34 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f78f75b3c2256157",
+  "active": "6bc6569b5760f6e1",
   "lastOpenFiles": [
-    "Garlic cloves.md",
-    "Deer repellent.md",
-    "Narcissus poeticus - Daffodil.md",
-    "Allium sativum - Garlic.md",
-    "Pelargonium spp. - Scented Geranium.md",
-    "Lavandula angustifolia - Lavender.md",
-    "Tagetes minuta - Mexican marigold.md",
-    "Mentha spp. - Mint.md",
-    "Origanum vulgare - Oregano.md",
-    "Salvia spp. - Sage.md",
-    "Mentha piperita - Peppermint.md",
-    "Mice repellent.md",
-    "Tagetes spp. - Marigold.md",
-    "Rabbit repellent.md",
-    "Insect repellent.md",
-    "Plant.md",
-    "Morus alba - White mulberry.md",
-    "Morus nigra - Black mulberry.md",
-    "Malus spp. - Apple.md",
-    "Lonicera maackii - Amur honeysuckle.md",
-    "Lonicera caerula var. edulis - Honeysuckle.md",
-    "Liriodendron tulipfera - Tulip tree.md",
+    "Rhamnus californica - California coffeeberry.md",
+    "Quercus spp. - Oaks.md",
+    "Pseudotsuga menziesii - Douglas fir.md",
+    "Pinus spp. - Pine.md",
+    "Picea spp. - Spruce.md",
+    "Olea europaea - Olive.md",
+    "Juniperus virginiana - Eastern red cedar.md",
     "Ilex spp. - Holly.md",
-    "Gymnocladus dioica - Kentucky coffee tree.md",
-    "Gleditsia triacanthos - Honey Locust.md",
-    "Fraxinus spp. - Ash.md",
+    "Gaultheria shallon - Salal.md",
+    "Foriestiera spp. - Privet.md",
+    "Feijoa sellowiana - Pineapple guava.md",
+    "Evergreen.md",
+    "Elaeagnus × submacrophylla - Elaeagnus.md",
+    "Berberis spp. - Barberry.md",
+    "Mentha piperita - Peppermint.md",
+    "Diospyrus spp. - Persimmon.md",
+    "Cornus spp. - Dogwood.md",
+    "Baccharis pilularis - Coyote brush.md",
+    "Arctostaphyllos spp. - Manzanita.md",
+    "Arctostaphyllos manzanita - Manzanita.md",
+    "Pistacia lentiscus - Lentisk.md",
+    "Rhamnus lycioides - Black hawthorn.md",
+    "Bird nesting space.md",
+    "Acer spp. - Maple.md",
+    "Crataegus douglasii - Black hawthorn.md",
+    "Ground cover.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

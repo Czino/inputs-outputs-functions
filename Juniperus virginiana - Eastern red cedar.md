@@ -7,5 +7,6 @@ Eastern red cedar (Juniperus virginiana) is a coniferous evergreen tree known fo
 
 ## Functions
 - [[Tree]]
+- [[Evergreen]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

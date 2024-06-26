@@ -6,6 +6,7 @@ Elaeagnus (Elaeagnus × submacrophylla) is an evergreen shrub known for its frag
 - [[Poultry forage]][^1]
 ## Functions
 - [[Shrub]]
+- [[Evergreen]]
 - [[Nitrogen fixer]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

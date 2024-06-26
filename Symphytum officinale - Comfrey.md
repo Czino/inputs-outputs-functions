@@ -13,6 +13,7 @@ Comfrey (Symphytum officinale) is a perennial herb known for its large, hairy le
 - [[Magnesium accumulator]][^2]
 - [[Iron accumulator]][^2]
 - [[Silicon accumulator]][^2]
+- [[Ground cover|Cover crop]]
 - [[Perennial]]
 - [[Herb]]
 

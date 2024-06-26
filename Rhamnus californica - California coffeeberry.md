@@ -5,5 +5,6 @@ California Coffeeberry (Rhamnus californica) is a versatile shrub known for its 
 
 ## Functions
 - [[Tree]]
+- [[Evergreen]]
 - [[Drought-tolerance]]
 - [[Rhamnus spp. - Buckthorn]]

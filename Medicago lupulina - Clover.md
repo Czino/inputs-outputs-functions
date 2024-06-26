@@ -6,5 +6,7 @@ Medicago lupulina, commonly known as Black Medick or Clover, is a low-growing pl
 ## Functions
 - [[Nitrogen accumulator]][^1]
 - [[Phosphorus accumulator]][^1]
+- [[Nitrogen fixer]]
+- [[Ground cover|Cover crop]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
