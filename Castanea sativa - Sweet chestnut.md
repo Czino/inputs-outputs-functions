@@ -13,7 +13,7 @@ Sweet Chestnut (Castanea sativa) is a large deciduous tree producing edible ches
 - [[Poultry forage]][^1]
 - [[Edible chestnut]]
 ## Functions
-- [[Tree]]
+- [[Castanea spp. - Chestnut]]
 - [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

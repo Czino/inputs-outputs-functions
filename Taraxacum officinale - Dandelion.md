@@ -6,6 +6,6 @@ Dandelion (Taraxacum officinale) is a common perennial herb known for its yellow
 - [[Poultry forage]][^1]
 - [[Human food]]
 ## Function
-- [[Plant]]
+- [[Taraxacum spp. - Dandelion]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3

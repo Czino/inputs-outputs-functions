@@ -7,6 +7,6 @@ Serviceberry (Amelanchier alnifolia) is a deciduous shrub or small tree producin
 - [[Human food]][^1]
 ## Function
 - [[Attracting beneficial insects]][^1]
-- [[Amelanchier spp. - Serviceberry|Serviceberry]]
+- [[Amalanchier spp. - Serviceberry|Serviceberry]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

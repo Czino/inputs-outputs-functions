@@ -6,6 +6,7 @@ Hansen's bush cherry (Prunus besseyi) is a hardy shrub known for its small, tart
 - [[Human food]][^1]
 - [[Wildlife habitat]][^1]
 ## Function
+- [[Prunus spp.]]
 - [[Attracting beneficial insects]][^1]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

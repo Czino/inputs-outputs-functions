@@ -5,8 +5,7 @@ Quinoa (Chenopodium quinoa) is a pseudocereal known for its small, nutrient-dens
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]]
-
 ## Function
-- [[Plant]]
+- [[Chenopodium spp. - Goosefoot]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3

@@ -5,6 +5,8 @@ Smooth sumac (Rhus glabra) is a deciduous shrub that produces red fruit clusters
 ## Outputs
 - [[Winter fruits for birds]][^1]
 - [[Deer forage]][^2]
+## Functions
+ - [[Rhus spp. - Sumac]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^2]: [[National Audubon Society Field Guide to North American Trees]] p.519

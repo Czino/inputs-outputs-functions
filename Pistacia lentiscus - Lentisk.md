@@ -9,3 +9,4 @@ Lentisk (Pistacia lentiscus) is an evergreen shrub or small tree native to the M
 - [[Shrub]]
 - [[Evergreen]]
 - [[Drought-tolerance]]
+- [[Pistacia spp. - Pistachio]]

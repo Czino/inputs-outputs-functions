@@ -2,9 +2,8 @@
 aliases: Prostrate verbena
 ---
 Prostrate verbena (Verbena peruviana) is a low-growing perennial with vibrant red, pink, or purple flowers. It is often used as ground cover and in hanging baskets for its long blooming period and ability to attract butterflies.
-
 ## Function
-- [[Plant]]
+- [[Verbena spp. - Verbena]]
 - [[Perennial]]
 - [[Attracting beneficial insects]][^1]
 

@@ -5,6 +5,7 @@ Mashua (Tropaeolum tuberosum) is a climbing plant cultivated for its edible tube
 ## Outputs
 - [[Human food]][^1]
 ## Function
+- [[Tropaeolum spp. - Nasturtium]]
 - [[Attracting beneficial insects]][^1]
 - [[Nitrogen fixer]]
 

@@ -6,5 +6,6 @@ Allium schoenoprasum, known as Chives, is an herb with thin, tubular green leave
 ## Functions
 - [[Potassium accumulator]][^1]
 - [[Calcium accumulator]][^1]
+- [[Allium spp. - Alliums]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

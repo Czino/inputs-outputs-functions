@@ -6,6 +6,6 @@ Cucumber (Cucumis sativus) is a widely cultivated plant known for its crisp, ref
 - [[Poultry forage]][^1]
 - [[Cucumber]]
 ## Function
-- [[Plant]]
+- [[Cucumis spp. - Cucumbers and Melons]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3

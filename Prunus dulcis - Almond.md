@@ -5,6 +5,7 @@ Almond (Prunus dulcis) is a deciduous tree known for its edible nuts. It is grow
 ## Outputs
 - [[Almond]]
 ## Function
+- [[Prunus spp.]]
 - [[Tree]]
 - [[Deciduous]]
 - [[Attracting beneficial insects]][^1]

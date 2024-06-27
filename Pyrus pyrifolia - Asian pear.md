@@ -5,6 +5,6 @@ Asian pear trees produce crisp, juicy fruits with a texture similar to apples. T
 ## Outputs
 - [[Human food]][^1]
 ## Functions
-- [[Tree]]
+- [[Pyrus spp. - Pear]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

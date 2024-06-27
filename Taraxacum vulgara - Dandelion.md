@@ -11,5 +11,5 @@ Taraxacum vulgare, commonly called Dandelion, is a herbaceous plant with bright 
 - [[Iron accumulator]][^1]
 - [[Copper accumulator]][^1]
 - [[Silicon accumulator]][^1]
-- [[Plant]]
+- [[Taraxacum spp. - Dandelion]]
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

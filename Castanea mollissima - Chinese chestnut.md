@@ -15,7 +15,7 @@ Chinese Chestnut (Castanea mollissima) is a deciduous tree producing sweet, edib
 - [[Wildlife habitat]][^2]
 - [[Human food]][^2]
 ## Functions
-- [[Tree]]
+- [[Castanea spp. - Chestnut]]
 - [[Deciduous]]
 - [[Soil stabilization]][^1]
 

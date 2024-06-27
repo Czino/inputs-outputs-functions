@@ -7,7 +7,7 @@ Perennial Buckwheat (Fagopyrum dibotrys) is a herbaceous perennial producing edi
 - [[Human food]]
 
 ## Functions
-- [[Plant]]
+- [[Fagopyrum spp. - Buckwheat]]
 - [[Perennial]]
 - [[Ground cover|Cover crop]]
 

@@ -5,7 +5,7 @@ Staghorn sumac (Rhus typhina) is a deciduous shrub or small tree known for its d
 ## Outputs
 - [[Winter fruits for birds]][^1]
 ## Functions
-- [[Plant]]
+ - [[Rhus spp. - Sumac]]
 - [[Soil stabilization]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

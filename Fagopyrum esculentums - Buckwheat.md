@@ -7,7 +7,7 @@ Buckwheat (Fagopyrum esculentum) is a pseudocereal known for its triangular seed
 - [[Human food]]
 
 ## Functions
-- [[Plant]]
+- [[Fagopyrum spp. - Buckwheat]]
 - [[Ground cover]]
 - [[Phosphorus accumulator]][^2]
 - [[Potassium accumulator]][^2]

@@ -5,6 +5,7 @@ Cherry (Prunus cerasus) refers to trees producing sour cherries, used in baking,
 ## Outputs
 - [[Human food]][^1]
 ## Function
+- [[Prunus spp.]]
 - [[Attracting beneficial insects]][^1]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

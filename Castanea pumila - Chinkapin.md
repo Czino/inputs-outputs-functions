@@ -6,6 +6,6 @@ Similar to Castanea alnifolia, this species produces small nuts and is valued fo
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1]
 ## Functions
-- [[Plant]]
+- [[Castanea spp. - Chestnut]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

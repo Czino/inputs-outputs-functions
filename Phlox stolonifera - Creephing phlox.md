@@ -4,6 +4,7 @@ aliases: Creephing phlox
 Creeping phlox (Phlox stolonifera) is a perennial ground cover that produces masses of colorful flowers in spring. It is ideal for planting in rock gardens, along slopes, and in woodland areas for its ability to prevent erosion and its vibrant blooms.
 
 ## Function
+- [[Phlox spp. - Phlox]]
 - [[Attracting beneficial insects]][^1]
 - [[Perennial]]
 - [[Ground cover]]

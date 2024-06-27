@@ -5,6 +5,7 @@ Apricot (Prunus armeniaca) is a deciduous tree that produces small, orange, swee
 ## Outputs
 - [[Apricot]]
 ## Function
+- [[Prunus spp.]]
 - [[Tree]]
 - [[Deciduous]]
 - [[Attracting beneficial insects]][^1]

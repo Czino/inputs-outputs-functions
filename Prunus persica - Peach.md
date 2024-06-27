@@ -5,6 +5,7 @@ Peach (Prunus persica) is a deciduous tree known for its juicy, sweet fruits wit
 ## Outputs
 - [[Peach]]
 ## Function
+- [[Prunus spp.]]
 - [[Tree]]
 - [[Deciduous]]
 - [[Attracting beneficial insects]][^1]

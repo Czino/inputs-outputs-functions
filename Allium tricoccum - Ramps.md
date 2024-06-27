@@ -5,6 +5,6 @@ Ramps are wild leeks with a strong garlic-onion flavor. They are foraged or cult
 ## Outputs
 - [[Human food]][^1]
 ## Functions
-- [[Plant]]
+- [[Allium spp. - Alliums]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

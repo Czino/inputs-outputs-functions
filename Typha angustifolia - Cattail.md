@@ -3,7 +3,7 @@ aliases: Cattail
 ---
 Cattail (Typha angustifolia) is a perennial aquatic plant known for its long, slender leaves and distinctive brown flower spikes. The plant is used in wetland restoration, erosion control, and as a source of food and materials. Young shoots, roots, and pollen are edible and used in traditional diets.
 ## Functions
-- [[Plant]]
+- [[Typha spp. - Cattail]]
 - [[Soil stabilization]][^1]
 
 

@@ -5,6 +5,6 @@ Melon plants produce sweet, juicy fruits with a fragrant aroma. They are grown f
 ## Outputs
 - [[Human food]][^1]
 ## Functions
-- [[Plant]]
+- [[Cucumis spp. - Cucumbers and Melons]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

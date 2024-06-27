@@ -10,7 +10,7 @@ Lamb's Quarters (Chenopodium album) is a common annual weed with edible leaves t
 - [[Human food]] (leaves)
 
 ## Functions
-- [[Plant]]
+- [[Chenopodium spp. - Goosefoot]]
 - [[Annual]]
 - [[Nitrogen accumulator]][^2]
 - [[Phosphorus accumulator]][^2]

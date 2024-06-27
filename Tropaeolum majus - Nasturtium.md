@@ -5,7 +5,7 @@ Nasturtium (Tropaeolum majus) is an annual plant known for its vibrant flowers a
 ## Outputs
 - [[Human food]][^1]
 ## Functions
-- [[Plant]]
+- [[Tropaeolum spp. - Nasturtium]]
 - [[Annual]]
 - [[Attracting beneficial insects]][^1]
 
