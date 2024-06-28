@@ -24,9 +24,17 @@
             "id": "8807198751beb1be",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9b4698085915dbd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocket stove.md",
+                "file": "Potassium hydroxide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bee",
+                "query": "respirator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rocket stove.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rocket stove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rocket stove.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +177,14 @@
   },
   "active": "8807198751beb1be",
   "lastOpenFiles": [
-    "Wood.md",
+    "Lye.md",
+    "Potassium hydroxide.md",
+    "Plantago spp. - Plantain.md",
+    "Verbascum spp. - Common Mullein.md",
+    "Tussilago farfara - Coltsfoot.md",
+    "Dust collection.md",
     "Rocket stove.md",
+    "Wood.md",
     "Branches.md",
     "Secale cereale - Rye.md",
     "Salix spp. - Willow.md",
@@ -193,12 +203,6 @@
     "Wax.md",
     "Waterproofing.md",
     "Hydraulic redistribution.md",
-    "Water retention.md",
-    "Lake.md",
-    "Dust collection.md",
-    "Hugelkultur.md",
-    "Swale.md",
-    "Human food.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",
