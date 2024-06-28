@@ -24,8 +24,13 @@
             "id": "8807198751beb1be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "What is ecology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -109,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "What is ecology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "What is ecology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "What is ecology.md"
+              }
             }
           },
           {
@@ -177,6 +186,9 @@
   },
   "active": "8807198751beb1be",
   "lastOpenFiles": [
+    "index.md",
+    "Understanding of inputs and outputs within ecological design elements.md",
+    "What is ecology.md",
     "Lye.md",
     "Potassium hydroxide.md",
     "Plantago spp. - Plantain.md",
@@ -200,9 +212,6 @@
     "Sorbus spp. - Mountain ash.md",
     "Tree.md",
     "Weed suppression.md",
-    "Wax.md",
-    "Waterproofing.md",
-    "Hydraulic redistribution.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

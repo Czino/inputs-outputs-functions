@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-When practicing permaculture the focus shifts from the individual design elements to designing their interconnections which will create healthy and sustainable systems.
+When practicing permaculture the focus shifts from the individual design elements to designing their interconnections which will create healthy and sustainable systems. 
 
 Thus, the idea for this website was born, our goal is to enhance the [[Understanding of inputs and outputs within ecological design elements|understanding of inputs and outputs within ecological design elements]].
 

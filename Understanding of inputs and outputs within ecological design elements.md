@@ -1,4 +1,4 @@
-Identifying the inputs and outputs of ecological design elements is fundamental to creating a sustainable and efficient permaculture system. Understanding these relationships ensures that each element is used to its full potential, contributing to the overall health and productivity of the system.
+[[What is ecology|Ecology]], in other words, identifying the inputs and outputs of ecological design elements is fundamental to creating a sustainable and efficient permaculture system. Understanding these relationships ensures that each element is used to its full potential, contributing to the overall health and productivity of the system.
 
 1. **Resource Optimization**: By recognizing the inputs (resources needed) and outputs (products or by-products) of each element, resources can be used more efficiently. For example, knowing that [[Chicken|chickens]] produce manure (an output) which can be used as fertilizer (an input for plants), reduces the need for external inputs and closes nutrient loops.
     
