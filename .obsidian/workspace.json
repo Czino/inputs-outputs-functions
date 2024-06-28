@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicago truncatula - Barrel medic.md",
+                "file": "Rocket stove.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pfaf",
+                "query": "bee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicago truncatula - Barrel medic.md",
+                "file": "Rocket stove.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicago truncatula - Barrel medic.md",
+                "file": "Rocket stove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medicago truncatula - Barrel medic.md"
+                "file": "Rocket stove.md"
               }
             }
           },
@@ -172,32 +173,32 @@
   },
   "active": "8807198751beb1be",
   "lastOpenFiles": [
-    "Verbena tenera - Prostrate verbena.md",
-    "Verbena peruviana - Prostrate verbena.md",
-    "Verbena spp. - Verbena.md",
-    "Typha spp. - Cattail.md",
-    "Typha angustifolia - Cattail.md",
-    "Typha latifolia - Cattail.md",
-    "Ulmus spp. - Elm.md",
-    "Tropaeolum tuberosum - Mashua.md",
-    "Tropaeolum majus - Nasturtium.md",
-    "Tropaeolum spp. - Nasturtium.md",
-    "Taraxacum vulgara - Dandelion.md",
-    "Taraxacum officinale - Dandelion.md",
-    "Taraxacum spp. - Dandelion.md",
-    "Rhus spp. - Sumac.md",
-    "Rhus typhina - Staghorn sumac.md",
-    "Rhus glabra - Smooth sumac.md",
+    "Wood.md",
+    "Rocket stove.md",
+    "Branches.md",
+    "Secale cereale - Rye.md",
+    "Salix spp. - Willow.md",
     "Pyrus communis - Pear tree.md",
-    "Pyrus pyrifolia - Asian pear.md",
-    "Pyrus spp. - Pear.md",
-    "Psoralea esculenta - Breadroot.md",
-    "Psoralea esculenta - Prairie turnip.md",
-    "Psoralea spp. - Fountainbush.md",
-    "Prunus spp..md",
-    "Prunus persica - Peach.md",
-    "Prunus armenciaca - Apricot.md",
-    "Prunus avium - Cherry.md",
+    "Liriodendron tulipfera - Tulip tree.md",
+    "Cirsium arvense - Canada thistle.md",
+    "Carum carvi - Caraway.md",
+    "Canola oil.md",
+    "Bee shelter.md",
+    "Achillea millefolium - Yarrow.md",
+    "Plant.md",
+    "Alnus spp. - Alder.md",
+    "Sorbus spp. - Mountain ash.md",
+    "Tree.md",
+    "Weed suppression.md",
+    "Wax.md",
+    "Waterproofing.md",
+    "Hydraulic redistribution.md",
+    "Water retention.md",
+    "Lake.md",
+    "Dust collection.md",
+    "Hugelkultur.md",
+    "Swale.md",
+    "Human food.md",
     "content",
     "Local Graph View Example.png",
     "Graph View Example.png",

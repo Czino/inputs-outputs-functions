@@ -2,6 +2,7 @@ Hugelkultur is a sustainable gardening and agricultural practice that involves c
 
 ## Inputs
 - [[Wood]]
+- [[Branches]]
 - [[Soil]]
 - [[Mulch]]
 - [[Water]]

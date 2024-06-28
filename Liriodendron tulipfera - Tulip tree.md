@@ -8,5 +8,6 @@ Tulip tree (Liriodendron tulipifera), also known as yellow poplar, is a large de
 ## Functions
 - [[Tree]]
 - [[Deciduous]]
+- [[Attracting bees]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

@@ -8,5 +8,6 @@ Willows, thriving in moist environments such as wetlands and floodplains, are vi
 - [[Magnesium accumulator]][^1]
 - [[Zinc accumulator]][^1]
 - [[Poop beast]]
+- [[Attracting bees]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
