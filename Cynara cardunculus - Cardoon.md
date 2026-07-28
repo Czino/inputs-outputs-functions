@@ -4,6 +4,11 @@ aliases: Cardoon
 Cardoon (_Cynara cardunculus_) is a perennial Mediterranean thistle grown mainly for its blanched leaf stalks, used as a celery substitute, rather than its flower buds. It's the wild-type parent of [[Cynara cardunculus var. scolymus - Globe artichoke|globe artichoke]], which was bred from it for the flower buds instead of the stems.
 
 ## Inputs
+- [[Hardiness zone 5]][^1]
+- [[Hardiness zone 6]][^1]
+- [[Hardiness zone 7]][^1]
+- [[Hardiness zone 8]][^1]
+- [[Hardiness zone 9]][^1]
 - [[Potassium]]
 - [[Calcium]]
 

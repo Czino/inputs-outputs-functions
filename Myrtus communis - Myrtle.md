@@ -3,6 +3,11 @@ aliases: Myrtle
 ---
 Myrtle (Myrtus communis) is an evergreen Mediterranean shrub grown for its aromatic berries, leaves, and flowers, used fresh or dried in cooking, liqueurs, and essential oil. Its nectar-rich flowers make it attractive to bees, and it takes well to hedging.
 
+## Inputs
+- [[Hardiness zone 9]][^1]
+- [[Hardiness zone 10]][^1]
+- [[Hardiness zone 11]][^1]
+
 ## Outputs
 - [[Human food]][^1]
 
