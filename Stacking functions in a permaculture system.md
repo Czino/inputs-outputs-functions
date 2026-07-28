@@ -2,7 +2,7 @@ Stacking functions involves designing elements to perform multiple roles within 
 
 1. **Increased Productivity**: By stacking functions, more is produced from the same space. For example, a tree can provide fruit, [[Shade|shade]], habitat, [[Windbreak|windbreak]], and leaf litter for soil enrichment, thus fulfilling multiple needs in one location.
     
-2. **Resource Efficiency**: Elements that perform multiple functions reduce the need for additional resources. For instance, a [[pond]] can serve as a water source for irrigation, a habitat for fish, a cooling element for the microclimate, and a [[Firebreak|firebreak]].
+2. **Resource Efficiency**: Elements that perform multiple functions reduce the need for additional resources. For instance, a [[Pond|pond]] can serve as a water source for irrigation, a habitat for fish, a cooling element for the microclimate, and a [[Firebreak|firebreak]].
     
 3. **Enhanced Resilience**: Systems with multiple functions are more resilient to disruptions. If one function is compromised, others can continue to support the system. For example, [[Chicken|chickens]] can produce eggs, control pests, and provide manure, so if egg production is low, they still contribute in other ways.
     

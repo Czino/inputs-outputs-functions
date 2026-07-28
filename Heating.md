@@ -1,0 +1,1 @@
+Heating refers to the raising or retention of temperature in an area, often achieved through natural processes. Thermal mass, sun-facing walls, and dense vegetation can absorb and slowly release warmth, helping to buffer cold temperature swings and create more comfortable environments for people, animals, and plants.
