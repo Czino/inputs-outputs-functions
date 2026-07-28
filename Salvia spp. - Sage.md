@@ -2,8 +2,14 @@
 aliases: Sage
 ---
 Sage (Salvia spp.) is an aromatic herb used in cooking, traditional medicine, and as a natural repellent. Its strong scent deters insects and other pests. Sage is also appreciated for its antimicrobial and anti-inflammatory properties.
-## Function
-- [[Plant]]
+## Inputs
+- [[Calcium]]
+- [[Iron]]
+- [[Potassium]]
+## Type
+- [[Herb]]
+- [[Perennial]]
+## Functions
 - [[Rabbit repellent]][^1]
 - [[Insect repellent]]
 

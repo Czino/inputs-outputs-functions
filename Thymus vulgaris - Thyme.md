@@ -3,11 +3,16 @@ aliases: Thyme
 ---
 Thyme (Thymus vulgaris) is an evergreen herb used in cooking for its aromatic leaves. It also has medicinal properties and is used as a ground cover in gardens, attracting pollinators and repelling pests like cabbage worms and whiteflies.
 
+## Inputs
+- [[Iron]]
+- [[Calcium]]
+- [[Potassium]]
 ## Outputs
 - [[Human food]]
-## Function
+## Type
 - [[Evergreen]]
 - [[Herb]]
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Insect repellent]]
 - [[Ground cover]]

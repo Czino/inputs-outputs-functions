@@ -2,8 +2,14 @@
 aliases: Oregano
 ---
 Oregano (Origanum vulgare) is a popular culinary herb with a strong, aromatic scent. Besides its culinary uses, it acts as a natural repellent for pests like insects and small mammals. Oregano is also valued for its medicinal properties and antioxidant content.
-## Function
-- [[Plant]]
+## Inputs
+- [[Calcium]]
+- [[Iron]]
+- [[Potassium]]
+## Type
+- [[Herb]]
+- [[Perennial]]
+## Functions
 - [[Rabbit repellent]][^1]
 - [[Insect repellent]]
 
