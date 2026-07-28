@@ -1,7 +1,7 @@
 ---
-aliases: Mustard
+aliases: Brassicas, Mustard
 ---
-Mustard, or brassicas, includes various species known for their pungent seeds used to make mustard condiments. The leaves and flowers are also edible and used in salads and cooking. Mustard plants are used in traditional medicine for their anti-inflammatory properties.
+Brassicas (_Brassica_ spp.) are a genus of plants that includes mustard, known for its pungent seeds used to make mustard condiments. The leaves and flowers are also edible and used in salads and cooking. Mustard plants are used in traditional medicine for their anti-inflammatory properties.
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]] (leaves and flowers)

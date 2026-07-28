@@ -8,6 +8,6 @@ Brassica napus, or Rapeseed, is an annual or biennial plant cultivated for its o
 
 ## Functions
 - [[Zinc accumulator]][^1]
-- [[Brassica spp. - Mustard]]
+- [[Brassica spp. - Brassicas]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
