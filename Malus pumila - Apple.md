@@ -10,6 +10,9 @@ The apple tree (Malus pumila) produces one of the most widely consumed fruits gl
 - [[Hardiness zone 7]][^1]
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
+## Outputs
+- [[Human food]]
+
 ## Type
 - [[Deciduous]]
 - [[Tree]]
