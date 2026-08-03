@@ -13,6 +13,8 @@ Oregano (Origanum vulgare) is a popular culinary herb with a strong, aromatic sc
 - [[Calcium]]
 - [[Iron]]
 - [[Potassium]]
+## Outputs
+- [[Human food]]
 ## Type
 - [[Herb]]
 - [[Perennial]]

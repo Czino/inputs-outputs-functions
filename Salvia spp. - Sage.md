@@ -12,6 +12,8 @@ Sage (Salvia spp.) is an aromatic herb used in cooking, traditional medicine, an
 - [[Calcium]]
 - [[Iron]]
 - [[Potassium]]
+## Outputs
+- [[Human food]]
 ## Type
 - [[Herb]]
 - [[Perennial]]

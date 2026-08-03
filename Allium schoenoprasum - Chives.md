@@ -14,6 +14,8 @@ Allium schoenoprasum, known as Chives, is an herb with thin, tubular green leave
 - [[Calcium]]
 - [[Iron]]
 - [[Potassium]]
+## Outputs
+- [[Human food]]
 ## Type
 - [[Allium spp. - Alliums]]
 ## Functions

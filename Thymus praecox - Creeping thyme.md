@@ -10,6 +10,9 @@ Creeping thyme (Thymus praecox) is a hardy ground cover known for its aromatic f
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 
+## Outputs
+- [[Human food]]
+
 ## Type
 - [[Evergreen]]
 - [[Herb]]

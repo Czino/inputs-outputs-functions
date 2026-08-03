@@ -7,6 +7,8 @@ Lavender (Lavandula angustifolia) is a fragrant herb used for its essential oils
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
+## Outputs
+- [[Human food]]
 ## Type
 - [[Evergreen]]
 - [[Shrub]]
