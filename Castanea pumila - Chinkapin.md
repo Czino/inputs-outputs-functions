@@ -1,7 +1,7 @@
 ---
-aliases: Chinkapin
+aliases: Chinkapin, Castanea alnifolia, Trailing chinkapin
 ---
-Similar to Castanea alnifolia, this species produces small nuts and is valued for its role in wildlife support and its adaptability to various soils.
+Chinkapin (Castanea pumila), also called trailing chinkapin, produces small nuts and is valued for its role in wildlife support and its adaptability to various soils. Castanea alnifolia, once described as a separate species, is now treated by Plants of the World Online (Kew) as a synonym of this species.
 ## Inputs
 - [[Hardiness zone 4]][^2]
 - [[Hardiness zone 5]][^2]
