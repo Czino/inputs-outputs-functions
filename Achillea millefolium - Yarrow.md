@@ -9,6 +9,10 @@ Achillea millefolium, or Yarrow, is a perennial herb with clusters of small whit
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
+
+## Outputs
+- [[Human food]][^2]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]

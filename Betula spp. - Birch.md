@@ -9,6 +9,10 @@ Birch trees, found in temperate and boreal regions of the Northern Hemisphere, a
 - [[Hardiness zone 4]][^2]
 - [[Hardiness zone 5]][^2]
 - [[Hardiness zone 6]][^2]
+
+## Outputs
+- [[Human food]][^2]
+
 ## Type
 - [[Tree]]
 ## Functions
