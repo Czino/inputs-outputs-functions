@@ -9,5 +9,3 @@ Black Elderberry (Sambucus nigra) is a deciduous shrub known for its dark purple
 ## Functions
 - [[Shrub]]
 - [[Sambucus spp. - Elderberry]]
-
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix

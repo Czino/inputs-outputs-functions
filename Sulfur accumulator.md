@@ -7,6 +7,6 @@ A sulfur accumulator is a plant that absorbs and stores high levels of sulfur. S
 - [[Sulfur]]
 
 ## Functions
-- [[Nutrient accumulator]]
+- [[Nutrient accumulator]][^1]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]]

@@ -6,5 +6,3 @@ Indian Cherry (Rhamnus caroliniana) is a deciduous shrub or small tree producing
 ## Functions
 - [[Tree]]
 - [[Rhamnus spp. - Buckthorn]]
-
-[^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
