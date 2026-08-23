@@ -12,6 +12,7 @@ Cornelian cherry dogwood is a small tree or shrub with bright yellow flowers and
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1][^2]
 ## Type
+- [[Cornus spp. - Dogwood]]
 - [[Shrub]]
 - [[Deciduous]]
 ## Functions

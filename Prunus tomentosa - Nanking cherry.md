@@ -14,6 +14,7 @@ Nanking cherry (Prunus tomentosa) is a deciduous shrub producing small, sweet-ta
 - [[Human food]][^1]
 - [[Wildlife habitat]][^1]
 ## Type
+- [[Prunus spp.]]
 - [[Shrub]]
 - [[Deciduous]]
 ## Functions

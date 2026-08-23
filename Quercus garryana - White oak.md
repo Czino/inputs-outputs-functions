@@ -4,7 +4,8 @@ aliases: White oak
 White oak is a large, deciduous tree known for its hard wood and large acorns. It is used in landscaping and provides habitat for wildlife.
 ## Outputs
 - [[Wildlife habitat]][^1]
-## Functions
+## Type
+- [[Quercus spp. - Oaks]]
 - [[Tree]]
 - [[Deciduous]]
 

@@ -4,7 +4,8 @@ aliases: Bur oak
 Bur oak is a large, deciduous tree known for its hard wood and large acorns. It is used in landscaping and for its wildlife habitat value.
 ## Outputs
 - [[Wildlife habitat]][^1]
-## Functions
+## Type
+- [[Quercus spp. - Oaks]]
 - [[Tree]]
 - [[Deciduous]]
 

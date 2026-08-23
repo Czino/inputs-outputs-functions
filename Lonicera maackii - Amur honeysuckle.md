@@ -7,7 +7,8 @@ Amur honeysuckle (Lonicera maackii) is a deciduous shrub known for its fragrant 
 ## Outputs
 - [[Winter fruits for birds]][^1]
 
-## Functions
+## Type
+- [[Lonicera spp. - Honeysuckle]]
 - [[Shrub]]
 - [[Deciduous]]
 

@@ -15,6 +15,7 @@ Service tree (_Sorbus domestica_) is a deciduous fruit tree native to southern E
 - [[Wood]][^1]
 
 ## Type
+- [[Sorbus spp. - Mountain ash]]
 - [[Tree]]
 - [[Deciduous]]
 

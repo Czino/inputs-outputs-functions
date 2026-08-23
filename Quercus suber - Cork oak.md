@@ -16,6 +16,7 @@ Cork oak (Quercus suber) is a slow-growing evergreen Mediterranean tree best kno
 - [[Wood]][^1]
 
 ## Type
+- [[Quercus spp. - Oaks]]
 - [[Tree]]
 - [[Evergreen]]
 

@@ -12,6 +12,7 @@ Japanese barberry is an ornamental shrub known for its colorful foliage and red 
 - [[Wildlife habitat]][^1]
 - [[Human food]][^2]
 ## Type
+- [[Berberis spp. - Barberry]]
 - [[Shrub]]
 - [[Deciduous]]
 ## Functions

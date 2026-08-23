@@ -5,7 +5,8 @@ Gooseberry is a shrub producing tart berries used in cooking and preserves. It i
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1][^2]
-## Functions
+## Type
+- [[Ribes spp. - Currant]]
 - [[Shrub]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

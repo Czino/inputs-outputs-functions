@@ -14,6 +14,7 @@ Holm oak (Quercus ilex) is an evergreen Mediterranean oak valued for its acorns 
 - [[Fodder]][^1]
 
 ## Type
+- [[Quercus spp. - Oaks]]
 - [[Tree]]
 - [[Evergreen]]
 

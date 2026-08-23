@@ -6,7 +6,8 @@ Honeysuckle (Lonicera caerulea var. edulis) is a deciduous shrub producing sweet
 - [[Poultry forage]][^1]
 - [[Berry]]
 
-## Functions
+## Type
+- [[Lonicera spp. - Honeysuckle]]
 - [[Shrub]]
 - [[Deciduous]]
 

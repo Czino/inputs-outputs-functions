@@ -13,6 +13,7 @@ Groundnut is a perennial vine producing edible tubers and beans. It is cultivate
 ## Outputs
 - [[Human food]][^1]
 ## Type
+- [[Apios spp. - Groundnut]]
 - [[Vine]]
 - [[Perennial]]
 ## Functions

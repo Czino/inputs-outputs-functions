@@ -5,6 +5,8 @@ Black hawthorn (Rhamnus lycioides) is a deciduous shrub or small tree known for 
 ## Outputs
 - [[Bird nesting space]]
 
-## Functions
+## Type
+- [[Rhamnus spp. - Buckthorn]]
 - [[Shrub]]
+- [[Tree]]
 - [[Deciduous]]
