@@ -5,7 +5,11 @@ Mesquite (Prosopis spp.) is a group of leguminous trees and shrubs known for the
 ## Outputs
 - [[Human food]]
 - [[Fodder]]
-## Function
+## Type
+- [[Tree]]
+- [[Shrub]]
+
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Drought-tolerance]]
 - [[Nitrogen fixer]]

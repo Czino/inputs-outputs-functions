@@ -2,8 +2,10 @@
 aliases: Mint
 ---
 Mint (Mentha spp.) is a versatile herb with a strong, refreshing scent. It is widely used in culinary dishes and as a natural repellent for insects, mice, and other pests. Mint's invasive growth habit makes it a robust garden plant, though it needs to be managed carefully.
-## Function
-- [[Plant]]
+## Type
+- [[Herb]]
+
+## Functions
 - [[Insect repellent]][^1]
 - [[Mice repellent]][^1]
 - [[Rabbit repellent]][^2]

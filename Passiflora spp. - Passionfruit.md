@@ -5,8 +5,10 @@ Passionfruit is a genus of climbing plants known for their intricate flowers and
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]][^2]
-## Function
-- [[Plant]]
+## Type
+- [[Vine]]
+
+## Functions
 - [[Attracting beneficial insects]][^2]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3

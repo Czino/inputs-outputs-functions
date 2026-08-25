@@ -5,7 +5,7 @@ Hairy vetch (Vicia villosa) is a vining legume known for its nitrogen-fixing abi
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Green manure]]
-## Function
+## Type
 - [[Vicia spp. - Vetch]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3

@@ -6,7 +6,7 @@ Fargesia bamboo is a clump-forming species known for its non-invasive growth hab
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1]
-## Function
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Soil stabilization]]
 

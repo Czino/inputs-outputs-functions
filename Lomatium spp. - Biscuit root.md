@@ -5,9 +5,10 @@ Biscuit root (Lomatium spp.) is a perennial plant with umbrella-shaped flower cl
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1]
-## Function
-- [[Plant]]
+## Type
 - [[Perennial]]
+
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Drought-tolerance]]
 
