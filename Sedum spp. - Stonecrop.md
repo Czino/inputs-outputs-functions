@@ -2,8 +2,10 @@
 aliases: Stonecrop
 ---
 Stonecrop (Sedum spp.) is a succulent plant known for its drought tolerance and ease of care. It is used in rock gardens, green roofs, and as ground cover, producing clusters of star-shaped flowers that attract pollinators.
-## Function
+## Type
 - [[Plant]]
+
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Drought-tolerance]]
 

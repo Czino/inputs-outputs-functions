@@ -6,7 +6,7 @@ Buckthorn includes both deciduous and evergreen shrubs and small trees. Some spe
 - [[Bird nesting space]][^1]
 - [[Poultry forage]][^2]
 
-## Functions
+## Type
 - [[Shrub]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

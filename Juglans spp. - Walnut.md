@@ -6,9 +6,11 @@ Walnut trees are large deciduous trees belonging to the genus _Juglans_. They ar
 ## Outputs
 - [[Juglone]]
 
-## Functions
+## Type
 - [[Tree]]
 - [[Deciduous]]
+
+## Functions
 - [[Phosphorus accumulator]][^1]
 - [[Potassium accumulator]][^1]
 - [[Calcium accumulator]][^1]
