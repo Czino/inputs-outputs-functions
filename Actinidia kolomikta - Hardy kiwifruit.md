@@ -1,7 +1,7 @@
 ---
 aliases: Hardy kiwifruit
 ---
-Similar to Actinidia arguta, this hardy kiwifruit produces small, smooth fruits. It is valued for its ornamental foliage and edible fruits.
+Similar to [[Actinidia arguta - Hardy kiwifruit|Actinidia arguta]], this hardy kiwifruit produces small, smooth fruits. It is valued for its ornamental foliage and edible fruits.
 ## Inputs
 - [[Hardiness zone 3]][^2]
 - [[Hardiness zone 4]][^2]

@@ -1,4 +1,4 @@
-Acorns are the nuts of oak trees (Quercus spp.). They are a traditional food source, high in fats and carbohydrates, and can be processed into flour for baking.
+Acorns are the nuts of oak trees ([[Quercus spp. - Oaks|Quercus spp.]]). They are a traditional food source, high in fats and carbohydrates, and can be processed into flour for baking.
 
 ## Outputs
 - [[Human food]]

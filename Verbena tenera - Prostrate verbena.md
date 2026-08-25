@@ -1,9 +1,11 @@
 ---
 aliases: Prostrate verbena
 ---
-Prostrate verbena (Verbena tenera) is similar to Verbena peruviana, providing colorful ground cover with its spreading habit and clusters of small flowers. It is drought-tolerant and used in borders, rock gardens, and containers.
-## Function
+Prostrate verbena (Verbena tenera) is similar to [[Verbena peruviana - Prostrate verbena|Verbena peruviana]], providing colorful ground cover with its spreading habit and clusters of small flowers. It is drought-tolerant and used in borders, rock gardens, and containers.
+## Type
 - [[Verbena spp. - Verbena]]
+
+## Functions
 - [[Attracting beneficial insects]][^1]
 - [[Ground cover]]
 - [[Drought-tolerance]]
