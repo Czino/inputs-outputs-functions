@@ -17,6 +17,7 @@ Oaks are a diverse group of deciduous and evergreen trees known for their strong
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Acorn]]
 ## Type

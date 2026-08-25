@@ -15,6 +15,7 @@ Almond (Prunus dulcis) is a deciduous tree known for its edible nuts. It is grow
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Almond]]
 ## Type
 - [[Prunus spp.]]

@@ -8,6 +8,7 @@ White oak is a large, deciduous tree known for its hard wood and large acorns. I
 - [[Hardiness zone 9]][^2]
 
 ## Outputs
+- [[Human food]]
 - [[Wildlife habitat]][^1]
 - [[Acorn]][^2]
 ## Type

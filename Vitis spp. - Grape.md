@@ -11,6 +11,7 @@ Grape vines produce clusters of sweet, juicy fruits used fresh, dried as raisins
 - [[Potassium]]
 - [[Manganese]]
 ## Outputs
+- [[Human food]]
 - [[Grapes]]
 ## Type
 - [[Vine]]

@@ -3,6 +3,7 @@ aliases: Bean
 ---
 
 ## Outputs
+- [[Human food]]
 - [[Bean]]
 ## Type
 - [[Plant]]

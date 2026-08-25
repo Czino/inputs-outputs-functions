@@ -11,6 +11,7 @@ Bur oak is a large, deciduous tree known for its hard wood and large acorns. It 
 - [[Hardiness zone 8]][^2]
 
 ## Outputs
+- [[Human food]]
 - [[Wildlife habitat]][^1]
 - [[Acorn]][^2]
 ## Type

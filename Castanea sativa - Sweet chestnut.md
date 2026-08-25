@@ -13,6 +13,7 @@ Sweet Chestnut (Castanea sativa) is a large deciduous tree producing edible ches
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Edible chestnut]]
 ## Type

@@ -14,6 +14,7 @@ Maple encompasses a variety of deciduous trees known for their distinctive leave
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Bird nesting space]][^1]
 - [[Maple syrup]]
 ## Type

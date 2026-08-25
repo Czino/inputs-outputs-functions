@@ -11,6 +11,7 @@ Loquat is an evergreen tree producing small, yellow-orange fruits with a sweet a
 - [[Iron]][^1]
 - [[Calcium]][^1]
 ## Outputs
+- [[Human food]]
 - [[Loquat]]
 ## Type
 - [[Tree]]

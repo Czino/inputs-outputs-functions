@@ -4,6 +4,7 @@ Insects known for their role in pollination and honey production, vital for agri
 - [[Water]]
 - [[Bee shelter]]
 ## Outputs
+- [[Human food]]
 - [[Honey]]
 - [[Beeswax]]
 

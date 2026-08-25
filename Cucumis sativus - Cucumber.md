@@ -9,6 +9,7 @@ Cucumber (Cucumis sativus) is a widely cultivated plant known for its crisp, ref
 - [[Hardiness zone 11]][^2]
 
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Cucumber]]
 

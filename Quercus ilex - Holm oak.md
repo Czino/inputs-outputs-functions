@@ -10,6 +10,7 @@ Holm oak (Quercus ilex) is an evergreen [[Mediterranean]] oak valued for its aco
 - [[Hardiness zone 10]][^1]
 
 ## Outputs
+- [[Human food]]
 - [[Acorn]][^1]
 - [[Fodder]][^1]
 

@@ -7,6 +7,7 @@ Apricot (Prunus armeniaca) is a deciduous tree that produces small, orange, swee
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 ## Outputs
+- [[Human food]]
 - [[Apricot]]
 ## Type
 - [[Prunus spp.]]

@@ -12,6 +12,7 @@ Honeysuckle (Lonicera caerulea var. edulis) is a deciduous shrub producing sweet
 - [[Hardiness zone 9]][^2]
 
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Berry]]
 

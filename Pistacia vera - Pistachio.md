@@ -12,6 +12,7 @@ Pistachio (Pistacia vera) is the species of the Pistacia genus cultivated for th
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Pistachio]]
 ## Type

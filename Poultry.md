@@ -2,6 +2,7 @@ Poultry refers to domesticated birds such as chickens, ducks, and turkeys raised
 ## Inputs
 - [[Poultry forage]][^1]
 ## Outputs
+- [[Human food]]
 - [[Meat]]
 - [[Feather]]
 - [[Egg]]

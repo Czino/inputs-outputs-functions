@@ -13,6 +13,7 @@ The pear tree, native to temperate regions of Europe, North Africa, and Asia, an
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
 ## Outputs
+- [[Human food]]
 - [[Pear]]
 ## Type
 - [[Pyrus spp. - Pear]]

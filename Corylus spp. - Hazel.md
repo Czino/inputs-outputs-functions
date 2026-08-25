@@ -12,6 +12,7 @@ Hazel shrubs and trees produce edible nuts known as hazelnuts. They are also use
 - [[Phosphorus]]
 - [[Calcium]]
 ## Outputs
+- [[Human food]]
 - [[Wildlife habitat]][^1]
 - [[Hazelnut]]
 ## Type

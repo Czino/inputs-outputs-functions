@@ -11,6 +11,7 @@ Allium sativum, known as Garlic, is a bulbous plant with a strong aroma and flav
 - [[Potassium]]
 - [[Iron]]
 ## Outputs
+- [[Human food]]
 - [[Garlic cloves]]
 ## Type
 - [[Allium spp. - Alliums]]

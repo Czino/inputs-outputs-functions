@@ -15,6 +15,7 @@ Pawpaw (Asimina triloba) is a deciduous tree producing large, sweet, and custard
 - [[Potassium]]
 - [[Zinc]]
 ## Outputs
+- [[Human food]]
 - [[Poultry forage]][^1]
 - [[Pawpaw fruit]]
 

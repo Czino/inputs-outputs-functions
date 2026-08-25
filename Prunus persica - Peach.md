@@ -12,6 +12,7 @@ Peach (Prunus persica) is a deciduous tree known for its juicy, sweet fruits wit
 - [[Phosphorus]][^2]
 - [[Calcium]][^2]
 ## Outputs
+- [[Human food]]
 - [[Peach]]
 ## Type
 - [[Prunus spp.]]

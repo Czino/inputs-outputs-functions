@@ -8,6 +8,7 @@ Scarlet runner beans are climbing plants producing edible beans and ornamental r
 - [[Hardiness zone 12]][^2]
 
 ## Outputs
+- [[Human food]]
 - [[Bean]][^1]
 ## Type
 - [[Phaseolus spp. - Bean]]

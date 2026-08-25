@@ -11,6 +11,7 @@ Peanut plants produce edible seeds encased in a pod. They are grown for their se
 - [[Iron]]
 - [[Calcium]]
 ## Outputs
+- [[Human food]]
 - [[Peanut]]
 ## Type
 - [[Plant]]

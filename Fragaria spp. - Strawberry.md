@@ -12,6 +12,7 @@ Strawberries are perennial herbaceous plants with white flowers and red, edible 
 - [[Manganese]]
 - [[Potassium]]
 ## Outputs
+- [[Human food]]
 - [[Strawberry]]
 ## Type
 - [[Plant]]

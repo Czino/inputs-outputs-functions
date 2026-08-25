@@ -10,6 +10,7 @@ Cork oak (Quercus suber) is a slow-growing evergreen [[Mediterranean]] tree best
 - [[Hardiness zone 10]][^1]
 
 ## Outputs
+- [[Human food]]
 - [[Bark]][^1]
 - [[Acorn]][^1]
 - [[Fodder]][^1]
