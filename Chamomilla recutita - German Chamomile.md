@@ -8,9 +8,14 @@ Chamomilla recutita, or German Chamomile, is a fragrant herb with small, daisy-l
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 - [[Hardiness zone 9]][^2]
+## Outputs
+- [[Human food]][^2]
+- [[Dye]][^2]
+
 ## Type
 - [[Annual]]
 - [[Herb]]
+
 ## Functions
 - [[Phosphorus accumulator]][^1]
 - [[Potassium accumulator]][^1]
