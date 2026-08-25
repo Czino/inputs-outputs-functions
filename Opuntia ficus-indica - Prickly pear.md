@@ -1,7 +1,7 @@
 ---
 aliases: Prickly pear
 ---
-Prickly pear (Opuntia ficus-indica) is a drought-tolerant, spiny evergreen cactus grown across the Mediterranean for its sweet fruit and edible pads. Both fruit and pads are eaten fresh or cooked, and the pads also serve as livestock fodder.
+Prickly pear (Opuntia ficus-indica) is a drought-tolerant, spiny evergreen cactus grown across the [[Mediterranean]] for its sweet fruit and edible pads. Both fruit and pads are eaten fresh or cooked, and the pads also serve as livestock fodder.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

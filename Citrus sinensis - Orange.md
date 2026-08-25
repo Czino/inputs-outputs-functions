@@ -1,7 +1,7 @@
 ---
 aliases: Orange, Sweet orange
 ---
-Orange (Citrus sinensis) is an evergreen Mediterranean tree grown for its sweet, juicy fruit, eaten fresh or juiced, with the peel used for flavoring, marmalade, and essential oil.
+Orange (Citrus sinensis) is an evergreen [[Mediterranean]] tree grown for its sweet, juicy fruit, eaten fresh or juiced, with the peel used for flavoring, marmalade, and essential oil.
 
 ## Inputs
 - [[Hardiness zone 9]][^1]

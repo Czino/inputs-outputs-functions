@@ -1,7 +1,7 @@
 ---
 aliases: Lemon
 ---
-Lemon (Citrus limon) is an evergreen Mediterranean shrub grown for its acidic fruit, used fresh, juiced, and as a flavoring in cooking and drinks. The peel yields an essential oil used in perfumery, and the dried rind doubles as a moth repellent.
+Lemon (Citrus limon) is an evergreen [[Mediterranean]] shrub grown for its acidic fruit, used fresh, juiced, and as a flavoring in cooking and drinks. The peel yields an essential oil used in perfumery, and the dried rind doubles as a moth repellent.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

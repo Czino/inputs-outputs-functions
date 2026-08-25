@@ -1,7 +1,7 @@
 ---
 aliases: Joint pine
 ---
-Joint pine (Ephedra fragilis) is a leafless, evergreen shrub native to the Mediterranean, with jointed green stems and small, sweet edible fruits.
+Joint pine (Ephedra fragilis) is a leafless, evergreen shrub native to the [[Mediterranean]], with jointed green stems and small, sweet edible fruits.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

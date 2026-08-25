@@ -1,7 +1,7 @@
 ---
 aliases: Cork oak
 ---
-Cork oak (Quercus suber) is a slow-growing evergreen Mediterranean tree best known for its thick bark, which is harvested as cork every 6-12 years without felling the tree. The acorns are edible once processed and are also used as livestock fodder.
+Cork oak (Quercus suber) is a slow-growing evergreen [[Mediterranean]] tree best known for its thick bark, which is harvested as cork every 6-12 years without felling the tree. The acorns are edible once processed and are also used as livestock fodder.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

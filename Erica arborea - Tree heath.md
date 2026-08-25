@@ -1,7 +1,7 @@
 ---
 aliases: Tree heath
 ---
-Tree heath (Erica arborea) is an evergreen Mediterranean shrub or small tree grown for its dense root burls, used to make briar smoking pipes, and its honey-scented flowers, an important nectar source for bees.
+Tree heath (Erica arborea) is an evergreen [[Mediterranean]] shrub or small tree grown for its dense root burls, used to make briar smoking pipes, and its honey-scented flowers, an important nectar source for bees.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

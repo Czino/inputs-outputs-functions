@@ -1,7 +1,7 @@
 ---
 aliases: Curry plant
 ---
-Curry plant (Helichrysum italicum) is a low, aromatic evergreen Mediterranean shrub whose leaves smell of curry spice. The leaves and flower heads are used sparingly as a flavoring, and the plant yields an essential oil.
+Curry plant (Helichrysum italicum) is a low, aromatic evergreen [[Mediterranean]] shrub whose leaves smell of curry spice. The leaves and flower heads are used sparingly as a flavoring, and the plant yields an essential oil.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

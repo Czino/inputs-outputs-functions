@@ -1,7 +1,7 @@
 ---
 aliases: Scorpion senna
 ---
-Scorpion senna (Coronilla emerus) is an evergreen nitrogen-fixing shrub native to Mediterranean and central European scrub, grown for its sweetly scented flowers and soil-building ability.
+Scorpion senna (Coronilla emerus) is an evergreen nitrogen-fixing shrub native to [[Mediterranean]] and central European scrub, grown for its sweetly scented flowers and soil-building ability.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

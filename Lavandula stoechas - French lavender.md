@@ -1,7 +1,7 @@
 ---
 aliases: French lavender, Spanish lavender
 ---
-French lavender (Lavandula stoechas) is an evergreen Mediterranean shrub distinguished from common lavender by its distinctive "rabbit-ear" bracted flower spikes. It has no edible use but is valued for its essential oil, as an insect repellent, and as an ornamental ground cover.
+French lavender (Lavandula stoechas) is an evergreen [[Mediterranean]] shrub distinguished from common lavender by its distinctive "rabbit-ear" bracted flower spikes. It has no edible use but is valued for its essential oil, as an insect repellent, and as an ornamental ground cover.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Bitter vetch
 ---
-Bitter vetch (Vicia ervilia) is an annual legume native to the Mediterranean and Near East, one of the earliest crops domesticated by humans. It fixes nitrogen in the soil and was traditionally grown for its seed, used as a lentil substitute and as livestock forage, though the raw seed carries some toxicity risk to pigs and cattle.
+Bitter vetch (Vicia ervilia) is an annual legume native to the [[Mediterranean]] and Near East, one of the earliest crops domesticated by humans. It fixes nitrogen in the soil and was traditionally grown for its seed, used as a lentil substitute and as livestock forage, though the raw seed carries some toxicity risk to pigs and cattle.
 
 ## Outputs
 - [[Human food]][^1]

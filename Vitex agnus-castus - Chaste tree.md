@@ -1,7 +1,7 @@
 ---
 aliases: Chaste tree
 ---
-Chaste tree (Vitex agnus-castus) is a deciduous Mediterranean shrub with aromatic leaves and flowers. Its dried fruit is used as a pepper substitute and spice, and it tolerates dry, poor soils in a sunny position.
+Chaste tree (Vitex agnus-castus) is a deciduous [[Mediterranean]] shrub with aromatic leaves and flowers. Its dried fruit is used as a pepper substitute and spice, and it tolerates dry, poor soils in a sunny position.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

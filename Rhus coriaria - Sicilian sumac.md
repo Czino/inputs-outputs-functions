@@ -1,7 +1,7 @@
 ---
 aliases: Sicilian sumac
 ---
-Sicilian sumac (_Rhus coriaria_) is a deciduous shrub native to the Mediterranean and Middle East. Its dried, ground fruit is the tart red spice sumac, a core ingredient of za'atar, and its tannin-rich leaves have long been used for tanning leather.
+Sicilian sumac (_Rhus coriaria_) is a deciduous shrub native to the [[Mediterranean]] and Middle East. Its dried, ground fruit is the tart red spice sumac, a core ingredient of za'atar, and its tannin-rich leaves have long been used for tanning leather.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

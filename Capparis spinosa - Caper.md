@@ -1,7 +1,7 @@
 ---
 aliases: Caper
 ---
-Caper (Capparis spinosa) is a drought-tolerant evergreen Mediterranean shrub with a sprawling, trailing habit. Its unopened flower buds are pickled and used as a pungent culinary condiment, and the young shoots and immature fruits are also edible.
+Caper (Capparis spinosa) is a drought-tolerant evergreen [[Mediterranean]] shrub with a sprawling, trailing habit. Its unopened flower buds are pickled and used as a pungent culinary condiment, and the young shoots and immature fruits are also edible.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

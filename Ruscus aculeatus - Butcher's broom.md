@@ -1,7 +1,7 @@
 ---
 aliases: Butcher's broom
 ---
-Butcher's broom (_Ruscus aculeatus_) is a low, spiny evergreen shrub native to Mediterranean woodlands, tolerant of dense dry shade where little else will grow. Its young spring shoots are eaten as an asparagus substitute, and its roasted seeds serve as a coffee substitute.
+Butcher's broom (_Ruscus aculeatus_) is a low, spiny evergreen shrub native to [[Mediterranean]] woodlands, tolerant of dense dry shade where little else will grow. Its young spring shoots are eaten as an asparagus substitute, and its roasted seeds serve as a coffee substitute.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

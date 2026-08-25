@@ -1,7 +1,7 @@
 ---
 aliases: Jerusalem sage
 ---
-Jerusalem sage (Phlomis fruticosa) is a drought-tolerant evergreen Mediterranean shrub with felted grey-green leaves and yellow flowers. It is grown as an ornamental hedge and ground cover rather than for any edible use.
+Jerusalem sage (Phlomis fruticosa) is a drought-tolerant evergreen [[Mediterranean]] shrub with felted grey-green leaves and yellow flowers. It is grown as an ornamental hedge and ground cover rather than for any edible use.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

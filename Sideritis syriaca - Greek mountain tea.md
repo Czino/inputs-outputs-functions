@@ -1,7 +1,7 @@
 ---
 aliases: Greek mountain tea, Ironwort
 ---
-Greek mountain tea (Sideritis syriaca) is a low, drought-tolerant Mediterranean perennial herb whose leaves and flowering tops are dried and sold commercially for a traditional herbal tea.
+Greek mountain tea (Sideritis syriaca) is a low, drought-tolerant [[Mediterranean]] perennial herb whose leaves and flowering tops are dried and sold commercially for a traditional herbal tea.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

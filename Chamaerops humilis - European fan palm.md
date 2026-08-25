@@ -1,7 +1,7 @@
 ---
 aliases: European fan palm
 ---
-European fan palm (_Chamaerops humilis_) is a slow-growing, clumping palm native to the western Mediterranean, tolerant of poor, dry, rocky soils. Its young leaf buds and shoots are edible cooked, and its leaves yield a strong fibre used for cordage and brushes.
+European fan palm (_Chamaerops humilis_) is a slow-growing, clumping palm native to the western [[Mediterranean]], tolerant of poor, dry, rocky soils. Its young leaf buds and shoots are edible cooked, and its leaves yield a strong fibre used for cordage and brushes.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Kermes oak
 ---
-Kermes oak (Quercus coccifera) is a small, spiny-leaved evergreen shrub oak common in Mediterranean maquis. Its acorns are edible once leached of their bitter tannins.
+Kermes oak (Quercus coccifera) is a small, spiny-leaved evergreen shrub oak common in [[Mediterranean]] maquis. Its acorns are edible once leached of their bitter tannins.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

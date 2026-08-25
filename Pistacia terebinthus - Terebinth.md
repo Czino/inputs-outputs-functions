@@ -1,7 +1,7 @@
 ---
 aliases: Terebinth
 ---
-Terebinth (Pistacia terebinthus) is a deciduous tree native to dry Mediterranean scrub and woodland. Its seeds are eaten raw or cooked and pressed for oil, and the trunk is tapped for Cyprus turpentine resin. It is also used as a rootstock for [[Pistacia spp. - Pistachio|pistachio]].
+Terebinth (Pistacia terebinthus) is a deciduous tree native to dry [[Mediterranean]] scrub and woodland. Its seeds are eaten raw or cooked and pressed for oil, and the trunk is tapped for Cyprus turpentine resin. It is also used as a rootstock for [[Pistacia spp. - Pistachio|pistachio]].
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

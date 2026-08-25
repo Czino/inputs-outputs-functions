@@ -1,7 +1,7 @@
 ---
 aliases: Conehead thyme
 ---
-Conehead thyme (Thymbra capitata) is an evergreen Mediterranean shrub with aromatic, oregano-flavored leaves used fresh or dried in cooking and herbal tea. PFAF lists it under its older name, Thymus capitatus.
+Conehead thyme (Thymbra capitata) is an evergreen [[Mediterranean]] shrub with aromatic, oregano-flavored leaves used fresh or dried in cooking and herbal tea. PFAF lists it under its older name, Thymus capitatus.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

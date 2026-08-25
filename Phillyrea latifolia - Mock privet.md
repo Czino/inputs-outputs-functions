@@ -1,7 +1,7 @@
 ---
 aliases: Mock privet
 ---
-Mock privet (Phillyrea latifolia) is an evergreen Mediterranean tree in the olive family, grown as a clipped hedge and for its fine-grained wood, which produces an excellent charcoal.
+Mock privet (Phillyrea latifolia) is an evergreen [[Mediterranean]] tree in the olive family, grown as a clipped hedge and for its fine-grained wood, which produces an excellent charcoal.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

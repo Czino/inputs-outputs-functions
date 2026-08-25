@@ -1,7 +1,7 @@
 ---
 aliases: Rockrose, Labdanum, Common gum cistus
 ---
-Rockrose (Cistus ladanifer) is an evergreen Mediterranean shrub of dry, sunny hillsides. Its sticky leaves exude the aromatic resin labdanum, traditionally harvested for perfumery, soap, and medicine.
+Rockrose (Cistus ladanifer) is an evergreen [[Mediterranean]] shrub of dry, sunny hillsides. Its sticky leaves exude the aromatic resin labdanum, traditionally harvested for perfumery, soap, and medicine.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

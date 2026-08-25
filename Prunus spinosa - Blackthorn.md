@@ -1,7 +1,7 @@
 ---
 aliases: Blackthorn, Sloe
 ---
-Blackthorn (Prunus spinosa) is a dense, thorny deciduous shrub common in Mediterranean and European hedgerows. Its astringent fruits, called sloes, are used in jellies, syrups, and sloe gin.
+Blackthorn (Prunus spinosa) is a dense, thorny deciduous shrub common in [[Mediterranean]] and European hedgerows. Its astringent fruits, called sloes, are used in jellies, syrups, and sloe gin.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

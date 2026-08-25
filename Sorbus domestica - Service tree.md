@@ -1,7 +1,7 @@
 ---
 aliases: Service tree
 ---
-Service tree (_Sorbus domestica_) is a deciduous fruit tree native to southern Europe and the Mediterranean. Its pear-like fruit is inedible until bletted (softened by cold storage), after which it develops a sweet flavour used fresh, dried, or fermented into cider.
+Service tree (_Sorbus domestica_) is a deciduous fruit tree native to southern Europe and the [[Mediterranean]]. Its pear-like fruit is inedible until bletted (softened by cold storage), after which it develops a sweet flavour used fresh, dried, or fermented into cider.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

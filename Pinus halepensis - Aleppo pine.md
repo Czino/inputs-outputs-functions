@@ -1,7 +1,7 @@
 ---
 aliases: Aleppo pine
 ---
-Aleppo pine (_Pinus halepensis_) is an evergreen conifer native to the Mediterranean basin, tolerant of poor, dry, chalky soils and coastal wind. Its resin has traditionally been used to flavour wine and make chewing gum.
+Aleppo pine (_Pinus halepensis_) is an evergreen conifer native to the [[Mediterranean]] basin, tolerant of poor, dry, chalky soils and coastal wind. Its resin has traditionally been used to flavour wine and make chewing gum.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

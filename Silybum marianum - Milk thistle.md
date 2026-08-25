@@ -1,7 +1,7 @@
 ---
 aliases: Milk thistle
 ---
-Milk thistle (_Silybum marianum_) is a spiny biennial herb native to the Mediterranean, self-seeding freely on disturbed and nitrogen-rich ground. Its roots, spring shoots, and flower buds are edible, and it has a long history of use as a liver-protective herbal remedy.
+Milk thistle (_Silybum marianum_) is a spiny biennial herb native to the [[Mediterranean]], self-seeding freely on disturbed and nitrogen-rich ground. Its roots, spring shoots, and flower buds are edible, and it has a long history of use as a liver-protective herbal remedy.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Asphodel
 ---
-Asphodel (_Asphodelus aestivus_) is an evergreen perennial native across the Mediterranean basin, common in dry grassland and maquis. Its starchy tuberous roots, flowering stalk, and seeds are all edible once cooked.
+Asphodel (_Asphodelus aestivus_) is an evergreen perennial native across the [[Mediterranean]] basin, common in dry grassland and maquis. Its starchy tuberous roots, flowering stalk, and seeds are all edible once cooked.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

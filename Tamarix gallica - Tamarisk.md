@@ -1,7 +1,7 @@
 ---
 aliases: Tamarisk
 ---
-Tamarisk (Tamarix gallica) is a deciduous Mediterranean shrub that tolerates salt, wind, and poor sandy soils, making it a common coastal shelter planting.
+Tamarisk (Tamarix gallica) is a deciduous [[Mediterranean]] shrub that tolerates salt, wind, and poor sandy soils, making it a common coastal shelter planting.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

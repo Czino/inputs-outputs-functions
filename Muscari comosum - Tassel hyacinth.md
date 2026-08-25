@@ -1,7 +1,7 @@
 ---
 aliases: Tassel hyacinth
 ---
-Tassel hyacinth (Muscari comosum) is a bulb perennial native to the Mediterranean and Near East, grown for its edible bulb, known in southern Italy as lampascioni. It naturalizes readily in short grass, hedgerows, and disturbed ground.
+Tassel hyacinth (Muscari comosum) is a bulb perennial native to the [[Mediterranean]] and Near East, grown for its edible bulb, known in southern Italy as lampascioni. It naturalizes readily in short grass, hedgerows, and disturbed ground.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Date palm
 ---
-Date palm (Phoenix dactylifera) is an evergreen tree grown for its sweet fruit, eaten fresh or dried, long cultivated at Mediterranean and desert oases. It tolerates heat, drought, and salty soils, and its trunk fibre and fronds are used for rope, thatch, and basketry.
+Date palm (Phoenix dactylifera) is an evergreen tree grown for its sweet fruit, eaten fresh or dried, long cultivated at [[Mediterranean]] and desert oases. It tolerates heat, drought, and salty soils, and its trunk fibre and fronds are used for rope, thatch, and basketry.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

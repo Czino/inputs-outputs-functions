@@ -1,7 +1,7 @@
 ---
 aliases: Moon trefoil
 ---
-Moon trefoil (Medicago arborea) is an evergreen, nitrogen-fixing shrub native to Mediterranean scrub and rocky hillsides. Its young leaves and shoots are edible, and it tolerates drought, wind, and salt spray, making it a useful support species in coastal Mediterranean gardens.
+Moon trefoil (Medicago arborea) is an evergreen, nitrogen-fixing shrub native to [[Mediterranean]] scrub and rocky hillsides. Its young leaves and shoots are edible, and it tolerates drought, wind, and salt spray, making it a useful support species in coastal [[Mediterranean]] gardens.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

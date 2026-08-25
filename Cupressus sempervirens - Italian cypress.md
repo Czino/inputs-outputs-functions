@@ -1,7 +1,7 @@
 ---
 aliases: Italian cypress
 ---
-Italian cypress (Cupressus sempervirens) is a narrow, columnar evergreen tree native to the Mediterranean, tolerant of hot, dry conditions once established. It has no known edible use, but its fragrant, durable wood resists moths and woodworm.
+Italian cypress (Cupressus sempervirens) is a narrow, columnar evergreen tree native to the [[Mediterranean]], tolerant of hot, dry conditions once established. It has no known edible use, but its fragrant, durable wood resists moths and woodworm.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

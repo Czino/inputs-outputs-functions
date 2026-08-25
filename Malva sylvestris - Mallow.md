@@ -1,7 +1,7 @@
 ---
 aliases: Mallow
 ---
-Mallow (Malva sylvestris) is a fast-growing biennial or short-lived perennial common on Mediterranean waste ground, field edges, and roadsides. Its leaves, flowers, and young seeds are all edible, with the mucilaginous leaves used to thicken soups.
+Mallow (Malva sylvestris) is a fast-growing biennial or short-lived perennial common on [[Mediterranean]] waste ground, field edges, and roadsides. Its leaves, flowers, and young seeds are all edible, with the mucilaginous leaves used to thicken soups.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

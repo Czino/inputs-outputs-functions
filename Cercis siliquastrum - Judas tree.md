@@ -1,7 +1,7 @@
 ---
 aliases: Judas tree
 ---
-Judas tree (Cercis siliquastrum) is a deciduous Mediterranean tree with pink flowers that appear directly on the bark before the leaves. It fixes nitrogen and its flowers and young seedpods are edible.
+Judas tree (Cercis siliquastrum) is a deciduous [[Mediterranean]] tree with pink flowers that appear directly on the bark before the leaves. It fixes nitrogen and its flowers and young seedpods are edible.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]
