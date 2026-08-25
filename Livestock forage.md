@@ -1,0 +1,1 @@
+Livestock forage refers to plants and vegetation consumed by domesticated grazing animals, such as cattle, goats, and sheep, as a food source. Providing palatable forage supports pasture-based animal husbandry.

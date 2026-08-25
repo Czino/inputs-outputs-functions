@@ -1,0 +1,1 @@
+A fern is a non-flowering vascular plant that reproduces by spores rather than seeds, typically with feathery or lobed fronds.
