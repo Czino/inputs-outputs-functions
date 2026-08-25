@@ -2,6 +2,11 @@
 aliases: Scarlet runner bean
 ---
 Scarlet runner beans are climbing plants producing edible beans and ornamental red flowers. They are valued for their beans and decorative blooms.
+## Inputs
+- [[Hardiness zone 10]][^2]
+- [[Hardiness zone 11]][^2]
+- [[Hardiness zone 12]][^2]
+
 ## Outputs
 - [[Bean]][^1]
 ## Type
@@ -11,3 +16,4 @@ Scarlet runner beans are climbing plants producing edible beans and ornamental r
 - [[Nitrogen fixer]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
+[^2]: [Phaseolus coccineus | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Phaseolus+coccineus)

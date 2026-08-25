@@ -2,6 +2,13 @@
 aliases: Gooseberry
 ---
 Gooseberry is a shrub producing tart berries used in cooking and preserves. It is also valued for its ornamental flowers.
+## Inputs
+- [[Hardiness zone 4]][^2]
+- [[Hardiness zone 5]][^2]
+- [[Hardiness zone 6]][^2]
+- [[Hardiness zone 7]][^2]
+- [[Hardiness zone 8]][^2]
+
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1][^2]
