@@ -2,11 +2,15 @@
 aliases: Stinging nettle
 ---
 Stinging nettle (Urtica urens) is a herbaceous plant known for its stinging hairs that cause skin irritation. Despite this, nettles are highly nutritious, used in teas, soups, and traditional medicine for their anti-inflammatory and diuretic properties. They also support biodiversity by providing habitat for various insects.
+
 ## Outputs
+- [[Human food]][^3]
 - [[Poultry forage]][^1]
 
+## Type
+- [[Annual]][^3]
+
 ## Functions
-- [[Plant]]
 - [[Nitrogen accumulator]][^2]
 - [[Potassium accumulator]][^2]
 - [[Calcium accumulator]][^2]
@@ -16,3 +20,4 @@ Stinging nettle (Urtica urens) is a herbaceous plant known for its stinging hair
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
+[^3]: [Urtica urens | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Urtica+urens)

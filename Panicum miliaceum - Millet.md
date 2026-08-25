@@ -2,10 +2,17 @@
 aliases: Millet
 ---
 Millet (Panicum miliaceum) is a cereal grain known for its small, round seeds that are highly nutritious and gluten-free. Millet is used in porridge, bread, and beer, and is also an important fodder crop for livestock. It is valued for its ability to grow in arid conditions and poor soils.
+## Inputs
+- [[Hardiness zone 10]][^2]
+- [[Hardiness zone 11]][^2]
+- [[Hardiness zone 12]][^2]
+
 ## Outputs
 - [[Poultry forage]][^1]
-- [[Human food]]
-## Function
+- [[Human food]][^2]
+## Type
 - [[Plant]]
+- [[Annual]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
+[^2]: [Panicum miliaceum | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Panicum+miliaceum)
