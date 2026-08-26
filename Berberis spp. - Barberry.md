@@ -8,7 +8,7 @@ Barberry is a genus of deciduous and evergreen shrubs known for their spiny bran
 - [[Poultry forage]][^2]
 - [[Barberry]]
 
-## Functions
+## Type
 - [[Shrub]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

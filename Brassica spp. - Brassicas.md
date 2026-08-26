@@ -6,8 +6,10 @@ Brassicas (_Brassica_ spp.) are a genus of plants that includes mustard, known f
 - [[Poultry forage]][^1]
 - [[Human food]] (leaves and flowers)
 
-## Functions
+## Type
 - [[Plant]]
+
+## Functions
 - [[Phosphorus accumulator]][^2]
 - [[Calcium accumulator]][^2]
 - [[Sulfur accumulator]][^2]

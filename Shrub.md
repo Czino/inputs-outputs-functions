@@ -2,7 +2,9 @@ Shrubs are woody plants that are smaller than trees, typically with multiple ste
 
 ## Outputs
 - [[Perching space]]
-## Functions
+## Type
 - [[Plant]]
+
+## Functions
 - [[Soil stabilization]]
 - [[Windbreak]]

@@ -5,8 +5,10 @@ Plantain is a genus of herbaceous plants known for their medicinal properties. T
 ## Outputs
 - [[Poultry forage]][^1]
 
+## Type
+- [[Herb]]
+
 ## Functions
-- [[Plant]]
 - [[Calcium accumulator]][^2]
 - [[Sulfur accumulator]][^2]
 - [[Magnesium accumulator]][^2]

@@ -5,11 +5,11 @@ Mulberry is a genus of deciduous trees known for their sweet, edible berries tha
 ## Outputs
 - [[Bird nesting space]][^1]
 - [[Poultry forage]][^2]
-- [[Human food]][^2]
-## Functions
+- [[Human food]][^3]
+## Type
 - [[Tree]]
 - [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
-[^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
+[^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1

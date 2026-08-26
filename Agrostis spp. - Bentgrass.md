@@ -3,8 +3,10 @@ aliases: Bentgrass
 ---
 Bentgrass, includes various grass species often used in lawns and golf courses due to their fine texture and tolerance to low mowing.
 
-## Functions
+## Type
 - [[Plant]]
+
+## Functions
 - [[Sulfur accumulator]][^1]
 - [[Manganese accumulator]][^1]
 - [[Copper accumulator]][^1]

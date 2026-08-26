@@ -6,7 +6,7 @@ Wolfberry, also known as goji berry, is a group of deciduous shrubs known for th
 - [[Bird nesting space]][^1]
 - [[Poultry forage]][^2]
 
-## Functions
+## Type
 - [[Shrub]]
 - [[Deciduous]]
 
