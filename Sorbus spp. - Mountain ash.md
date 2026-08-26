@@ -6,8 +6,9 @@ Mountain ash is a group of deciduous trees and shrubs known for their bright red
 - [[Winter fruits for birds]][^1]
 - [[Wildlife habitat]][^2]
 - [[Human food]][^2]
-## Functions
-- [[Plant]]
+## Type
+- [[Tree]]
+- [[Shrub]]
 - [[Deciduous]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2

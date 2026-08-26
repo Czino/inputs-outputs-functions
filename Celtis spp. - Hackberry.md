@@ -5,7 +5,7 @@ Hackberry is a group of deciduous trees known for their resilience and adaptabil
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Winter fruits for birds]][^1]
-## Functions
+## Type
 - [[Tree]]
 - [[Deciduous]]
 

@@ -6,8 +6,10 @@ Tobacco plants are annual or perennial plants cultivated for their leaves, which
 ## Outputs
 - [[Tobacco]]
 
+## Type
+- [[Solanaceae spp. - Nightshade]]
+
 ## Functions
 - [[Nitrogen accumulator]][^1]
-- [[Solanaceae spp. - Nightshade]]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2

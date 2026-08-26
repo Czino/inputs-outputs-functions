@@ -5,7 +5,7 @@ Elm comprises a group of deciduous trees known for their tall stature and broad,
 ## Outputs
 - [[Bird nesting space]][^1]
 
-## Functions
+## Type
 - [[Tree]]
 - [[Deciduous]]
 

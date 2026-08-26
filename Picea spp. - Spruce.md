@@ -5,7 +5,7 @@ Spruce is a genus of evergreen conifers known for their conical shape and needle
 ## Outputs
 - [[Bird nesting space]][^1]
 
-## Functions
+## Type
 - [[Tree]]
 - [[Evergreen]]
 
