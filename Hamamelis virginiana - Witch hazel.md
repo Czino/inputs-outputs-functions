@@ -14,6 +14,7 @@ Witch hazel is a deciduous shrub known for its yellow flowers and astringent pro
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Shrub]]

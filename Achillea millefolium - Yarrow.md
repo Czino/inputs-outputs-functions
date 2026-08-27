@@ -12,6 +12,7 @@ Achillea millefolium, or Yarrow, is a perennial herb with clusters of small whit
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Herb]]

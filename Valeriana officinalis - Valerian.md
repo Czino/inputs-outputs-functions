@@ -12,6 +12,7 @@ Valeriana officinalis, or Valerian, is a perennial herb with sweetly scented pin
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Herb]]

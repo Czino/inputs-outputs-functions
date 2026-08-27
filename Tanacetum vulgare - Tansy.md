@@ -12,6 +12,9 @@ Tanacetum vulgare, or Tansy, is a perennial herb with yellow button-like flowers
 - [[Hardiness zone 8]][^2]
 - [[Hardiness zone 9]][^2]
 
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]

@@ -1,5 +1,5 @@
 ---
-aliases: [Breadroot, Prairie turnip]
+aliases: Breadroot, Prairie turnip
 ---
 Breadroot (Psoralea esculenta) is a perennial herb known for its edible tubers, which are rich in starch and used as a food source by Native Americans. The plant is also valued for its medicinal properties and its role in traditional diets.
 

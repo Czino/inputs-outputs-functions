@@ -10,6 +10,9 @@ Tussilago farfara, known as Coltsfoot, is a perennial herb with bright yellow, d
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]
