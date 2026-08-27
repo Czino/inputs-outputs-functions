@@ -15,9 +15,9 @@ Sicilian sumac (_Rhus coriaria_) is a deciduous shrub native to the [[Mediterran
 ## Type
 - [[Shrub]]
 - [[Deciduous]]
+- [[Rhus spp. - Sumac]]
 
 ## Functions
-- [[Rhus spp. - Sumac]]
 - [[Soil stabilization]][^1]
 - [[Wildlife habitat]][^1]
 
