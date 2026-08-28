@@ -1,7 +1,7 @@
 ---
 aliases: Sunn hemp
 ---
-Sunn Hemp is a fast-growing annual plant with yellow flowers. It is used as a cover crop to improve soil health, suppress weeds, and add organic matter. Sunn Hemp is also used for its fiber and as green manure.
+Sunn Hemp is a [[fast-growing]] annual plant with yellow flowers. It is used as a cover crop to improve soil health, suppress weeds, and add organic matter. Sunn Hemp is also used for its fiber and as green manure.
 ## Outputs
 - [[Human food]][^2]
 - [[Fibre]][^2]
