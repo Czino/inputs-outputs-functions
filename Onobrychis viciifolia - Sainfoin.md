@@ -10,6 +10,9 @@ Sainfoin (Onobrychis viciifolia) is a perennial nitrogen-fixing legume with a de
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
 
+## Outputs
+- [[Human food]][^1]
+
 ## Type
 - [[Perennial]]
 

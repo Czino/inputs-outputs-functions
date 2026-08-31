@@ -10,6 +10,8 @@ Blue false indigo (Baptisia australis) is a perennial herb with blue flowers, na
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 - [[Hardiness zone 9]][^2]
+## Outputs
+- [[Dye]][^2]
 ## Type
 - [[Herb]]
 - [[Perennial]]

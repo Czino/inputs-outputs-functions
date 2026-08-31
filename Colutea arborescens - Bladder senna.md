@@ -9,6 +9,9 @@ Bladder Senna is a deciduous shrub with yellow flowers and distinctive inflated 
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Plant]]
 - [[Shrub]][^2]

@@ -9,6 +9,9 @@ French lavender (Lavandula stoechas) is an evergreen [[Mediterranean]] shrub dis
 - [[Hardiness zone 9]][^1]
 - [[Hardiness zone 10]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Shrub]]
 - [[Evergreen]]

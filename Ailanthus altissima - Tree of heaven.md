@@ -7,6 +7,10 @@ Tree of Heaven (Ailanthus altissima) is a [[fast-growing]] deciduous tree known 
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
+## Outputs
+- [[Human food]][^2]
+- [[Wood]][^2]
+- [[Dye]][^2]
 ## Type
 - [[Tree]]
 - [[Deciduous]]

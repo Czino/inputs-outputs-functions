@@ -10,6 +10,9 @@ Scorpion senna (Coronilla emerus) is an evergreen nitrogen-fixing shrub native t
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Shrub]]
 - [[Evergreen]]

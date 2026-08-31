@@ -10,6 +10,10 @@ Indian Cherry (Rhamnus caroliniana) is a deciduous shrub or small tree producing
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
 
+## Outputs
+- [[Human food]][^1]
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Tree]]
 - [[Shrub]]
