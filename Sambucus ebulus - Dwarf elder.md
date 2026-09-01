@@ -1,7 +1,7 @@
 ---
 aliases: Dwarf elder, Dwarf elderberry
 ---
-Dwarf elder (_Sambucus ebulus_) is a perennial herb related to elderberry, found across [[Mediterranean]] Europe. Unlike its shrub relatives it dies back to the ground each winter. The leaves and stems are poisonous; the cooked fruit is used sparingly as a flavoring.
+Dwarf elder (_Sambucus ebulus_) is a perennial herb related to elderberry, found across [[Mediterranean]] [[Europe]]. Unlike its shrub relatives it dies back to the ground each winter. The leaves and stems are poisonous; the cooked fruit is used sparingly as a flavoring.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

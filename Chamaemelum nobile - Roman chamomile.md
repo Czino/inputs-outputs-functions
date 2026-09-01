@@ -1,7 +1,7 @@
 ---
 aliases: Roman chamomile
 ---
-Roman chamomile (Chamaemelum nobile) is a low, mat-forming evergreen perennial herb native to Europe, including the [[Mediterranean]] region, grown as a fragrant lawn substitute and for its flowers, used in herbal tea.
+Roman chamomile (Chamaemelum nobile) is a low, mat-forming evergreen perennial herb native to [[Europe]], including the [[Mediterranean]] region, grown as a fragrant lawn substitute and for its flowers, used in herbal tea.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

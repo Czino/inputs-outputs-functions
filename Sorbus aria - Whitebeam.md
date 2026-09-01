@@ -1,7 +1,7 @@
 ---
 aliases: Whitebeam
 ---
-Whitebeam (Sorbus aria) is a deciduous tree native to Europe, including the [[Mediterranean]] region, grown as a pioneer species on chalky soils for its silvery foliage and orange-red autumn berries.
+Whitebeam (Sorbus aria) is a deciduous tree native to [[Europe]], including the [[Mediterranean]] region, grown as a pioneer species on chalky soils for its silvery foliage and orange-red autumn berries.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

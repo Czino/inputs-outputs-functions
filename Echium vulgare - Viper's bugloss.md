@@ -1,7 +1,7 @@
 ---
 aliases: Viper's bugloss
 ---
-Viper's bugloss (Echium vulgare) is a bristly biennial or short-lived perennial herb native to Europe, including the [[Mediterranean]] region, valued as one of the best bee plants for its long nectar-rich flowering season.
+Viper's bugloss (Echium vulgare) is a bristly biennial or short-lived perennial herb native to [[Europe]], including the [[Mediterranean]] region, valued as one of the best bee plants for its long nectar-rich flowering season.
 
 ## Outputs
 - [[Human food]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Wayfaring tree
 ---
-The wayfaring tree (Viburnum lantana) is a deciduous shrub native to Europe, including the [[Mediterranean]] region, found on calcareous soils at woodland edges.
+The wayfaring tree (Viburnum lantana) is a deciduous shrub native to [[Europe]], including the [[Mediterranean]] region, found on calcareous soils at woodland edges.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Wild leek
 ---
-Wild leek (Allium ampeloprasum) is a bulbous perennial native to southern Europe and western Asia, the wild ancestor of cultivated leek. Its bulb, leaves, and flowers are all edible, with a garlic-to-leek flavour.
+Wild leek (Allium ampeloprasum) is a bulbous perennial native to southern [[Europe]] and western Asia, the wild ancestor of cultivated leek. Its bulb, leaves, and flowers are all edible, with a garlic-to-leek flavour.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

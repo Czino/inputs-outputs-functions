@@ -1,7 +1,7 @@
 ---
 aliases: Sea holly
 ---
-Sea holly (Eryngium maritimum) is a spiny, blue-grey evergreen perennial herb native to coastal sand dunes of Europe, including the [[Mediterranean]] region, valued for binding loose sand with its extensive root system.
+Sea holly (Eryngium maritimum) is a spiny, blue-grey evergreen perennial herb native to coastal sand dunes of [[Europe]], including the [[Mediterranean]] region, valued for binding loose sand with its extensive root system.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: White horehound
 ---
-White horehound (Marrubium vulgare) is an aromatic perennial herb native to Europe, including the [[Mediterranean]] region, long used as a cough remedy and to flavor ale and herbal liqueurs.
+White horehound (Marrubium vulgare) is an aromatic perennial herb native to [[Europe]], including the [[Mediterranean]] region, long used as a cough remedy and to flavor ale and herbal liqueurs.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

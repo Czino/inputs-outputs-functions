@@ -1,7 +1,7 @@
 ---
 aliases: Manna ash, Flowering ash
 ---
-Manna ash (Fraxinus ornus) is a deciduous tree native to southern Europe and the [[Mediterranean]] region, traditionally tapped for manna, a sweet sap exudate used as a mild laxative and sugar substitute.
+Manna ash (Fraxinus ornus) is a deciduous tree native to southern [[Europe]] and the [[Mediterranean]] region, traditionally tapped for manna, a sweet sap exudate used as a mild laxative and sugar substitute.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

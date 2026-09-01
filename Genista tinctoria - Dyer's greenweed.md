@@ -1,7 +1,7 @@
 ---
 aliases: Dyer's greenweed
 ---
-Dyer's greenweed (Genista tinctoria) is a low, nitrogen-fixing deciduous shrub native to Europe, including the [[Mediterranean]] region, traditionally grown for the yellow dye extracted from its flowers and shoots.
+Dyer's greenweed (Genista tinctoria) is a low, nitrogen-fixing deciduous shrub native to [[Europe]], including the [[Mediterranean]] region, traditionally grown for the yellow dye extracted from its flowers and shoots.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

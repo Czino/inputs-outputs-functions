@@ -1,7 +1,7 @@
 ---
 aliases: Wormwood
 ---
-Wormwood (Artemisia absinthium) is a bitter, aromatic perennial herb native to Europe, including the [[Mediterranean]] region, long used medicinally and as a companion-planted insect repellent.
+Wormwood (Artemisia absinthium) is a bitter, aromatic perennial herb native to [[Europe]], including the [[Mediterranean]] region, long used medicinally and as a companion-planted insect repellent.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

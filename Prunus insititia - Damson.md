@@ -1,7 +1,7 @@
 ---
 aliases: Damson
 ---
-Damson (_Prunus insititia_) is a deciduous plum relative grown across [[Mediterranean]] and temperate Europe, its tart fruit sweetening after the first frost.
+Damson (_Prunus insititia_) is a deciduous plum relative grown across [[Mediterranean]] and temperate [[Europe]], its tart fruit sweetening after the first frost.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

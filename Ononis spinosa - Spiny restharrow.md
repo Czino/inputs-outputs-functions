@@ -1,7 +1,7 @@
 ---
 aliases: Spiny restharrow
 ---
-Spiny restharrow (Ononis spinosa) is a spiny, nitrogen-fixing perennial herb native to Europe, including the [[Mediterranean]] region, found on dry grassland and disturbed ground.
+Spiny restharrow (Ononis spinosa) is a spiny, nitrogen-fixing perennial herb native to [[Europe]], including the [[Mediterranean]] region, found on dry grassland and disturbed ground.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

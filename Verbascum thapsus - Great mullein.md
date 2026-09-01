@@ -1,7 +1,7 @@
 ---
 aliases: Great mullein, Common mullein
 ---
-Great mullein (_Verbascum thapsus_) is a tall biennial herb of [[Mediterranean]] and temperate Europe, its flannel-textured leaves and flowers used for tea and traditional respiratory remedies.
+Great mullein (_Verbascum thapsus_) is a tall biennial herb of [[Mediterranean]] and temperate [[Europe]], its flannel-textured leaves and flowers used for tea and traditional respiratory remedies.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

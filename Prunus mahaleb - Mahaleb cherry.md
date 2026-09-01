@@ -1,7 +1,7 @@
 ---
 aliases: Mahaleb cherry
 ---
-Mahaleb cherry (Prunus mahaleb) is a deciduous tree native to central and southern Europe. Its dried seed kernels are ground into mahlab, a spice used in [[Mediterranean]] and Middle Eastern breads and pastries, and the species is also used as a rootstock for cultivated cherries.
+Mahaleb cherry (Prunus mahaleb) is a deciduous tree native to central and southern [[Europe]]. Its dried seed kernels are ground into mahlab, a spice used in [[Mediterranean]] and Middle Eastern breads and pastries, and the species is also used as a rootstock for cultivated cherries.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

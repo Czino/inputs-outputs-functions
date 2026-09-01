@@ -1,7 +1,7 @@
 ---
 aliases: Common holly, English holly
 ---
-Common holly (Ilex aquifolium) is an evergreen shrub or small tree native to Europe, including the [[Mediterranean]] region, widely grown as a clipped hedge and valued by wildlife for its winter berries. The berries are purgative and toxic in quantity.
+Common holly (Ilex aquifolium) is an evergreen shrub or small tree native to [[Europe]], including the [[Mediterranean]] region, widely grown as a clipped hedge and valued by wildlife for its winter berries. The berries are purgative and toxic in quantity.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

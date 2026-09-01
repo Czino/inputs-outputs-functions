@@ -1,7 +1,7 @@
 ---
 aliases: Common box, Boxwood
 ---
-Common box (Buxus sempervirens) is a slow-growing evergreen shrub native to Europe, including the [[Mediterranean]] region, widely grown as a formal clipped hedge for its dense, fine foliage. All parts of the plant are poisonous.
+Common box (Buxus sempervirens) is a slow-growing evergreen shrub native to [[Europe]], including the [[Mediterranean]] region, widely grown as a formal clipped hedge for its dense, fine foliage. All parts of the plant are poisonous.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

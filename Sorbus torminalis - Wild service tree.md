@@ -1,7 +1,7 @@
 ---
 aliases: Wild service tree
 ---
-The wild service tree (Sorbus torminalis) is a deciduous tree native to Europe, including the [[Mediterranean]] region, grown for its brown fruit, which is best eaten bletted or after a frost, and its fine-grained wood.
+The wild service tree (Sorbus torminalis) is a deciduous tree native to [[Europe]], including the [[Mediterranean]] region, grown for its brown fruit, which is best eaten bletted or after a frost, and its fine-grained wood.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

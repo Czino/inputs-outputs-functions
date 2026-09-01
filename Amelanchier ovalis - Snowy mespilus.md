@@ -1,7 +1,7 @@
 ---
 aliases: Snowy mespilus
 ---
-Snowy mespilus (Amelanchier ovalis) is a deciduous shrub native to the mountains and hills of southern and central Europe, grown for its showy spring blossom and small, dark, edible fruit.
+Snowy mespilus (Amelanchier ovalis) is a deciduous shrub native to the mountains and hills of southern and central [[Europe]], grown for its showy spring blossom and small, dark, edible fruit.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]

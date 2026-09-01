@@ -1,7 +1,7 @@
 ---
 aliases: European alder, Common alder, Black alder
 ---
-European alder (Alnus glutinosa) is a fast-growing, nitrogen-fixing deciduous tree native to Europe, including the [[Mediterranean]] region, used as a pioneer species on poor or waterlogged soils.
+European alder (Alnus glutinosa) is a fast-growing, nitrogen-fixing deciduous tree native to [[Europe]], including the [[Mediterranean]] region, used as a pioneer species on poor or waterlogged soils.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

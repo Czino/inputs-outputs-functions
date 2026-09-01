@@ -1,7 +1,7 @@
 ---
 aliases: Black pine, Austrian pine
 ---
-Black pine (Pinus nigra) is an evergreen conifer native to southern Europe, including the [[Mediterranean]] region, widely planted as a windbreak for its tolerance of maritime exposure and poor soils.
+Black pine (Pinus nigra) is an evergreen conifer native to southern [[Europe]], including the [[Mediterranean]] region, widely planted as a windbreak for its tolerance of maritime exposure and poor soils.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Downy oak
 ---
-Downy oak (Quercus pubescens) is a deciduous oak native to dry hills and open woodland across southern Europe, tolerant of both siliceous and limestone soils.
+Downy oak (Quercus pubescens) is a deciduous oak native to dry hills and open woodland across southern [[Europe]], tolerant of both siliceous and limestone soils.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

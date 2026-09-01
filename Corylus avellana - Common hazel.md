@@ -1,7 +1,7 @@
 ---
 aliases: Common hazel, European filbert
 ---
-Common hazel (_Corylus avellana_) is a deciduous tree or shrub grown across Europe and the [[Mediterranean]] for its edible nuts. It coppices well and is a traditional source of basketry and hedging wood.
+Common hazel (_Corylus avellana_) is a deciduous tree or shrub grown across [[Europe]] and the [[Mediterranean]] for its edible nuts. It coppices well and is a traditional source of basketry and hedging wood.
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

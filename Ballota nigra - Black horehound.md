@@ -1,7 +1,7 @@
 ---
 aliases: Black horehound
 ---
-Black horehound (_Ballota nigra_) is a perennial herb widespread across [[Mediterranean]] and temperate Europe, used medicinally as an antiemetic. It has no known edible use and an unpleasant smell when bruised.
+Black horehound (_Ballota nigra_) is a perennial herb widespread across [[Mediterranean]] and temperate [[Europe]], used medicinally as an antiemetic. It has no known edible use and an unpleasant smell when bruised.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Bladder campion
 ---
-Bladder campion (Silene vulgaris) is a perennial herb native to Europe, including the [[Mediterranean]] region, grown for its young shoots and leaves, eaten raw in salads or cooked with a flavor similar to green peas.
+Bladder campion (Silene vulgaris) is a perennial herb native to [[Europe]], including the [[Mediterranean]] region, grown for its young shoots and leaves, eaten raw in salads or cooked with a flavor similar to green peas.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]
