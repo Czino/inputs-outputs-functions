@@ -1,7 +1,7 @@
 ---
 aliases: American chestnut
 ---
-American chestnut trees produce large, edible nuts. They were once a dominant forest tree in North America and are valued for their nuts and timber.
+American chestnut trees produce large, edible nuts. They were once a dominant forest tree in [[North America]] and are valued for their nuts and timber.
 ## Inputs
 - [[Hardiness zone 4]][^2]
 - [[Hardiness zone 5]][^2]

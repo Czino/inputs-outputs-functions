@@ -1,7 +1,7 @@
 ---
 aliases: Blue-leaved wattle, Orange wattle
 ---
-Blue-leaved wattle (_Acacia saligna_) is a fast-growing evergreen shrub from Western Australia, widely planted in [[Mediterranean]] climates for erosion control and nitrogen fixing. It is considered invasive in parts of South Africa, where it displaces native vegetation.
+Blue-leaved wattle (_Acacia saligna_) is a fast-growing evergreen shrub from Western [[Australia]], widely planted in [[Mediterranean]] climates for erosion control and nitrogen fixing. It is considered invasive in parts of [[South Africa]], where it displaces native vegetation.
 
 ## Inputs
 - [[Hardiness zone 7]][^1]

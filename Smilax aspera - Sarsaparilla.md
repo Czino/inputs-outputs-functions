@@ -1,7 +1,7 @@
 ---
 aliases: Sarsaparilla
 ---
-Sarsaparilla (Smilax aspera) is an evergreen climbing vine native to the [[Mediterranean]] region, Africa, and temperate Asia. Its young shoots and tendrils are eaten as an asparagus substitute, raw or cooked.
+Sarsaparilla (Smilax aspera) is an evergreen climbing vine native to the [[Mediterranean]] region, Africa, and temperate [[Asia]]. Its young shoots and tendrils are eaten as an asparagus substitute, raw or cooked.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

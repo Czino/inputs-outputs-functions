@@ -1,7 +1,7 @@
 ---
 aliases: White broom
 ---
-White broom (_Retama monosperma_) is a deciduous, arching shrub native to North Africa and southern Spain, grown for its fragrant white pea-like flowers and tolerance of poor, dry soils. As a legume, it fixes nitrogen through root-nodule symbiosis with rhizobia.
+White broom (_Retama monosperma_) is a deciduous, arching shrub native to [[North Africa]] and southern Spain, grown for its fragrant white pea-like flowers and tolerance of poor, dry soils. As a legume, it fixes nitrogen through root-nodule symbiosis with rhizobia.
 
 ## Inputs
 - [[Hardiness zone 9]][^1]

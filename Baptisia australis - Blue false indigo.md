@@ -1,7 +1,7 @@
 ---
 aliases: Blue false indigo
 ---
-Blue false indigo (Baptisia australis) is a perennial herb with blue flowers, native to North America and grown as an ornamental for garden borders.
+Blue false indigo (Baptisia australis) is a perennial herb with blue flowers, native to [[North America]] and grown as an ornamental for garden borders.
 ## Inputs
 - [[Hardiness zone 3]][^2]
 - [[Hardiness zone 4]][^2]

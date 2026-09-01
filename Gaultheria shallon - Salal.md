@@ -1,7 +1,7 @@
 ---
 aliases: Salal
 ---
-Salal (Gaultheria shallon) is an evergreen shrub native to the Pacific Northwest of North America. It is known for its leathery leaves and dark blue berries, which are edible and used in jams, pies, and traditional medicines. Salal is also valued for its use in floral arrangements and as ground cover in gardens due to its dense growth habit.
+Salal (Gaultheria shallon) is an evergreen shrub native to the Pacific Northwest of [[North America]]. It is known for its leathery leaves and dark blue berries, which are edible and used in jams, pies, and traditional medicines. Salal is also valued for its use in floral arrangements and as ground cover in gardens due to its dense growth habit.
 
 ## Inputs
 - [[Hardiness zone 6]][^3]
