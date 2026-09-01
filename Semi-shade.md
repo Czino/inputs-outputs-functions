@@ -1,0 +1,1 @@
+Semi-shade describes a growing site with partial, filtered, or intermittent sunlight, such as light woodland or the dappled shade beneath an open canopy. It's the sun requirement for a plant that tolerates or benefits from reduced direct sun, though full sun often still improves flowering or fruit yield.

@@ -1,0 +1,1 @@
+Full shade describes a growing site with little to no direct sunlight, such as the dense understory beneath a closed canopy. It's the sun requirement for a plant that can establish and grow with minimal direct light.

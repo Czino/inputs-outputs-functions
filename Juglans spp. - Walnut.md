@@ -7,6 +7,8 @@ Walnut trees are large deciduous trees belonging to the genus _Juglans_. They ar
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 - [[Hardiness zone 9]][^2]
+- [[Full sun]][^2]
+- [[Moist soil]][^2]
 - [[Manganese]]
 - [[Copper]]
 - [[Phosphorus]]

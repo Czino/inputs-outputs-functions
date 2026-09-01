@@ -1,0 +1,1 @@
+Well drained soil describes a growing site where water passes through the soil profile readily rather than pooling around the roots. It's the moisture requirement for a plant that dislikes waterlogging and often tolerates dry spells once established.

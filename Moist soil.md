@@ -1,0 +1,1 @@
+Moist soil describes a growing site that stays consistently damp without becoming waterlogged. It's the moisture requirement for a plant that needs reliable soil moisture through the growing season but can't tolerate standing water.

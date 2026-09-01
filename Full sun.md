@@ -1,0 +1,1 @@
+Full sun describes a growing site that receives direct, unobstructed sunlight for most of the day (roughly 6 or more hours). It's the sun requirement for a plant when shade of any kind reduces its growth, flowering, or fruiting.

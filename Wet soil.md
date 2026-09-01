@@ -1,0 +1,1 @@
+Wet soil describes a growing site that is waterlogged or seasonally flooded, such as a streambank, marsh, or floodplain. It's the moisture requirement for a plant that tolerates or needs saturated soil conditions most other plants can't handle.

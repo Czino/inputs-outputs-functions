@@ -7,6 +7,8 @@ Pyrus includes various species of pear trees, cultivated for their sweet, edible
 - [[Hardiness zone 7]][^1]
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
+- [[Full sun]][^1]
+- [[Moist soil]][^1]
 - [[Potassium]]
 ## Outputs
 - [[Human food]]

@@ -11,6 +11,9 @@ Apple encompasses a variety of deciduous trees known for their sweet, edible fru
 - [[Hardiness zone 7]][^3]
 - [[Hardiness zone 8]][^3]
 - [[Hardiness zone 9]][^3]
+- [[Full sun]][^3]
+- [[Semi-shade]][^3]
+- [[Moist soil]][^3]
 - [[Potassium]]
 ## Outputs
 - [[Human food]]

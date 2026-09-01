@@ -10,6 +10,9 @@ Blueberry shrubs produce sweet, blue berries used fresh, in baking, and in prese
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
+- [[Full sun]][^2]
+- [[Semi-shade]][^2]
+- [[Moist soil]][^2]
 - [[Potassium]]
 - [[Manganese]]
 ## Outputs

@@ -2,6 +2,17 @@
 aliases: Hawthorn
 ---
 Hawthorn is a genus of small trees and shrubs known for their thorny branches, white or pink flowers, and red berries. The berries are used in traditional medicine for heart health and can be made into jellies and wines. Hawthorn trees are also popular ornamental plants due to their attractive blooms and dense foliage.
+
+## Inputs
+- [[Hardiness zone 4]][^4]
+- [[Hardiness zone 5]][^4]
+- [[Hardiness zone 6]][^4]
+- [[Hardiness zone 7]][^4]
+- [[Hardiness zone 8]][^4]
+- [[Full sun]][^4]
+- [[Semi-shade]][^4]
+- [[Moist soil]][^4]
+- [[Wet soil]][^4]
 ## Outputs
 - [[Bird nesting space]][^1]
 - [[Winter fruits for birds]][^1]
@@ -16,3 +27,4 @@ Hawthorn is a genus of small trees and shrubs known for their thorny branches, w
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-3
 [^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
+[^4]: [Crataegus monogyna | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Crataegus+monogyna)
