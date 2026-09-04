@@ -10,6 +10,9 @@ Fragrant virgin's bower (Clematis flammula) is a deciduous climber native to the
 - [[Hardiness zone 8]][^1]
 - [[Hardiness zone 9]][^1]
 
+## Outputs
+- [[Human food]][^1]
+
 ## Type
 - [[Clematis spp. - Clematis]]
 - [[Vine]]

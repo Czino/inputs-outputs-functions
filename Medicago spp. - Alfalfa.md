@@ -17,6 +17,10 @@ Medicago, including alfalfa, are herbaceous plants grown primarily as forage cro
 - [[Calcium]]
 - [[Potassium]]
 
+## Outputs
+- [[Human food]][^2]
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Herb]]
 

@@ -1,4 +1,4 @@
-Poplars, found in diverse habitats from riverbanks to upland areas, play a significant role in carbon sequestration, helping mitigate climate change. These [[fast-growing]] trees also contribute to soil health and water regulation while providing habitat and food for various species, including caterpillars, birds, and mammals.
+Poplars, found in diverse habitats from riverbanks to upland areas, play a significant role in carbon sequestration, helping mitigate climate change. These [[Fast-growing|fast-growing]] trees also contribute to soil health and water regulation while providing habitat and food for various species, including caterpillars, birds, and mammals.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]
@@ -10,6 +10,10 @@ Poplars, found in diverse habitats from riverbanks to upland areas, play a signi
 - [[Hardiness zone 9]][^1]
 - [[Full sun]][^1]
 - [[Moist soil]][^1]
+
+## Outputs
+- [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Tree]]

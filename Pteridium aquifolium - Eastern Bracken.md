@@ -8,6 +8,10 @@ Pteridium aquifolium, commonly called Eastern Bracken, is a type of fern. It is 
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 
+## Outputs
+- [[Human food]][^2]
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Perennial]][^2]
 

@@ -1,7 +1,7 @@
 ---
 aliases: Giant reed
 ---
-Giant reed (Arundo donax) is a tall, [[fast-growing]] perennial grass of [[Mediterranean]] wetlands and riverbanks, traditionally used for reeds, canes, and thatch. It is listed among the world's worst invasive species outside its native range and should be sited and contained with care.
+Giant reed (Arundo donax) is a tall, [[Fast-growing|fast-growing]] perennial grass of [[Mediterranean]] wetlands and riverbanks, traditionally used for reeds, canes, and thatch. It is listed among the world's worst invasive species outside its native range and should be sited and contained with care.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]

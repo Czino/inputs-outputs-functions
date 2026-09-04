@@ -1,7 +1,7 @@
 ---
 aliases: Laurustinus
 ---
-Laurustinus (Viburnum tinus) is an evergreen [[Mediterranean]] shrub grown for its winter flowers and dense, [[fast-growing]] habit. It has no edible or medicinal use but is widely planted as an informal hedge and wildlife-friendly ornamental.
+Laurustinus (Viburnum tinus) is an evergreen [[Mediterranean]] shrub grown for its winter flowers and dense, [[Fast-growing|fast-growing]] habit. It has no edible or medicinal use but is widely planted as an informal hedge and wildlife-friendly ornamental.
 
 ## Inputs
 - [[Hardiness zone 8]][^1]

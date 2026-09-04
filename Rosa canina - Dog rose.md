@@ -1,7 +1,7 @@
 ---
 aliases: Dog rose
 ---
-Dog rose (Rosa canina) is a [[fast-growing]] deciduous shrub common in [[Mediterranean]] and [[European]] hedgerows. It is valued for its vitamin-rich hips, which are used in syrups, jams, and teas.
+Dog rose (Rosa canina) is a [[Fast-growing|fast-growing]] deciduous shrub common in [[Mediterranean]] and [[Europe|European]] hedgerows. It is valued for its vitamin-rich hips, which are used in syrups, jams, and teas.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

@@ -15,6 +15,10 @@ Willows, thriving in moist environments such as wetlands and floodplains, are vi
 - [[Moist soil]][^2]
 - [[Wet soil]][^2]
 
+## Outputs
+- [[Human food]][^2]
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Tree]]
 

@@ -1,7 +1,7 @@
 ---
 aliases: Clematis
 ---
-Clematis is a genus of climbing plants known for their large, showy flowers. They are popular in gardens and landscaping for their diverse colors and forms. Clematis is often grown on trellises, fences, and arbors to add vertical interest.
+Clematis is a genus of climbing plants known for their large, showy flowers. They are popular in gardens and landscaping for their diverse colors and forms. Clematis is often grown on trellises, fences, and arbors to add vertical interest. All parts of the plant are poisonous; the toxic principle is dissipated by heat or drying, so cooked young shoots are the only edible part.
 
 ## Inputs
 - [[Hardiness zone 5]][^2]
@@ -12,6 +12,9 @@ Clematis is a genus of climbing plants known for their large, showy flowers. The
 - [[Full sun]][^2]
 - [[Semi-shade]][^2]
 - [[Moist soil]][^2]
+
+## Outputs
+- [[Human food]][^2]
 
 ## Type
 - [[Vine]]

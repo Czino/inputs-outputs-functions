@@ -1,0 +1,1 @@
+Fast-growing refers to a plant's ability to establish and reach maturity quickly compared to other species. Fast-growing plants are useful for rapid soil coverage, windbreaks, and pioneer planting in a new design, but the same vigor can make some species invasive outside their native range if left uncontained.

@@ -1,7 +1,7 @@
 ---
 aliases: Black locust
 ---
-Black Locust (Robinia pseudoacacia) is a [[fast-growing]] deciduous tree known for its durable wood and fragrant white flowers. The wood is used for fencing, furniture, and as firewood, while the flowers attract pollinators and can be used to make honey. The tree also improves soil fertility through nitrogen fixation.
+Black Locust (Robinia pseudoacacia) is a [[Fast-growing|fast-growing]] deciduous tree known for its durable wood and fragrant white flowers. The wood is used for fencing, furniture, and as firewood, while the flowers attract pollinators and can be used to make honey. The tree also improves soil fertility through nitrogen fixation.
 ## Inputs
 - [[Hardiness zone 4]][^5]
 - [[Hardiness zone 5]][^5]
