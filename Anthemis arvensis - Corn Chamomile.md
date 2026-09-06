@@ -10,6 +10,9 @@ Anthemis arvensis, or Corn Chamomile, is a wildflower with daisy-like flowers. I
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Herb]]
 - [[Annual]]
