@@ -13,9 +13,11 @@ Apricot (_Prunus armeniaca_) is a deciduous fruit tree grown across the [[Medite
 - [[Moist soil]][^1]
 ## Outputs
 - [[Human food]]
+- [[Apricot]]
 - [[Medicinal use]]
 - [[Dye]]
 ## Type
+- [[Prunus spp.]]
 - [[Tree]]
 - [[Deciduous]]
 ## Functions

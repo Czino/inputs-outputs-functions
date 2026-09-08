@@ -1,7 +1,7 @@
 ---
-aliases: Conehead thyme, Cretan thyme, Spanish oregano
+aliases: Conehead thyme, Cretan thyme, Spanish oregano, Thymbra capitata
 ---
-Conehead thyme (Thymus capitatus) is a low, aromatic evergreen shrub native to the [[Mediterranean]] region, a major source of Greek thyme honey and grown for its culinary and antiseptic leaves.
+Conehead thyme (Thymus capitatus) is a low, aromatic evergreen shrub native to the [[Mediterranean]] region, a major source of Greek thyme honey and grown for its culinary and antiseptic leaves. Thymbra capitata is a synonym for this species.
 
 ## Inputs
 - [[Hardiness zone 6]][^1]
