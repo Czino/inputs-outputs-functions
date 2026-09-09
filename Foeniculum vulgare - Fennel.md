@@ -16,6 +16,7 @@ Fennel (Foeniculum vulgare) is an evergreen perennial herb in the carrot family,
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Fennel seed]]
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Perennial]]

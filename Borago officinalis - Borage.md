@@ -11,6 +11,7 @@ Borago officinalis, or Borage, features star-shaped blue flowers and hairy leave
 - [[Calcium]]
 ## Outputs
 - [[Human food]]
+- [[Medicinal use]][^2]
 ## Type
 - [[Herb]]
 - [[Annual]]

@@ -13,6 +13,7 @@ Acacias are trees and shrubs found in warm climates. They are valued for their o
 
 ## Outputs
 - [[Wood]][^3]
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Tree]]

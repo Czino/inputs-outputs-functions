@@ -1,13 +1,14 @@
 ---
-aliases: Stinging nettle
+aliases: Stinging nettle, Dwarf nettle
 ---
-Stinging nettle (Urtica urens) is a herbaceous plant known for its stinging hairs that cause skin irritation. Despite this, nettles are highly nutritious, used in teas, soups, and traditional medicine for their anti-inflammatory and diuretic properties. They also support biodiversity by providing habitat for various insects.
+Annual nettle (_Urtica urens_) is a smaller, annual relative of [[Urtica dioica - Stinging nettle|stinging nettle]], known for its stinging hairs that cause skin irritation. Despite this, nettles are highly nutritious, used in teas, soups, and traditional medicine for their anti-inflammatory and diuretic properties. They also support biodiversity by providing habitat for various insects.
 
 ## Outputs
 - [[Human food]][^3]
 - [[Poultry forage]][^1]
 
 ## Type
+- [[Herb]][^3]
 - [[Annual]][^3]
 
 ## Functions

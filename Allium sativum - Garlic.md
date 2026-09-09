@@ -13,6 +13,7 @@ Allium sativum, known as Garlic, is a bulbous plant with a strong aroma and flav
 ## Outputs
 - [[Human food]]
 - [[Garlic cloves]]
+- [[Medicinal use]][^3]
 ## Type
 - [[Allium spp. - Alliums]]
 ## Functions

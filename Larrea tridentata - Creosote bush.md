@@ -11,6 +11,7 @@ Larrea tridentata, or Creosote Bush, is a shrub with small, dark green leaves an
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Shrub]][^2]

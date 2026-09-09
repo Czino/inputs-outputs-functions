@@ -13,6 +13,7 @@ Daucus carota, known as Queen Anne's Lace, is a wildflower with a flat-topped cl
 - [[Hardiness zone 9]][^2]
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 ## Type
 - [[Biennial]]
 - [[Herb]]

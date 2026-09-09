@@ -11,6 +11,7 @@ Oenothera biennis, or Primrose, is a biennial flowering plant with bright yellow
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Biennial]][^2]
