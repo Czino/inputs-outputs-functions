@@ -11,7 +11,8 @@ Blue Elderberry (Sambucus caerulea) is a deciduous shrub that produces blue-blac
 - [[Hardiness zone 8]][^1]
 
 ## Outputs
-- [[Human food]]
+- [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Sambucus spp. - Elderberry]]

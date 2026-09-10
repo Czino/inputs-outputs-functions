@@ -12,6 +12,7 @@ Black currant (Ribes nigrum) is a deciduous shrub that produces dark purple to b
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Shrub]]

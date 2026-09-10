@@ -16,6 +16,10 @@ Taraxacum, commonly known as dandelions, are herbaceous plants with bright yello
 - [[Calcium]]
 - [[Phosphorus]]
 
+## Outputs
+- [[Human food]][^1]
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Herb]]
 

@@ -15,7 +15,8 @@ Thyme (Thymus vulgaris) is an evergreen herb used in cooking for its aromatic le
 - [[Calcium]]
 - [[Potassium]]
 ## Outputs
-- [[Human food]]
+- [[Human food]][^2]
+- [[Medicinal use]][^2]
 ## Type
 - [[Evergreen]]
 - [[Herb]]

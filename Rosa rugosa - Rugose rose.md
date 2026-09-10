@@ -17,6 +17,7 @@ Rugose rose is a hardy shrub producing fragrant flowers and large hips. It is us
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 ## Type
 - [[Rosa spp. - Rose]]
 - [[Shrub]]

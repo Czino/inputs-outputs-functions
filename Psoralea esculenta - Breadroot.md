@@ -12,6 +12,7 @@ Breadroot (Psoralea esculenta) is a perennial herb known for its edible tubers, 
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Psoralea spp. - Fountainbush]]

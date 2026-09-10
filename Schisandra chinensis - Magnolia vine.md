@@ -12,6 +12,7 @@ Magnolia vine is a climbing plant known for its aromatic fruits and medicinal pr
 ## Outputs
 - [[Wildlife habitat]][^1]
 - [[Human food]][^1]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Vine]]

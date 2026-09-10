@@ -12,6 +12,7 @@ Sweet violet is a perennial plant known for its fragrant purple flowers. It is u
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Perennial]][^2]

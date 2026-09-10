@@ -15,8 +15,12 @@ Psoralea, known as fountainbush, are herbaceous plants valued for their nitrogen
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Herb]]
+
+## Functions
+- [[Nitrogen fixer]][^1]
 
 [^1]: [Psoralea esculenta | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Psoralea+esculenta)

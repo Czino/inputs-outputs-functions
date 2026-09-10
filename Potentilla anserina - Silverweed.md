@@ -12,6 +12,7 @@ Potentilla anserina, or Silverweed, is a perennial herb with silver-gray leaves 
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Perennial]]

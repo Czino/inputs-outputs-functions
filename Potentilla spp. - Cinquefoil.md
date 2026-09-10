@@ -14,6 +14,7 @@ Potentilla, known as cinquefoil, are small flowering plants with five-petaled bl
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 - [[Attracting bees]][^1]
 
 ## Type
