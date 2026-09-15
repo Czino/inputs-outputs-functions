@@ -17,6 +17,7 @@ Western snowberry (_Symphoricarpos occidentalis_) is a deciduous, suckering shru
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Shrub]]

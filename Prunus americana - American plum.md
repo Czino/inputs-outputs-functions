@@ -16,6 +16,7 @@ American plum (_Prunus americana_) is a deciduous, thicket-forming small tree na
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 - [[Dye]][^1]
 - [[Wood]][^1]
 

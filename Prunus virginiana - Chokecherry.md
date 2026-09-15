@@ -10,6 +10,7 @@ Chokecherry (_Prunus virginiana_) is a deciduous, thicket-forming shrub native t
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 - [[Dye]][^1]
 - [[Wood]][^1]
 

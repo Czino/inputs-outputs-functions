@@ -15,6 +15,9 @@ Winterfat (_Krascheninnikovia lanata_) is a low, woolly-leaved shrub of [[Cold s
 - [[Well drained soil]][^1]
 - [[Moist soil]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Shrub]]
 
