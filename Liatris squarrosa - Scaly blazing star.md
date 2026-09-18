@@ -1,0 +1,27 @@
+---
+aliases: Scaly blazing star
+---
+Scaly blazing star (_Liatris squarrosa_) is a perennial forb of [[Cold semi-arid (BSk)|cold semi-arid]] and dry prairie across the [[North America|North American]] Great Plains, its root used as a traditional diuretic and tonic.
+
+## Inputs
+- [[Hardiness zone 4]][^1]
+- [[Hardiness zone 5]][^1]
+- [[Hardiness zone 6]][^1]
+- [[Hardiness zone 7]][^1]
+- [[Hardiness zone 8]][^1]
+- [[Well drained soil]][^1]
+- [[Moist soil]][^1]
+- [[Semi-shade]][^1]
+- [[Full sun]][^1]
+
+## Outputs
+- [[Medicinal use]][^1]
+
+## Type
+- [[Herb]]
+- [[Perennial]]
+
+## Functions
+- [[Insect repellent]][^1]
+
+[^1]: [Liatris squarrosa | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Liatris+squarrosa)
