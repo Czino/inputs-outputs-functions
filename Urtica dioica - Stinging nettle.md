@@ -19,6 +19,7 @@ Stinging nettle (_Urtica dioica_) is a fast-growing perennial herb known for its
 ## Outputs
 - [[Human food]][^1]
 - [[Medicinal use]][^1]
+- [[Fibre]][^1]
 
 ## Type
 - [[Herb]]

@@ -14,6 +14,7 @@ Hemp (_Cannabis sativa_) is a fast-growing annual herb grown for its edible seed
 ## Outputs
 - [[Human food]][^1]
 - [[Medicinal use]][^1]
+- [[Fibre]][^1]
 
 ## Type
 - [[Herb]]

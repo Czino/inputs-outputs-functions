@@ -18,6 +18,7 @@ Elm comprises a group of deciduous trees known for their tall stature and broad,
 - [[Human food]][^2]
 - [[Medicinal use]][^2]
 - [[Wood]][^2]
+- [[Fibre]][^2]
 - [[Dye]][^2]
 
 ## Type

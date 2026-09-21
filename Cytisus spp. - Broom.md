@@ -17,6 +17,7 @@ Broom are shrubs with bright yellow flowers. They are used ornamentally for thei
 - [[Human food]][^2]
 - [[Medicinal use]][^2]
 - [[Dye]][^2]
+- [[Fibre]][^2]
 
 ## Type
 - [[Shrub]]

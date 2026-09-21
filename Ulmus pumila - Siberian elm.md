@@ -18,6 +18,7 @@ Siberian elm (_Ulmus pumila_) is a fast-growing, drought-tolerant deciduous tree
 - [[Human food]][^1]
 - [[Medicinal use]][^1]
 - [[Wood]][^1]
+- [[Fibre]][^1]
 
 ## Type
 - [[Ulmus spp. - Elm]]

@@ -17,6 +17,7 @@ Okra (_Abelmoschus esculentus_) is a fast-growing annual herb grown for its edib
 ## Outputs
 - [[Human food]][^1]
 - [[Medicinal use]][^1]
+- [[Fibre]][^1]
 
 ## Type
 - [[Herb]]

@@ -13,6 +13,7 @@ Century plant (_Agave americana_) is a large evergreen succulent, naturalized ac
 ## Outputs
 - [[Human food]]
 - [[Medicinal use]]
+- [[Fibre]][^1]
 ## Type
 - [[Evergreen]]
 - [[Perennial]]
