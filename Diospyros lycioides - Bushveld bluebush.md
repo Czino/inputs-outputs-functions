@@ -1,7 +1,7 @@
 ---
 aliases: Bushveld bluebush, Bluebush
 ---
-Bushveld bluebush (_Diospyros lycioides_) is a semi-deciduous shrub or small tree of [[Cold semi-arid (BSk)|cold semi-arid]] rocky and riparian rangeland across southern [[Africa]], its sweet fruit eaten fresh and its roasted seed used as a coffee substitute.
+Bushveld bluebush (_Diospyros lycioides_) is a semi-deciduous shrub or small tree of [[Cold semi-arid (BSk)|cold semi-arid]] rocky and riparian rangeland across southern [[Africa]], its sweet fruit eaten fresh and its roasted seed used as a [[Coffee substitute|coffe substitute]].
 
 ## Inputs
 - [[Well drained soil]][^1]

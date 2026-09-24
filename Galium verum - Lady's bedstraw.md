@@ -1,7 +1,7 @@
 ---
 aliases: Lady's bedstraw, Yellow spring bedstraw
 ---
-Lady's bedstraw (_Galium verum_) is a perennial herb of most of [[Europe]] east to western [[Asia]], used as a dye plant, a coffee substitute and a plant-milk curdling agent, and formerly as a strewing herb.
+Lady's bedstraw (_Galium verum_) is a perennial herb of most of [[Europe]] east to western [[Asia]], used as a dye plant, a [[Coffee substitute|coffe substitute]] and a plant-milk curdling agent, and formerly as a strewing herb.
 
 ## Inputs
 - [[Hardiness zone 3]][^1]

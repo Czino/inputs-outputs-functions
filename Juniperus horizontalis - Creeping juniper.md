@@ -1,7 +1,7 @@
 ---
 aliases: Creeping juniper
 ---
-Creeping juniper (_Juniperus horizontalis_) is a low, mat-forming evergreen shrub of [[Cold semi-arid (BSk)|cold semi-arid]] rocky and sandy ground across [[North America]], its roasted fruit used as a coffee substitute.
+Creeping juniper (_Juniperus horizontalis_) is a low, mat-forming evergreen shrub of [[Cold semi-arid (BSk)|cold semi-arid]] rocky and sandy ground across [[North America]], its roasted fruit used as a [[Coffee substitute|coffe substitute]].
 
 ## Inputs
 - [[Hardiness zone 4]][^1]

@@ -1,7 +1,7 @@
 ---
 aliases: Plains coreopsis, Golden tickseed
 ---
-Plains coreopsis (_Coreopsis tinctoria_) is an annual herb of the [[Cold semi-arid (BSk)|cold semi-arid]] [[North America|Great Plains]], native from Minnesota to Texas, its dried plant brewed as a tea and coffee substitute and used medicinally.
+Plains coreopsis (_Coreopsis tinctoria_) is an annual herb of the [[Cold semi-arid (BSk)|cold semi-arid]] [[North America|Great Plains]], native from Minnesota to Texas, its dried plant brewed as a tea and [[Coffee substitute|coffe substitute]] and used medicinally.
 
 ## Inputs
 - [[Hardiness zone 2]][^1]

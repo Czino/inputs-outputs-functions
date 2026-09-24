@@ -1,7 +1,7 @@
 ---
 aliases: Turkey oak
 ---
-Turkey oak (_Quercus cerris_) is a fast-growing deciduous tree whose leached, tannin-rich acorns are ground into flour or roasted as a coffee substitute, with tannin-rich galls used medicinally and as a dye source.
+Turkey oak (_Quercus cerris_) is a fast-growing deciduous tree whose leached, tannin-rich acorns are ground into flour or roasted as a [[Coffee substitute|coffe substitute]], with tannin-rich galls used medicinally and as a dye source.
 
 ## Inputs
 - [[Hardiness zone 5]][^1]
