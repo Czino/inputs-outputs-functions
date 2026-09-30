@@ -20,8 +20,9 @@ Black walnut trees produce large, hard-shelled nuts with a rich flavor. They are
 - [[Juglans spp. - Walnut]]
 
 ## Functions
-- [[Fire resistance]][^3]
+- [[Fire resistance]][^3][^4]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
 [^2]: [Juglans nigra | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+nigra)
 [^3]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Black Walnut
+[^4]: [Juglans nigra | Fire Effects Information System](https://research.fs.usda.gov/feis/species-reviews/jugnig), USDA Forest Service — mature trees' thick bark and durable heartwood make them relatively resistant to fire damage

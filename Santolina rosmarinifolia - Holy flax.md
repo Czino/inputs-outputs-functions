@@ -20,6 +20,7 @@ Holy flax (_Santolina rosmarinifolia_) is a low evergreen [[Mediterranean]] shru
 ## Functions
 - [[Hedge]][^1]
 - [[Ground cover]][^1]
-- [[Fire resistance]][^1]
+- [[Fire resistance]][^1][^2]
 
 [^1]: [Santolina rosmarinifolia | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Santolina+rosmarinifolia)
+[^2]: [Fuel Modification Plant Selection Guidelines](https://fire.lacounty.gov/wp-content/uploads/2020/05/Plant-Selection-Guidelines.pdf), Los Angeles County Fire Department Fuel Modification Unit, listed as Santolina chamaecyparissus/rosmarinifolius — Lavender Cotton, Zone A

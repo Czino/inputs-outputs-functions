@@ -27,7 +27,8 @@ Common lime (Tilia × europaea) is a large deciduous tree with fragrant, edible 
 
 ## Functions
 - [[Wildlife habitat]][^1]
-- [[Fire resistance]][^2]
+- [[Fire resistance]][^2][^3]
 
 [^1]: [Tilia x europaea | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Tilia+x+europaea)
 [^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Linden
+[^3]: [Plant Guide: Trees](https://firesmartbc.ca/wp-content/uploads/2023/07/06.08.23_FSBC_PlantChartBooklet.pdf), FireSmart BC, listed as Linden, Tilia spp.

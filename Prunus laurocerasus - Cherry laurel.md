@@ -25,7 +25,8 @@ Cherry laurel (Prunus laurocerasus) is an evergreen shrub grown for its dense, g
 ## Functions
 - [[Hedge]][^1]
 - [[Ground cover]][^1]
-- [[Fire resistance]][^2]
+- [[Fire resistance]][^2][^3]
 
 [^1]: [Prunus laurocerasus | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Prunus+laurocerasus)
 [^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Cherry Laurel
+[^3]: [Lower Risk Plants for Hedges, Privacy, Screening](https://firesmartbc.ca/wp-content/uploads/2024/01/01.03.24_FSBC_PlantChartBooklet_LowerRiskPlantsforHedges_Privacy_Screening.pdf), FireSmart BC, listed as Laurel - Dwarf Cherry, Prunus laurocerasus

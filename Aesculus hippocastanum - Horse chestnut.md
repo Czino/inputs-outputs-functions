@@ -25,7 +25,8 @@ Horse chestnut (Aesculus hippocastanum) is a large, fast-growing deciduous tree 
 - [[Deciduous]]
 
 ## Functions
-- [[Fire resistance]][^2]
+- [[Fire resistance]][^2][^3]
 
 [^1]: [Aesculus hippocastanum | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Aesculus+hippocastanum)
 [^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Horse Chestnut
+[^3]: [Fire Resistance of Plants Master Database](https://www.blm.gov/sites/blm.gov/files/documents/files/Fire%20Resistance%20of%20Plants%20Master%20Database.pdf), Bureau of Land Management / College of Western Idaho Horticulture / Idaho Botanical Garden, listed as Aesculus hippocastanum — Horsechestnut, Fire Resistance Score 6/10

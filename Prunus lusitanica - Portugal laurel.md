@@ -24,7 +24,8 @@ Portugal laurel (Prunus lusitanica) is an evergreen shrub used as a hedge, scree
 ## Functions
 - [[Windbreak]][^1]
 - [[Hedge]][^1]
-- [[Fire resistance]][^2]
+- [[Fire resistance]][^2][^3]
 
 [^1]: [Prunus lusitanica | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Prunus+lusitanica)
 [^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Portugal Laurel
+[^3]: [Lower Risk Plants for Hedges, Privacy, Screening](https://firesmartbc.ca/wp-content/uploads/2024/01/01.03.24_FSBC_PlantChartBooklet_LowerRiskPlantsforHedges_Privacy_Screening.pdf), FireSmart BC, listed as Laurel - Portuguese, Prunus lusitanica

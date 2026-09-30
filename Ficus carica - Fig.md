@@ -23,8 +23,9 @@ Fig (Ficus carica) is a deciduous shrub or small tree known for its sweet, edibl
 - [[Tree]]
 
 ## Functions
-- [[Fire resistance]][^3]
+- [[Fire resistance]][^3][^4]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
 [^2]: [Ficus carica | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Ficus+carica)
 [^3]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Fig
+[^4]: [Fuel Modification Plant Selection Guidelines](https://fire.lacounty.gov/wp-content/uploads/2020/05/Plant-Selection-Guidelines.pdf), Los Angeles County Fire Department Fuel Modification Unit, listed as Ficus species — Fig, Zone B

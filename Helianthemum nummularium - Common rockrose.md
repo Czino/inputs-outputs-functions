@@ -18,7 +18,8 @@ Common rockrose (_Helianthemum nummularium_) is a low, spreading evergreen shrub
 
 ## Functions
 - [[Ground cover]][^1]
-- [[Fire resistance]][^2]
+- [[Fire resistance]][^2][^3]
 
 [^1]: [Helianthemum nummularium | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Helianthemum+nummularium)
 [^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Sunrose
+[^3]: [Fuel Modification Plant Selection Guidelines](https://fire.lacounty.gov/wp-content/uploads/2020/05/Plant-Selection-Guidelines.pdf), Los Angeles County Fire Department Fuel Modification Unit, listed as Helianthemum nummularium — Sunrose, Zone A
