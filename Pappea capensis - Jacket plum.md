@@ -13,5 +13,6 @@ Jacket plum (_Pappea capensis_) is a long-lived, drought-tolerant evergreen tree
 
 ## Functions
 - [[Drought-tolerance]][^1]
+- [[Attracting bees]][^1]
 
 [^1]: [Pappea capensis | Useful Tropical Plants](https://tropical.theferns.info/viewtropical.php?id=Pappea+capensis)
