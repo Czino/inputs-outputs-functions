@@ -20,5 +20,7 @@ Bay laurel (Laurus nobilis) is a slow-growing evergreen [[Mediterranean]] tree w
 - [[Attracting bees]][^1]
 - [[Insect repellent]][^1]
 - [[Wildlife habitat]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Laurus nobilis | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Laurus+nobilis)
+[^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Laurel

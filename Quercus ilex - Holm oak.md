@@ -24,5 +24,7 @@ Holm oak (Quercus ilex) is an evergreen [[Mediterranean]] oak valued for its aco
 - [[Wildlife habitat]][^1]
 - [[Fuel]][^1]
 - [[Charcoal]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Quercus ilex | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Quercus+ilex)
+[^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002

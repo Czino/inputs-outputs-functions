@@ -23,5 +23,7 @@ Rosemary (Rosmarinus officinalis) is an evergreen [[Mediterranean]] shrub grown 
 - [[Drought-tolerance]][^1]
 - [[Attracting bees]][^1]
 - [[Insect repellent]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Rosmarinus officinalis | Plants for a Future](https://pfaf.org/user/plant.aspx?latinname=Rosmarinus+officinalis)
+[^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed under ground covers hard to burn as the prostrate form

@@ -17,4 +17,8 @@ Italian cypress (Cupressus sempervirens) is a narrow, columnar evergreen tree na
 - [[Tree]]
 - [[Evergreen]]
 
+## Functions
+- [[Fire resistance]][^2]
+
 [^1]: [Cupressus sempervirens | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Cupressus+sempervirens)
+[^2]: [Can Cypress Trees Help Suppress Wildfires?](https://www.smithsonianmag.com/innovation/can-cypress-trees-help-suppress-wildfires-180956597/), Smithsonian Magazine, reporting on laboratory and field research by Della Rocca, Pellizzaro, and colleagues showing Cupressus sempervirens ignites far more slowly than other Mediterranean trees and is planted as a green firebreak

@@ -24,5 +24,7 @@ Cork oak (Quercus suber) is a slow-growing evergreen [[Mediterranean]] tree best
 ## Functions
 - [[Windbreak]][^1]
 - [[Wildlife habitat]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Quercus suber | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Quercus+suber)
+[^2]: Catry, F.X. et al., [Cork Oak Vulnerability to Fire: The Role of Bark Harvesting, Tree Characteristics and Abiotic Factors](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0039810), PLOS ONE, 2012 — its thick bark insulates the living tissue underneath from fire

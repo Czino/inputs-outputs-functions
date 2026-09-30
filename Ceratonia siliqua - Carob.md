@@ -22,5 +22,7 @@ Carob (Ceratonia siliqua) is an evergreen [[Mediterranean]] tree grown for its s
 - [[Attracting bees]][^1]
 - [[Wildlife habitat]][^1]
 - [[Windbreak]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Ceratonia siliqua | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Ceratonia+siliqua)
+[^2]: [Non-native, Non-invasive and Fire Resistant Landscaping Plants for Around Homes](https://ucanr.edu/media/230890), USDA Natural Resources Conservation Service, Santa Cruz County, California, 2008

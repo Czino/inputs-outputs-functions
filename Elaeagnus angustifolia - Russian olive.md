@@ -26,9 +26,11 @@ Russian olive (Elaeagnus angustifolia) is a deciduous shrub or small tree with s
 ## Functions
 - [[Nitrogen fixer]][^3]
 - [[Drought-tolerance]]
+- [[Fire resistance]][^6]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
 [^4]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
 [^5]: [Elaeagnus angustifolia | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+angustifolia)
+[^6]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Russian Olive
