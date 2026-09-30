@@ -20,5 +20,6 @@ Holy flax (_Santolina rosmarinifolia_) is a low evergreen [[Mediterranean]] shru
 ## Functions
 - [[Hedge]][^1]
 - [[Ground cover]][^1]
+- [[Fire resistance]][^1]
 
 [^1]: [Santolina rosmarinifolia | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Santolina+rosmarinifolia)

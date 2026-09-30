@@ -23,5 +23,7 @@ Mediterranean saltbush (Atriplex halimus) is an evergreen shrub tolerant of sali
 - [[Soil stabilization]][^1]
 - [[Fodder]][^1]
 - [[Wildlife habitat]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Atriplex halimus | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Atriplex+halimus)
+[^2]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Saltbush

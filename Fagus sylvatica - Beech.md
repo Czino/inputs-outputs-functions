@@ -14,6 +14,8 @@ Beech (Fagus sylvatica) is a large, deciduous tree known for its smooth, gray ba
 - [[Deciduous]]
 ## Functions
 - [[Attracting beneficial insects]][^1]
+- [[Fire resistance]][^3]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
 [^2]: [Fagus sylvatica | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Fagus+sylvatica)
+[^3]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Common Beech

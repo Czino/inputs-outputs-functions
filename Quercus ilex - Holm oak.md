@@ -1,7 +1,7 @@
 ---
 aliases: Holm oak
 ---
-Holm oak (Quercus ilex) is an evergreen [[Mediterranean]] oak valued for its acorns and dense, durable wood. The acorns are edible once the bitter tannins are leached out, and the roasted seed is used as a [[Coffee substitute|coffe substitute]].
+Holm oak (Quercus ilex) is an evergreen [[Mediterranean]] oak valued for its acorns and dense, durable wood. The acorns are edible once the bitter tannins are leached out, and the roasted seed is used as a [[Coffee substitute]].
 
 ## Inputs
 - [[Hardiness zone 7]][^1]
@@ -13,6 +13,7 @@ Holm oak (Quercus ilex) is an evergreen [[Mediterranean]] oak valued for its aco
 - [[Human food]]
 - [[Acorn]][^1]
 - [[Fodder]][^1]
+- [[Coffee substitute]][^1]
 
 ## Type
 - [[Quercus spp. - Oaks]]

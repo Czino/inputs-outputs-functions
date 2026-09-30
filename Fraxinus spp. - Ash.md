@@ -19,5 +19,9 @@ Ash comprises a group of deciduous trees known for their strong, straight-graine
 - [[Tree]]
 - [[Deciduous]]
 
+## Functions
+- [[Fire resistance]][^3]
+
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^2]: [Fraxinus excelsior | PFAF Plant Database](https://pfaf.org/user/Plant.aspx?LatinName=Fraxinus+excelsior)
+[^3]: [Fire Retardant Flora](https://landcaresj.com.au/wp-content/uploads/2021/11/Fire-Resistant-Species-FESA.pdf), Glen Forrest Volunteer Bush Fire Brigade, adapted from "Trees and Plants for Bush Fire Prone Areas," Fire and Emergency Services Authority (Western Australia), 2002, listed as Ash
