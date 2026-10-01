@@ -14,4 +14,8 @@ Spanish juniper (_Juniperus thurifera_) is a slow-growing evergreen conifer of t
 - [[Tree]]
 - [[Evergreen]]
 
+## Functions
+- [[Flammable]][^2]
+
 [^1]: [Juniperus thurifera | Useful Temperate Plants](https://temperate.theferns.info/plant/Juniperus+thurifera)
+[^2]: Pausas, J.G. & Verdú, M., "Plant persistence traits in fire-prone ecosystems of the Mediterranean basin: a phylogenetic approach," Oikos 109(1), 2005, pp. 196-202, and Contra Costa County Fire Protection District's "Wildland Urban Interface Vegetation Lists," 2021 (https://web.archive.org/web/20250504084353/https://ccfd.org/wp-content/uploads/2021/07/CCFD-WUI-Vegetation-Lists-2021.pdf), both rate junipers genus-wide as highly flammable due to volatile-oil content; no species-exact study for J. thurifera was found

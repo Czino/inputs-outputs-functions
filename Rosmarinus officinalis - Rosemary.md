@@ -23,5 +23,7 @@ Rosemary (Rosmarinus officinalis) is an evergreen [[Mediterranean]] shrub grown 
 - [[Drought-tolerance]][^1]
 - [[Attracting bees]][^1]
 - [[Insect repellent]][^1]
+- [[Flammable]][^2]
 
 [^1]: [Rosmarinus officinalis | Plants for a Future](https://pfaf.org/user/plant.aspx?latinname=Rosmarinus+officinalis)
+[^2]: [Fire-Prone Plants](https://www.centralmarinfire.org/prevention/documents/file/Public%20Education/fsm_fire_prone_plants_2018.pdf), FIRESafe Marin, 2018, lists "Rosmarinus officinalis — Rosemary" with a "Remove" recommendation within the Wildland Urban Interface

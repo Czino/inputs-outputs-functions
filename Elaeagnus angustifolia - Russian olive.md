@@ -26,9 +26,11 @@ Russian olive (Elaeagnus angustifolia) is a deciduous shrub or small tree with s
 ## Functions
 - [[Nitrogen fixer]][^3]
 - [[Drought-tolerance]]
+- [[Flammable]][^6]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Appendix
 [^2]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 7-2
 [^3]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
 [^4]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 10-1
 [^5]: [Elaeagnus angustifolia | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+angustifolia)
+[^6]: Contra Costa County Fire Protection District, "Wildland Urban Interface Vegetation Lists," 2021 (https://web.archive.org/web/20250504084353/https://ccfd.org/wp-content/uploads/2021/07/CCFD-WUI-Vegetation-Lists-2021.pdf), requires 5ft structure clearance for "Elaeagnus Angustifolia"

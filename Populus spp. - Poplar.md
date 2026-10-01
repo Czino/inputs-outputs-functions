@@ -20,5 +20,7 @@ Poplars, found in diverse habitats from riverbanks to upland areas, play a signi
 
 ## Functions
 - [[Poop beast]]
+- [[Flammable]][^2]
 
 [^1]: [Populus nigra | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Populus+nigra)
+[^2]: Contra Costa County Fire Protection District, "Wildland Urban Interface Vegetation Lists," 2021 (https://web.archive.org/web/20250504084353/https://ccfd.org/wp-content/uploads/2021/07/CCFD-WUI-Vegetation-Lists-2021.pdf), rates "Populus Nigra" and "Populus Spp." genus-wide as high fire hazard, requiring 20-30ft structure clearance
