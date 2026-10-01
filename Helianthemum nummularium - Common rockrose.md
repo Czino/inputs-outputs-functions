@@ -12,6 +12,9 @@ Common rockrose (_Helianthemum nummularium_) is a low, spreading evergreen shrub
 - [[Semi-shade]][^1]
 - [[Moist soil]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Shrub]]
 - [[Evergreen]]

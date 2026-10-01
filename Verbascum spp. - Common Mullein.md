@@ -13,6 +13,11 @@ Mullein are herbaceous biennial plants with tall spikes of yellow flowers. They 
 - [[Full sun]][^2]
 - [[Well drained soil]][^2]
 
+## Outputs
+- [[Human food]][^2]
+- [[Medicinal use]][^2]
+- [[Dye]][^2]
+
 ## Type
 - [[Herb]]
 - [[Biennial]]

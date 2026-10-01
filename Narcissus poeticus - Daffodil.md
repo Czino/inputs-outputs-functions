@@ -8,6 +8,9 @@ Daffodils (Narcissus poeticus) are perennial flowering plants known for their br
 - [[Hardiness zone 6]][^2]
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Perennial]]
 ## Functions

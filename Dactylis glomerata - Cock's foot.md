@@ -13,6 +13,9 @@ Cock's foot (_Dactylis glomerata_) is an evergreen perennial grass that forms de
 - [[Semi-shade]][^1]
 - [[Moist soil]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Herb]]
 - [[Evergreen]]

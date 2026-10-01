@@ -7,6 +7,9 @@ Coyote Brush (Baccharis pilularis) is an evergreen shrub native to California, k
 - [[Hardiness zone 9]][^2]
 - [[Hardiness zone 10]][^2]
 
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Shrub]]
 - [[Evergreen]]

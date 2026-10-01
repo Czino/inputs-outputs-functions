@@ -11,6 +11,9 @@ Switchgrass (_Panicum virgatum_) is a tall perennial bunchgrass native to the [[
 - [[Well drained soil]][^1]
 - [[Moist soil]][^1]
 
+## Outputs
+- [[Fuel]][^1]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]

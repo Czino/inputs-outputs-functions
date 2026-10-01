@@ -8,6 +8,9 @@ Anagallis arvensis, or Scarlet Pimpernel, is an annual herb with small, bright r
 - [[Hardiness zone 7]][^2]
 - [[Hardiness zone 8]][^2]
 - [[Hardiness zone 9]][^2]
+## Outputs
+- [[Medicinal use]][^2]
+
 ## Type
 - [[Annual]]
 - [[Herb]]
