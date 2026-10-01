@@ -15,4 +15,8 @@ Terebinth (Pistacia terebinthus) is a deciduous tree native to dry [[Mediterrane
 - [[Tree]]
 - [[Deciduous]]
 
+## Functions
+- [[Fire resistance]][^2]
+
 [^1]: [Pistacia terebinthus | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Pistacia+terebinthus)
+[^2]: [Guia de pirojardineria](http://www.ddgi.cat/ddgi/docNivell/medi_ambient/prevencio_incendis/ca_Guia_de_pirojardineria.pdf), Diputació de Girona / Bombers de la Generalitat de Catalunya, 2020, rated "molt recomanada" (highly recommended)

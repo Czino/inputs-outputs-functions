@@ -23,5 +23,7 @@ Pomegranate (_Punica granatum_) is a deciduous shrub or small tree of the [[Medi
 ## Functions
 - [[Hedge]][^1]
 - [[Windbreak]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Punica granatum | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Punica+granatum)
+[^2]: [Guia de pirojardineria](http://www.ddgi.cat/ddgi/docNivell/medi_ambient/prevencio_incendis/ca_Guia_de_pirojardineria.pdf), Diputació de Girona / Bombers de la Generalitat de Catalunya, 2020, rated "recomanada" (recommended)
