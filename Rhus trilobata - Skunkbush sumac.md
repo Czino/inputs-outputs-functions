@@ -22,5 +22,7 @@ Skunkbush sumac (_Rhus trilobata_) is a deciduous shrub of [[Cold semi-arid (BSk
 
 ## Functions
 - [[Attracting bees]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Rhus trilobata | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Rhus+trilobata)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds

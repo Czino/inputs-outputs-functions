@@ -22,4 +22,8 @@ Quaking aspen (_Populus tremuloides_) is a fast-growing, pioneer deciduous tree 
 - [[Tree]]
 - [[Deciduous]]
 
+## Functions
+- [[Flammable]][^2]
+
 [^1]: [Populus tremuloides | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Populus+tremuloides)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time 5 seconds ("poof!")

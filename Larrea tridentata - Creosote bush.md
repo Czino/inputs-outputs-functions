@@ -19,6 +19,8 @@ Larrea tridentata, or Creosote Bush, is a shrub with small, dark green leaves an
 
 ## Functions
 - [[Copper accumulator]][^1]
+- [[Fire resistance]][^3]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
 [^2]: [Larrea tridentata | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Larrea+tridentata)
+[^3]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds, noted "low flammability"

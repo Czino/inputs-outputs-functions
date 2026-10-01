@@ -23,5 +23,7 @@ Big sagebrush (_Artemisia tridentata_) is an aromatic evergreen shrub of the [[C
 
 ## Functions
 - [[Wildlife habitat]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Artemisia tridentata | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+tridentata)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds (watered sample)

@@ -25,5 +25,7 @@ White sagebrush (_Artemisia ludoviciana_) is a perennial herb of [[Cold semi-ari
 
 ## Functions
 - [[Ground cover]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Artemisia ludoviciana | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+ludoviciana)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds (no sustained ignition)

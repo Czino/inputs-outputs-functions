@@ -28,5 +28,7 @@ Fourwing saltbush (_Atriplex canescens_) is an evergreen shrub of [[Cold semi-ar
 - [[Livestock forage]][^1]
 - [[Windbreak]][^1]
 - [[Soil stabilization]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Atriplex canescens | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Atriplex+canescens)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds
