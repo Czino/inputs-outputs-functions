@@ -7,12 +7,18 @@ White broom (_Retama monosperma_) is a deciduous, arching shrub native to [[Nort
 - [[Hardiness zone 9]][^1]
 - [[Hardiness zone 10]][^1]
 
+## Outputs
+- [[Medicinal use]][^3]
+
 ## Type
 - [[Shrub]]
 - [[Deciduous]]
 
 ## Functions
 - [[Nitrogen fixer]][^2]
+- [[Soil stabilization]][^3]
+- [[Attracting bees]][^3]
 
 [^1]: [Retama (Retama monosperma) | Backyard Gardener](https://www.backyardgardener.com/plantname/retama-monosperma-retama/)
 [^2]: [Nodulation of Retama monosperma by Ensifer aridi in an Abandoned Lead Mine Soils in Eastern Morocco | PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6663986/)
+[^3]: [Retama monosperma | Useful Temperate Plants](https://temperate.theferns.info/plant/Retama+monosperma)

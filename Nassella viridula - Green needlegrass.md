@@ -8,6 +8,9 @@ Green needlegrass (_Nassella viridula_) is a perennial bunchgrass of [[Cold semi
 - [[Semi-shade]][^1]
 - [[Full sun]][^1]
 
+## Outputs
+- [[Medicinal use]][^1]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]

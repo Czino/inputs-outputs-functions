@@ -18,7 +18,10 @@ Tipuana tipu, or Tipa, is a flowering tree native to [[South America]]. It has b
 ## Functions
 
 - [[Nitrogen fixer]][^1]
+- [[Attracting bees]][^3]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-3
 
 [^2]: [Tipuana tipu | ASU Landscape Plants](https://www.asu.edu/lib/camartin/plants/Plant%20html%20files/tipuanatipu.html) (zone 9 marginal, may freeze in coldest winters)
+
+[^3]: [Tipuana tipu | Useful Tropical Plants](https://tropical.theferns.info/viewtropical.php?id=Tipuana+tipu)
