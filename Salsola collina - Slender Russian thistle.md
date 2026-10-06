@@ -1,7 +1,7 @@
 ---
 aliases: Slender Russian thistle, Tumbleweed
 ---
-Slender Russian thistle (_Salsola collina_) is an annual, tumbleweed-forming forb of [[Cold semi-arid (BSk)|cold semi-arid]] steppe and disturbed ground across [[Asia]], its young leaves and stems eaten as an emergency food.
+Slender Russian thistle (_Salsola collina_) is an annual, tumbleweed-forming forb of [[Cold semi-arid (BSk)|cold semi-arid]] steppe and disturbed ground across [[Asia]], its young leaves and stems eaten as an emergency food, not a regular one.
 
 ## Inputs
 - [[Well drained soil]][^1]
@@ -9,7 +9,7 @@ Slender Russian thistle (_Salsola collina_) is an annual, tumbleweed-forming for
 - [[Full sun]][^1]
 
 ## Outputs
-- [[Human food]][^1]
+- [[Emergency food]][^1]
 - [[Medicinal use]][^1]
 
 ## Type

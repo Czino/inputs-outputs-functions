@@ -13,6 +13,9 @@ Meadow clary (_Salvia pratensis_) is a cold-hardy perennial herb of old chalk an
 - [[Moist soil]][^1]
 - [[Full sun]][^1]
 
+## Outputs
+- [[Human food]][^1]
+
 ## Type
 - [[Herb]]
 - [[Perennial]]

@@ -1,0 +1,1 @@
+Emergency food covers plant parts eaten only as a last resort when regular food is unavailable — typically because the part is bitter, fibrous, poorly digestible, mildly toxic raw, or otherwise unpalatable enough that it is not used as a routine food source. This is distinct from [[Human food]], which covers parts regularly eaten for nutrition under normal conditions.
