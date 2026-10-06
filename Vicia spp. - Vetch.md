@@ -13,6 +13,10 @@ Vetch includes herbaceous plants with tendrils and small purple or white flowers
 - [[Semi-shade]][^3]
 - [[Moist soil]][^3]
 
+## Outputs
+- [[Human food]][^3]
+- [[Fibre]][^3]
+
 ## Type
 - [[Herb]]
 
