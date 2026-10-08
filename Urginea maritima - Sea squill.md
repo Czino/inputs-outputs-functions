@@ -1,7 +1,7 @@
 ---
-aliases: Sea squill, Red squill, Drimia maritima
+aliases: Sea squill, Red squill
 ---
-Sea squill (_Urginea maritima_, syn. _Drimia maritima_) is a large-bulbed plant of dry, sunny ground across the [[Mediterranean climate (Csa)|Mediterranean]] region of [[Europe]]. Its bulb is poisonous and has long been used medicinally, mainly for its effect on the heart, and its red-bulbed form has been used as a traditional rat poison.
+Sea squill (_Urginea maritima_, synonym _Drimia maritima_) is a perennial bulb native to [[Mediterranean climate (Csa)|Mediterranean]] [[Europe]], found in dry sandy places near the coast. The bulb is poisonous in large doses and the fresh bulb's acrid juice can blister skin; the red-bulbed form is specifically used as a rat poison, while the white-bulbed form is used medicinally.[^1]
 
 ## Inputs
 - [[Hardiness zone 8]][^1]
@@ -14,6 +14,9 @@ Sea squill (_Urginea maritima_, syn. _Drimia maritima_) is a large-bulbed plant 
 
 ## Outputs
 - [[Medicinal use]][^1]
+
+## Type
+- [[Perennial]]
 
 ## Functions
 - [[Attracting bees]][^1]
