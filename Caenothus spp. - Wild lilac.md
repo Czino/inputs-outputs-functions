@@ -22,7 +22,6 @@ Wild Lilac, or Ceanothus, includes shrubs and small trees with clusters of small
 
 ## Type
 - [[Shrub]]
-- [[Tree]]
 - [[Deciduous]]
 
 ## Functions
