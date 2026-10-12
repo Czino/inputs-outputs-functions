@@ -3,20 +3,6 @@ aliases: Bentgrass
 ---
 Bentgrass, includes various grass species often used in lawns and golf courses due to their fine texture and tolerance to low mowing.
 
-## Inputs
-- [[Hardiness zone 3]][^2]
-- [[Hardiness zone 4]][^2]
-- [[Hardiness zone 5]][^2]
-- [[Hardiness zone 6]][^2]
-- [[Hardiness zone 7]][^2]
-- [[Hardiness zone 8]][^2]
-- [[Hardiness zone 9]][^2]
-- [[Hardiness zone 10]][^2]
-- [[Full sun]][^2]
-- [[Semi-shade]][^2]
-- [[Moist soil]][^2]
-- [[Wet soil]][^2]
-
 ## Type
 - [[Herb]]
 - [[Evergreen]]

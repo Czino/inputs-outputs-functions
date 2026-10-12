@@ -3,16 +3,6 @@ aliases: Broom
 ---
 Broom are shrubs with bright yellow flowers. They are used ornamentally for their attractive blooms and in landscaping for soil stabilization. Some species are invasive in certain areas.
 
-## Inputs
-- [[Hardiness zone 5]][^2]
-- [[Hardiness zone 6]][^2]
-- [[Hardiness zone 7]][^2]
-- [[Hardiness zone 8]][^2]
-- [[Full sun]][^2]
-- [[Semi-shade]][^2]
-- [[Well drained soil]][^2]
-- [[Moist soil]][^2]
-
 ## Outputs
 - [[Human food]][^2]
 - [[Medicinal use]][^2]
