@@ -1,7 +1,8 @@
 ---
 aliases: Sainfoin
+height-m: "0.2-0.9"
 ---
-Sainfoin (Onobrychis viciifolia) is a perennial nitrogen-fixing legume with a deep taproot, grown as forage and a soil-building cover crop on poor, dry, chalky, or alkaline soils.
+Sainfoin (Onobrychis viciifolia) is a perennial nitrogen-fixing legume with a deep taproot, grown as forage and a soil-building cover crop on poor, dry, chalky, or alkaline soils. It grows 0.2-0.9 m tall.[^2]
 
 ## Inputs
 - [[Hardiness zone 5]][^1]
@@ -23,3 +24,4 @@ Sainfoin (Onobrychis viciifolia) is a perennial nitrogen-fixing legume with a de
 - [[Wildlife habitat]][^1]
 
 [^1]: [Onobrychis viciifolia | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Onobrychis+viciifolia)
+[^2]: [Sainfoin | USDA NRCS Plant Guide](https://www.nrcs.usda.gov/plantmaterials/idpmcpg7792.pdf)

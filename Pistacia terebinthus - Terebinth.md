@@ -1,7 +1,8 @@
 ---
 aliases: Terebinth
+height-m: "up to 5"
 ---
-Terebinth (Pistacia terebinthus) is a deciduous tree native to dry [[Mediterranean]] scrub and woodland. Its seeds are eaten raw or cooked and pressed for oil, and the trunk is tapped for Cyprus turpentine resin. It is also used as a rootstock for [[Pistacia spp. - Pistachio|pistachio]].
+Terebinth (Pistacia terebinthus) is a deciduous tree native to dry [[Mediterranean]] scrub and woodland. Its seeds are eaten raw or cooked and pressed for oil, and the trunk is tapped for Cyprus turpentine resin. It is also used as a rootstock for [[Pistacia spp. - Pistachio|pistachio]]. It can reach 5 m tall.[^3]
 
 ## Inputs
 - [[Hardiness zone 8]][^1]
@@ -20,3 +21,4 @@ Terebinth (Pistacia terebinthus) is a deciduous tree native to dry [[Mediterrane
 
 [^1]: [Pistacia terebinthus | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Pistacia+terebinthus)
 [^2]: [Guia de pirojardineria](http://www.ddgi.cat/ddgi/docNivell/medi_ambient/prevencio_incendis/ca_Guia_de_pirojardineria.pdf), Diputació de Girona / Bombers de la Generalitat de Catalunya, 2020, rated "molt recomanada" (highly recommended)
+[^3]: [Pistacia terebinthus | Diputación de Toledo](https://www.diputoledo.es/global/ver-pdf/34063)
