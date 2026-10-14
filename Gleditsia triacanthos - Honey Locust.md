@@ -1,7 +1,7 @@
 ---
 aliases: Honey Locust
 ---
-Honey Locust (Gleditsia triacanthos) is a deciduous tree known for its feathery foliage and long seed pods. The pods contain sweet pulp used as animal fodder. Honey locust trees are also used in landscaping for their shade and as nitrogen-fixing plants to improve soil fertility.
+Honey Locust (Gleditsia triacanthos) is a deciduous tree known for its feathery foliage and long seed pods. The pods contain sweet pulp used as animal fodder. Honey locust trees are also used in landscaping for their shade. Despite belonging to the legume family, honey locust does not form root nodules and does not fix nitrogen.[^3]
 
 ## Inputs
 - [[Hardiness zone 4]][^3]
