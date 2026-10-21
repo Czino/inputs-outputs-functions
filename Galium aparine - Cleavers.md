@@ -21,6 +21,7 @@ Cleavers (_Galium aparine_) is an annual herb native to [[Europe|Europe]], with 
 ## Outputs
 - [[Medicinal use]][^1]
 - [[Dye]][^1]
+- [[Human food]][^1]
 
 ## Type
 - [[Herb]]

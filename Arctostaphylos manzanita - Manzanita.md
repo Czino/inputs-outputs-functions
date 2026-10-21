@@ -16,6 +16,6 @@ Manzanita (Arctostaphylos manzanita) is an evergreen shrub or small tree native 
 ## Type
 - [[Shrub]]
 - [[Evergreen]]
-- [[Arctostaphyllos spp. - Manzanita]]
+- [[Arctostaphylos spp. - Manzanita]]
 
 [^1]: [Arctostaphylos manzanita | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Arctostaphylos+manzanita)

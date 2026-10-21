@@ -20,7 +20,7 @@ Fendler's ceanothus (_Ceanothus fendleri_) is a deciduous shrub of [[Cold semi-a
 - [[Dye]][^1]
 
 ## Type
-- [[Caenothus spp. - Wild lilac]]
+- [[Ceanothus spp. - Wild lilac]]
 - [[Shrub]]
 - [[Deciduous]]
 

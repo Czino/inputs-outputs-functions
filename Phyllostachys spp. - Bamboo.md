@@ -20,7 +20,7 @@ Bamboo species, predominantly found in tropical and subtropical regions, are cru
 - [[Human food]][^2]
 ## Functions
 - [[Poop beast]]
-- - [[Attracting beneficial insects]][^2]
+- [[Attracting beneficial insects]][^2]
 ## Type
 - [[Evergreen]][^3]
 
