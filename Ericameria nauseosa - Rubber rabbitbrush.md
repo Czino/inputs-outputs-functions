@@ -21,5 +21,7 @@ Rubber rabbitbrush (_Ericameria nauseosa_) is an evergreen shrub of the [[Cold s
 
 ## Functions
 - [[Wildlife habitat]][^1]
+- [[Fire resistance]][^2]
 
 [^1]: [Ericameria nauseosa | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Ericameria+nauseosa)
+[^2]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds

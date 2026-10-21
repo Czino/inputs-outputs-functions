@@ -1,7 +1,7 @@
 ---
-aliases: Eastern Bracken
+aliases: Eastern bracken, Bracken fern
 ---
-Pteridium aquifolium, commonly called Eastern Bracken, is a type of fern. It is toxic if not properly prepared, but young shoots can be eaten after thorough cooking.
+Pteridium aquilinum, commonly called Eastern bracken, is a type of fern. It is toxic if not properly prepared, but young shoots can be eaten after thorough cooking.
 ## Inputs
 - [[Hardiness zone 4]][^2]
 - [[Hardiness zone 5]][^2]
@@ -22,6 +22,8 @@ Pteridium aquifolium, commonly called Eastern Bracken, is a type of fern. It is 
 - [[Iron accumulator]][^1]
 - [[Copper accumulator]][^1]
 - [[Zinc accumulator]][^1]
+- [[Fire resistance]][^3]
 
 [^1]: [[Gaia's Garden - A Guide to Home-Scale Permaculture, 2nd Edition]] Table 6-2
 [^2]: [Pteridium aquilinum | Plants for a Future](https://pfaf.org/user/Plant.aspx?LatinName=Pteridium+aquilinum)
+[^3]: [Leaf burn times of California native plants](https://www.laspilitas.com/classes/fire_burn_times.html), Las Pilitas Nursery, 2005 propane-torch ignition trial, live-leaf ignition time >60 seconds
