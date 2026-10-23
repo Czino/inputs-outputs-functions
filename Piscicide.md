@@ -1,0 +1,1 @@
+A piscicide is a plant material, typically containing saponins or other compounds toxic to fish, that stuns or kills fish when crushed into water, traditionally used to make fish easy to catch. It is harmful to aquatic life, so it should not be used near waterways that matter for wildlife.
