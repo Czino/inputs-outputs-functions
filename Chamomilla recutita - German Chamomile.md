@@ -11,6 +11,7 @@ Chamomilla recutita, or German Chamomile, is a fragrant herb with small, daisy-l
 ## Outputs
 - [[Human food]][^2]
 - [[Dye]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Annual]]

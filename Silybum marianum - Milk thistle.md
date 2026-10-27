@@ -11,6 +11,7 @@ Milk thistle (_Silybum marianum_) is a spiny biennial herb native to the [[Medit
 
 ## Outputs
 - [[Human food]][^1]
+- [[Medicinal use]][^1]
 
 ## Type
 - [[Herb]]

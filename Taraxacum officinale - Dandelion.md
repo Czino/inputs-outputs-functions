@@ -14,6 +14,7 @@ Dandelion (Taraxacum officinale) is a common perennial herb with yellow flowers,
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]]
+- [[Medicinal use]][^2]
 ## Type
 - [[Taraxacum spp. - Dandelion]]
 - [[Herb]]

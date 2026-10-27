@@ -16,6 +16,7 @@ Dock is a genus of perennial herbs known for their large, edible leaves that are
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Herb]]

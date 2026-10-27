@@ -14,6 +14,7 @@ Capsella bursa-pastoris, or Shepherd's Purse, is an annual or biennial herb with
 - [[Iron]][^2]
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 ## Type
 - [[Annual]]
 - [[Biennial]]

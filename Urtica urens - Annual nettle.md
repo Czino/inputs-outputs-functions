@@ -6,6 +6,7 @@ Annual nettle (_Urtica urens_) is a smaller, annual relative of [[Urtica dioica 
 ## Outputs
 - [[Human food]][^3]
 - [[Poultry forage]][^1]
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Herb]][^3]

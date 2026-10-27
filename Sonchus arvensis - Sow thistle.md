@@ -5,6 +5,7 @@ Sonchus arvensis, or Sow Thistle, is a perennial herb with lobed leaves and yell
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Herb]]

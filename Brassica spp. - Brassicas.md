@@ -15,6 +15,7 @@ Brassicas (_Brassica_ spp.) are a genus of plants that includes mustard, known f
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]] (leaves and flowers)
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Herb]]

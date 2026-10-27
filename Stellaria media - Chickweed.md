@@ -16,6 +16,7 @@ Chickweed (Stellaria media) is a low-growing annual herb known for its small whi
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]]
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Herb]]

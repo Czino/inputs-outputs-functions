@@ -15,6 +15,7 @@ Comfrey (Symphytum officinale) is a perennial herb known for its large, hairy le
 ## Outputs
 - [[Allantoin]]
 - [[Poultry forage]][^1]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Perennial]]

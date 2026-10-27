@@ -12,6 +12,7 @@ Amur cork tree (Phellodendron amurense) is a deciduous tree known for its thick,
 
 ## Outputs
 - [[Winter fruits for birds]][^1]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Tree]]

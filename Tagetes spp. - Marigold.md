@@ -14,6 +14,7 @@ Marigold includes vibrant flowering plants with bright orange or yellow blooms. 
 
 ## Outputs
 - [[Human food]][^2]
+- [[Medicinal use]][^2]
 
 ## Type
 - [[Herb]]

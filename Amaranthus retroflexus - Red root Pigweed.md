@@ -13,6 +13,7 @@ Redroot Pigweed (Amaranthus retroflexus) is an annual herb known for its edible 
 ## Outputs
 - [[Poultry forage]][^1]
 - [[Human food]]
+- [[Medicinal use]][^3]
 
 ## Type
 - [[Herb]]
